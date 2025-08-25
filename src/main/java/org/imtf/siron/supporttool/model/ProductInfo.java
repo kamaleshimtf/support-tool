@@ -1,8 +1,8 @@
-package org.imtf.siron.supporttool.model;
+package com.imtf.cstool.supporttool.model;
 
 import java.util.List;
 
-public class SironProductInfo {
+public class ProductInfo {
 
     private String productName;
     private List<String> clientIds;

@@ -1,17 +1,18 @@
-package org.imtf.siron.supporttool.model;
+package com.imtf.cstool.supporttool.model;
 
 public class ErrorResponse {
 
-    private String errorMessage;
+    private String message;
 
-    public ErrorResponse(String errorMessage) {
-        this.errorMessage = errorMessage;
+    public String getMessage() {
+        return message;
+    }
+    public void setMessage(String message) {
+        this.message = message;
     }
 
-    public String getError() {
-        return errorMessage;
+    public ErrorResponse(String message) {
+        this.message = message;
     }
-
-    public ErrorResponse() {
-    }
+    public ErrorResponse() {}
 }
