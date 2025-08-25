@@ -1,0 +1,490 @@
+------------------
+------------------
+------------------
+os name Microsoft Windows 11 build 26100
+cpu cores 10 CPU(s)
+cpu core 0 type LogicalProcessor [processorNumber=0, coreNumber=0, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 1 type LogicalProcessor [processorNumber=1, coreNumber=1, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 2 type LogicalProcessor [processorNumber=2, coreNumber=2, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 3 type LogicalProcessor [processorNumber=3, coreNumber=3, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 4 type LogicalProcessor [processorNumber=4, coreNumber=4, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 5 type LogicalProcessor [processorNumber=5, coreNumber=5, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 6 type LogicalProcessor [processorNumber=6, coreNumber=6, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 7 type LogicalProcessor [processorNumber=7, coreNumber=7, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 8 type LogicalProcessor [processorNumber=8, coreNumber=8, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 9 type LogicalProcessor [processorNumber=9, coreNumber=9, packageNumber=0, numaNode=0, processorGroup=0]
+ram total 32.0 GiB
+ram available 17.7 GiB
+File system roots returned byFileSystemView.getFileSystemView(): 
+Root:  C:\Users\root\Desktop
+Home directory:  C:\Users\root\Desktop
+File system roots returned by File.listRoots(): 
+Drive:  Z:\
+Display name:  Network Drive (Z:)
+Is drive:  true
+Is floppy:  false
+Readable:  true
+Writable:  true
+Total space:  85123395584
+Usable space:  10690719744
+computername WIN-757IIQ81V3D
+getAddress 192.168.64.8
+getCanonicalHostName WIN-757IIQ81V3D
+getHostAddress 192.168.64.8
+isLoopbackAddress false
+jvm cores 10
+jvm free memory (bytes) 48763376
+jvm maximum memory (bytes):  8589934592
+jvm total memory (bytes):  197132288
+classworlds.conf :C:\Program Files\JetBrains\IntelliJ IDEA 2025.1.3\plugins\maven\lib\maven3\bin\m2.conf
+debug :59552
+dev.resteasy.exception.mapper :false
+file.encoding :Cp1252
+file.separator :\
+guice.disable.misplaced.annotation.check :true
+idea.version :2025.1.3
+io.netty.allocator.disableCacheFinalizersForFastThreadLocalThreads :true
+io.netty.allocator.maxOrder :3
+io.netty.machineId :78:21:45:3a:e7:57:b7:7a
+io.quarkus.security.http.test-if-basic-auth-implicitly-required :true
+jansi.passthrough :true
+java.class.path :C:\Users\root\Desktop\support-tool\support-tool\target\siron-support-tool-dev.jar
+java.class.version :61.0
+java.home :C:\Users\root\.jdks\ms-17.0.15
+java.io.tmpdir :C:\Users\root\AppData\Local\Temp\
+java.library.path :C:\Users\root\.jdks\ms-17.0.15\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\cloudflared\;C:\ngrok\;C:\Users\root\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Tools\Gradle\gradle-8.14.2-bin\gradle-8.14.2\bin;C:\Program Files\Apache Software Foundation\apache-maven-3.9.10\bin;;.
+java.nio.channels.DefaultThreadPool.threadFactory :io.quarkus.dev.io.NioThreadPoolThreadFactory
+java.runtime.name :OpenJDK Runtime Environment
+java.runtime.version :17.0.15+6-LTS
+java.specification.maintenance.version :1
+java.specification.name :Java Platform API Specification
+java.specification.vendor :Oracle Corporation
+java.specification.version :17
+java.util.concurrent.ForkJoinPool.common.threadFactory :io.quarkus.bootstrap.forkjoin.QuarkusForkJoinWorkerThreadFactory
+java.util.logging.manager :org.jboss.logmanager.LogManager
+java.vendor :Microsoft
+java.vendor.url :https://www.microsoft.com
+java.vendor.url.bug :https://github.com/microsoft/openjdk/issues
+java.vendor.version :Microsoft-11369866
+java.version :17.0.15
+java.version.date :2025-04-15
+java.vm.compressedOopsMode :Zero based
+java.vm.info :mixed mode, emulated-client, sharing
+java.vm.name :OpenJDK 64-Bit Server VM
+java.vm.specification.name :Java Virtual Machine Specification
+java.vm.specification.vendor :Oracle Corporation
+java.vm.specification.version :17
+java.vm.vendor :Microsoft
+java.vm.version :17.0.15+6-LTS
+jboss.log-version :false
+jdk.console :java.base
+jdk.debug :release
+jna.loaded :true
+jnidispatch.path :C:\Users\root\AppData\Local\Temp\jna-3506402\jna3987319008618552472.dll
+logging.initial-configurator.min-level :500
+maven.conf :C:/Program Files/JetBrains/IntelliJ IDEA 2025.1.3/plugins/maven/lib/maven3/conf
+maven.home :C:\Program Files\JetBrains\IntelliJ IDEA 2025.1.3\plugins\maven\lib\maven3
+maven.multiModuleProjectDirectory :C:\Users\root\Desktop\support-tool\support-tool
+native.encoding :Cp1252
+os.arch :aarch64
+os.name :Windows 11
+os.version :10.0
+path.separator :;
+quarkus-internal.serialized-app-model.path :C:\Users\root\Desktop\support-tool\support-tool\target\quarkus\bootstrap\dev-app-model.dat
+sun.arch.data.model :64
+sun.awt.enableExtraMouseButtons :true
+sun.boot.library.path :C:\Users\root\.jdks\ms-17.0.15\bin
+sun.cpu.endian :little
+sun.io.unicode.encoding :UnicodeLittle
+sun.java.command :C:\Users\root\Desktop\support-tool\support-tool\target\siron-support-tool-dev.jar
+sun.java.launcher :SUN_STANDARD
+sun.jnu.encoding :Cp1252
+sun.management.compiler :HotSpot 64-Bit Tiered Compilers
+sun.os.patch.level :
+user.country :GB
+user.dir :C:\Users\root\Desktop\support-tool\support-tool
+user.home :C:\Users\root
+user.language :en
+user.name :root
+user.script :
+user.timezone :Europe/London
+user.variant :
+vertx.disableDnsResolver :true
+vertx.disableTCCL :true
+vertx.disableWebsockets :true
+vertx.logger-delegate-factory-class-name :io.quarkus.vertx.core.runtime.VertxLogDelegateFactory
+vertxweb.environment :dev
+------------------
+ORACLE_HOME=null
+ANT_HOME=null
+JAVA_HOME=C:\Program Files\Java\jdk-17
+JAVA_OPTS=null
+NLS_LANG=null
+NLS_SORT=null
+DB2CODEPAGE=null
+------------------
+os name Microsoft Windows 11 build 26100
+cpu cores 10 CPU(s)
+cpu core 0 type LogicalProcessor [processorNumber=0, coreNumber=0, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 1 type LogicalProcessor [processorNumber=1, coreNumber=1, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 2 type LogicalProcessor [processorNumber=2, coreNumber=2, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 3 type LogicalProcessor [processorNumber=3, coreNumber=3, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 4 type LogicalProcessor [processorNumber=4, coreNumber=4, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 5 type LogicalProcessor [processorNumber=5, coreNumber=5, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 6 type LogicalProcessor [processorNumber=6, coreNumber=6, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 7 type LogicalProcessor [processorNumber=7, coreNumber=7, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 8 type LogicalProcessor [processorNumber=8, coreNumber=8, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 9 type LogicalProcessor [processorNumber=9, coreNumber=9, packageNumber=0, numaNode=0, processorGroup=0]
+ram total 32.0 GiB
+ram available 17.6 GiB
+File system roots returned byFileSystemView.getFileSystemView(): 
+Root:  C:\Users\root\Desktop
+Home directory:  C:\Users\root\Desktop
+File system roots returned by File.listRoots(): 
+Drive:  Z:\
+Display name:  Network Drive (Z:)
+Is drive:  true
+Is floppy:  false
+Readable:  true
+Writable:  true
+Total space:  85123395584
+Usable space:  10688909312
+computername WIN-757IIQ81V3D
+getAddress 192.168.64.8
+getCanonicalHostName WIN-757IIQ81V3D
+getHostAddress 192.168.64.8
+isLoopbackAddress false
+jvm cores 10
+jvm free memory (bytes) 139192896
+jvm maximum memory (bytes):  8589934592
+jvm total memory (bytes):  293601280
+classworlds.conf :C:\Program Files\JetBrains\IntelliJ IDEA 2025.1.3\plugins\maven\lib\maven3\bin\m2.conf
+debug :59552
+dev.resteasy.exception.mapper :false
+file.encoding :Cp1252
+file.separator :\
+guice.disable.misplaced.annotation.check :true
+idea.version :2025.1.3
+io.netty.allocator.disableCacheFinalizersForFastThreadLocalThreads :true
+io.netty.allocator.maxOrder :3
+io.netty.machineId :04:53:c4:cb:3b:7c:7f:ab
+io.quarkus.security.http.test-if-basic-auth-implicitly-required :true
+jansi.passthrough :true
+java.class.path :C:\Users\root\Desktop\support-tool\support-tool\target\siron-support-tool-dev.jar
+java.class.version :61.0
+java.home :C:\Users\root\.jdks\ms-17.0.15
+java.io.tmpdir :C:\Users\root\AppData\Local\Temp\
+java.library.path :C:\Users\root\.jdks\ms-17.0.15\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\cloudflared\;C:\ngrok\;C:\Users\root\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Tools\Gradle\gradle-8.14.2-bin\gradle-8.14.2\bin;C:\Program Files\Apache Software Foundation\apache-maven-3.9.10\bin;;.
+java.nio.channels.DefaultThreadPool.threadFactory :io.quarkus.dev.io.NioThreadPoolThreadFactory
+java.runtime.name :OpenJDK Runtime Environment
+java.runtime.version :17.0.15+6-LTS
+java.specification.maintenance.version :1
+java.specification.name :Java Platform API Specification
+java.specification.vendor :Oracle Corporation
+java.specification.version :17
+java.util.concurrent.ForkJoinPool.common.threadFactory :io.quarkus.bootstrap.forkjoin.QuarkusForkJoinWorkerThreadFactory
+java.util.logging.manager :org.jboss.logmanager.LogManager
+java.vendor :Microsoft
+java.vendor.url :https://www.microsoft.com
+java.vendor.url.bug :https://github.com/microsoft/openjdk/issues
+java.vendor.version :Microsoft-11369866
+java.version :17.0.15
+java.version.date :2025-04-15
+java.vm.compressedOopsMode :Zero based
+java.vm.info :mixed mode, emulated-client, sharing
+java.vm.name :OpenJDK 64-Bit Server VM
+java.vm.specification.name :Java Virtual Machine Specification
+java.vm.specification.vendor :Oracle Corporation
+java.vm.specification.version :17
+java.vm.vendor :Microsoft
+java.vm.version :17.0.15+6-LTS
+jboss.log-version :false
+jdk.console :java.base
+jdk.debug :release
+jna.loaded :true
+jnidispatch.path :C:\Users\root\AppData\Local\Temp\jna-3506402\jna3987319008618552472.dll
+logging.initial-configurator.min-level :500
+maven.conf :C:/Program Files/JetBrains/IntelliJ IDEA 2025.1.3/plugins/maven/lib/maven3/conf
+maven.home :C:\Program Files\JetBrains\IntelliJ IDEA 2025.1.3\plugins\maven\lib\maven3
+maven.multiModuleProjectDirectory :C:\Users\root\Desktop\support-tool\support-tool
+native.encoding :Cp1252
+os.arch :aarch64
+os.name :Windows 11
+os.version :10.0
+path.separator :;
+quarkus-internal.serialized-app-model.path :C:\Users\root\Desktop\support-tool\support-tool\target\quarkus\bootstrap\dev-app-model.dat
+sun.arch.data.model :64
+sun.awt.enableExtraMouseButtons :true
+sun.boot.library.path :C:\Users\root\.jdks\ms-17.0.15\bin
+sun.cpu.endian :little
+sun.io.unicode.encoding :UnicodeLittle
+sun.java.command :C:\Users\root\Desktop\support-tool\support-tool\target\siron-support-tool-dev.jar
+sun.java.launcher :SUN_STANDARD
+sun.jnu.encoding :Cp1252
+sun.management.compiler :HotSpot 64-Bit Tiered Compilers
+sun.os.patch.level :
+user.country :GB
+user.dir :C:\Users\root\Desktop\support-tool\support-tool
+user.home :C:\Users\root
+user.language :en
+user.name :root
+user.script :
+user.timezone :Europe/London
+user.variant :
+vertx.disableDnsResolver :true
+vertx.disableTCCL :true
+vertx.disableWebsockets :true
+vertx.logger-delegate-factory-class-name :io.quarkus.vertx.core.runtime.VertxLogDelegateFactory
+vertxweb.environment :dev
+------------------
+ORACLE_HOME=null
+ANT_HOME=null
+JAVA_HOME=C:\Program Files\Java\jdk-17
+JAVA_OPTS=null
+NLS_LANG=null
+NLS_SORT=null
+DB2CODEPAGE=null
+------------------
+os name Microsoft Windows 11 build 26100
+cpu cores 10 CPU(s)
+cpu core 0 type LogicalProcessor [processorNumber=0, coreNumber=0, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 1 type LogicalProcessor [processorNumber=1, coreNumber=1, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 2 type LogicalProcessor [processorNumber=2, coreNumber=2, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 3 type LogicalProcessor [processorNumber=3, coreNumber=3, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 4 type LogicalProcessor [processorNumber=4, coreNumber=4, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 5 type LogicalProcessor [processorNumber=5, coreNumber=5, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 6 type LogicalProcessor [processorNumber=6, coreNumber=6, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 7 type LogicalProcessor [processorNumber=7, coreNumber=7, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 8 type LogicalProcessor [processorNumber=8, coreNumber=8, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 9 type LogicalProcessor [processorNumber=9, coreNumber=9, packageNumber=0, numaNode=0, processorGroup=0]
+ram total 32.0 GiB
+ram available 17.6 GiB
+File system roots returned byFileSystemView.getFileSystemView(): 
+Root:  C:\Users\root\Desktop
+Home directory:  C:\Users\root\Desktop
+File system roots returned by File.listRoots(): 
+Drive:  Z:\
+Display name:  Network Drive (Z:)
+Is drive:  true
+Is floppy:  false
+Readable:  true
+Writable:  true
+Total space:  85123395584
+Usable space:  10660556800
+computername WIN-757IIQ81V3D
+getAddress 192.168.64.8
+getCanonicalHostName WIN-757IIQ81V3D
+getHostAddress 192.168.64.8
+isLoopbackAddress false
+jvm cores 10
+jvm free memory (bytes) 46048536
+jvm maximum memory (bytes):  8589934592
+jvm total memory (bytes):  197132288
+classworlds.conf :C:\Program Files\JetBrains\IntelliJ IDEA 2025.1.3\plugins\maven\lib\maven3\bin\m2.conf
+debug :59638
+dev.resteasy.exception.mapper :false
+file.encoding :Cp1252
+file.separator :\
+guice.disable.misplaced.annotation.check :true
+idea.version :2025.1.3
+io.netty.allocator.disableCacheFinalizersForFastThreadLocalThreads :true
+io.netty.allocator.maxOrder :3
+io.netty.machineId :ae:01:ef:71:ac:1c:1a:3c
+io.quarkus.security.http.test-if-basic-auth-implicitly-required :true
+jansi.passthrough :true
+java.class.path :C:\Users\root\Desktop\support-tool\support-tool\target\siron-support-tool-dev.jar
+java.class.version :61.0
+java.home :C:\Users\root\.jdks\ms-17.0.15
+java.io.tmpdir :C:\Users\root\AppData\Local\Temp\
+java.library.path :C:\Users\root\.jdks\ms-17.0.15\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\cloudflared\;C:\ngrok\;C:\Users\root\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Tools\Gradle\gradle-8.14.2-bin\gradle-8.14.2\bin;C:\Program Files\Apache Software Foundation\apache-maven-3.9.10\bin;;.
+java.nio.channels.DefaultThreadPool.threadFactory :io.quarkus.dev.io.NioThreadPoolThreadFactory
+java.runtime.name :OpenJDK Runtime Environment
+java.runtime.version :17.0.15+6-LTS
+java.specification.maintenance.version :1
+java.specification.name :Java Platform API Specification
+java.specification.vendor :Oracle Corporation
+java.specification.version :17
+java.util.concurrent.ForkJoinPool.common.threadFactory :io.quarkus.bootstrap.forkjoin.QuarkusForkJoinWorkerThreadFactory
+java.util.logging.manager :org.jboss.logmanager.LogManager
+java.vendor :Microsoft
+java.vendor.url :https://www.microsoft.com
+java.vendor.url.bug :https://github.com/microsoft/openjdk/issues
+java.vendor.version :Microsoft-11369866
+java.version :17.0.15
+java.version.date :2025-04-15
+java.vm.compressedOopsMode :Zero based
+java.vm.info :mixed mode, emulated-client, sharing
+java.vm.name :OpenJDK 64-Bit Server VM
+java.vm.specification.name :Java Virtual Machine Specification
+java.vm.specification.vendor :Oracle Corporation
+java.vm.specification.version :17
+java.vm.vendor :Microsoft
+java.vm.version :17.0.15+6-LTS
+jboss.log-version :false
+jdk.console :java.base
+jdk.debug :release
+jna.loaded :true
+jnidispatch.path :C:\Users\root\AppData\Local\Temp\jna-3506402\jna7559192635708364333.dll
+logging.initial-configurator.min-level :500
+maven.conf :C:/Program Files/JetBrains/IntelliJ IDEA 2025.1.3/plugins/maven/lib/maven3/conf
+maven.home :C:\Program Files\JetBrains\IntelliJ IDEA 2025.1.3\plugins\maven\lib\maven3
+maven.multiModuleProjectDirectory :C:\Users\root\Desktop\support-tool\support-tool
+native.encoding :Cp1252
+os.arch :aarch64
+os.name :Windows 11
+os.version :10.0
+path.separator :;
+quarkus-internal.serialized-app-model.path :C:\Users\root\Desktop\support-tool\support-tool\target\quarkus\bootstrap\dev-app-model.dat
+sun.arch.data.model :64
+sun.awt.enableExtraMouseButtons :true
+sun.boot.library.path :C:\Users\root\.jdks\ms-17.0.15\bin
+sun.cpu.endian :little
+sun.io.unicode.encoding :UnicodeLittle
+sun.java.command :C:\Users\root\Desktop\support-tool\support-tool\target\siron-support-tool-dev.jar
+sun.java.launcher :SUN_STANDARD
+sun.jnu.encoding :Cp1252
+sun.management.compiler :HotSpot 64-Bit Tiered Compilers
+sun.os.patch.level :
+user.country :GB
+user.dir :C:\Users\root\Desktop\support-tool\support-tool
+user.home :C:\Users\root
+user.language :en
+user.name :root
+user.script :
+user.timezone :Europe/London
+user.variant :
+vertx.disableDnsResolver :true
+vertx.disableTCCL :true
+vertx.disableWebsockets :true
+vertx.logger-delegate-factory-class-name :io.quarkus.vertx.core.runtime.VertxLogDelegateFactory
+vertxweb.environment :dev
+------------------
+ORACLE_HOME=null
+ANT_HOME=null
+JAVA_HOME=C:\Program Files\Java\jdk-17
+JAVA_OPTS=null
+NLS_LANG=null
+NLS_SORT=null
+DB2CODEPAGE=null
+------------------
+os name Microsoft Windows 11 build 26100
+cpu cores 10 CPU(s)
+cpu core 0 type LogicalProcessor [processorNumber=0, coreNumber=0, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 1 type LogicalProcessor [processorNumber=1, coreNumber=1, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 2 type LogicalProcessor [processorNumber=2, coreNumber=2, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 3 type LogicalProcessor [processorNumber=3, coreNumber=3, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 4 type LogicalProcessor [processorNumber=4, coreNumber=4, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 5 type LogicalProcessor [processorNumber=5, coreNumber=5, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 6 type LogicalProcessor [processorNumber=6, coreNumber=6, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 7 type LogicalProcessor [processorNumber=7, coreNumber=7, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 8 type LogicalProcessor [processorNumber=8, coreNumber=8, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 9 type LogicalProcessor [processorNumber=9, coreNumber=9, packageNumber=0, numaNode=0, processorGroup=0]
+ram total 32.0 GiB
+ram available 17.6 GiB
+File system roots returned byFileSystemView.getFileSystemView(): 
+Root:  C:\Users\root\Desktop
+Home directory:  C:\Users\root\Desktop
+File system roots returned by File.listRoots(): 
+Drive:  Z:\
+Display name:  Network Drive (Z:)
+Is drive:  true
+Is floppy:  false
+Readable:  true
+Writable:  true
+Total space:  85123395584
+Usable space:  10659319808
+computername WIN-757IIQ81V3D
+getAddress 192.168.64.8
+getCanonicalHostName WIN-757IIQ81V3D
+getHostAddress 192.168.64.8
+isLoopbackAddress false
+jvm cores 10
+jvm free memory (bytes) 45381096
+jvm maximum memory (bytes):  8589934592
+jvm total memory (bytes):  197132288
+classworlds.conf :C:\Program Files\JetBrains\IntelliJ IDEA 2025.1.3\plugins\maven\lib\maven3\bin\m2.conf
+debug :59662
+dev.resteasy.exception.mapper :false
+file.encoding :Cp1252
+file.separator :\
+guice.disable.misplaced.annotation.check :true
+idea.version :2025.1.3
+io.netty.allocator.disableCacheFinalizersForFastThreadLocalThreads :true
+io.netty.allocator.maxOrder :3
+io.netty.machineId :f5:46:9b:3d:92:e0:c1:cb
+io.quarkus.security.http.test-if-basic-auth-implicitly-required :true
+jansi.passthrough :true
+java.class.path :C:\Users\root\Desktop\support-tool\support-tool\target\siron-support-tool-dev.jar
+java.class.version :61.0
+java.home :C:\Users\root\.jdks\ms-17.0.15
+java.io.tmpdir :C:\Users\root\AppData\Local\Temp\
+java.library.path :C:\Users\root\.jdks\ms-17.0.15\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\cloudflared\;C:\ngrok\;C:\Users\root\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Tools\Gradle\gradle-8.14.2-bin\gradle-8.14.2\bin;C:\Program Files\Apache Software Foundation\apache-maven-3.9.10\bin;;.
+java.nio.channels.DefaultThreadPool.threadFactory :io.quarkus.dev.io.NioThreadPoolThreadFactory
+java.runtime.name :OpenJDK Runtime Environment
+java.runtime.version :17.0.15+6-LTS
+java.specification.maintenance.version :1
+java.specification.name :Java Platform API Specification
+java.specification.vendor :Oracle Corporation
+java.specification.version :17
+java.util.concurrent.ForkJoinPool.common.threadFactory :io.quarkus.bootstrap.forkjoin.QuarkusForkJoinWorkerThreadFactory
+java.util.logging.manager :org.jboss.logmanager.LogManager
+java.vendor :Microsoft
+java.vendor.url :https://www.microsoft.com
+java.vendor.url.bug :https://github.com/microsoft/openjdk/issues
+java.vendor.version :Microsoft-11369866
+java.version :17.0.15
+java.version.date :2025-04-15
+java.vm.compressedOopsMode :Zero based
+java.vm.info :mixed mode, emulated-client, sharing
+java.vm.name :OpenJDK 64-Bit Server VM
+java.vm.specification.name :Java Virtual Machine Specification
+java.vm.specification.vendor :Oracle Corporation
+java.vm.specification.version :17
+java.vm.vendor :Microsoft
+java.vm.version :17.0.15+6-LTS
+jboss.log-version :false
+jdk.console :java.base
+jdk.debug :release
+jna.loaded :true
+jnidispatch.path :C:\Users\root\AppData\Local\Temp\jna-3506402\jna10545217389075572017.dll
+logging.initial-configurator.min-level :500
+maven.conf :C:/Program Files/JetBrains/IntelliJ IDEA 2025.1.3/plugins/maven/lib/maven3/conf
+maven.home :C:\Program Files\JetBrains\IntelliJ IDEA 2025.1.3\plugins\maven\lib\maven3
+maven.multiModuleProjectDirectory :C:\Users\root\Desktop\support-tool\support-tool
+native.encoding :Cp1252
+os.arch :aarch64
+os.name :Windows 11
+os.version :10.0
+path.separator :;
+quarkus-internal.serialized-app-model.path :C:\Users\root\Desktop\support-tool\support-tool\target\quarkus\bootstrap\dev-app-model.dat
+sun.arch.data.model :64
+sun.awt.enableExtraMouseButtons :true
+sun.boot.library.path :C:\Users\root\.jdks\ms-17.0.15\bin
+sun.cpu.endian :little
+sun.io.unicode.encoding :UnicodeLittle
+sun.java.command :C:\Users\root\Desktop\support-tool\support-tool\target\siron-support-tool-dev.jar
+sun.java.launcher :SUN_STANDARD
+sun.jnu.encoding :Cp1252
+sun.management.compiler :HotSpot 64-Bit Tiered Compilers
+sun.os.patch.level :
+user.country :GB
+user.dir :C:\Users\root\Desktop\support-tool\support-tool
+user.home :C:\Users\root
+user.language :en
+user.name :root
+user.script :
+user.timezone :Europe/London
+user.variant :
+vertx.disableDnsResolver :true
+vertx.disableTCCL :true
+vertx.disableWebsockets :true
+vertx.logger-delegate-factory-class-name :io.quarkus.vertx.core.runtime.VertxLogDelegateFactory
+vertxweb.environment :dev
+------------------
+ORACLE_HOME=null
+ANT_HOME=null
+JAVA_HOME=C:\Program Files\Java\jdk-17
+JAVA_OPTS=null
+NLS_LANG=null
+NLS_SORT=null
+DB2CODEPAGE=null

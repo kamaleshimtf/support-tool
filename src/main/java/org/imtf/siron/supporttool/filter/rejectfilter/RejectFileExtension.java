@@ -1,11 +1,11 @@
-package com.imtf.cstool.supporttool.filter.rejectfilter;
+package org.imtf.siron.supporttool.filter.rejectfilter;
 
 import java.io.File;
 import java.io.FileFilter;
 
 public class RejectFileExtension implements FileFilter {
 
-    private String rejectExtension;
+    private final String rejectExtension;
 
     public RejectFileExtension(String rejectExtension){
         this.rejectExtension = rejectExtension;
@@ -17,7 +17,6 @@ public class RejectFileExtension implements FileFilter {
         if (pathname.isDirectory()){
             return true;
         }
-
         return !pathname.getAbsolutePath().toLowerCase().endsWith(this.rejectExtension);
     }
 }

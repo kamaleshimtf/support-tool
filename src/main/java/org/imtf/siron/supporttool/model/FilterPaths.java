@@ -1,7 +1,8 @@
-package com.imtf.cstool.supporttool.model;
+package org.imtf.siron.supporttool.model;
 
-import com.imtf.cstool.supporttool.filter.AcceptAllFilter;
+
 import lombok.Getter;
+import org.imtf.siron.supporttool.filter.acceptfilter.AcceptAllFilter;
 
 import java.io.FileFilter;
 import java.util.List;

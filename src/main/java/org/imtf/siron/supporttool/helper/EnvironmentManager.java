@@ -5,7 +5,7 @@ import jakarta.inject.Inject;
 import org.imtf.siron.supporttool.constant.EnvironmentConstant;
 import org.imtf.siron.supporttool.constant.ProductConstant;
 import org.imtf.siron.supporttool.constant.UnwantedFileConstant;
-import org.imtf.siron.supporttool.model.SironProductType;
+import org.imtf.siron.supporttool.model.ProductType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -18,9 +18,9 @@ import java.util.List;
 import java.util.Map;
 
 @ApplicationScoped
-public class Environment {
+public class EnvironmentManager {
 
-    private static final Logger logger = LoggerFactory.getLogger(Environment.class);
+    private static final Logger logger = LoggerFactory.getLogger(EnvironmentManager.class);
 
     @Inject
     ProductConstant productConstant;
@@ -44,45 +44,45 @@ public class Environment {
         return System.getenv();
     }
 
-    public Map<String, String> getProductEnvironment(SironProductType sironProductType, String destinationPath, String productRootPath, String clientId){
+    public Map<String, String> getProductEnvironment(ProductType productType, String destinationPath, String productRootPath, String clientId){
 
         String sourceDirectory = Paths.get(productRootPath, ProductConstant.SOURCE_ENVIRONMENT).toString();
         String destinationDirectory = Paths.get(destinationPath).toString();
 
-        logger.info("Starting to fetch environment variables for product '{}', client '{}'", sironProductType, clientId);
+        logger.info("Starting to fetch environment variables for product '{}', client '{}'", productType, clientId);
         logger.debug("Source directory: '{}'", sourceDirectory);
         logger.debug("Destination directory: '{}'", destinationDirectory);
 
         int returnCode = getProductEnvironmentFromScript(
-                buildEnvironmentVariables(sironProductType, productRootPath,false),
+                // buildEnvironmentVariables(sironProductType, productRootPath,false),
                 sourceDirectory,
                 destinationDirectory,
                 clientId
         );
 
         if(returnCode != 0) {
-            logger.warn("Initial attempt to fetch environment variables failed for product '{}'. Trying with fallback shell trace ON.", sironProductType);
+            logger.warn("Initial attempt to fetch environment variables failed for product '{}'. Trying with fallback shell trace ON.", productType);
 
-           returnCode = getProductEnvironmentFromScript(
-                    buildEnvironmentVariables(sironProductType,productRootPath,true),
+            returnCode = getProductEnvironmentFromScript(
+                    // buildEnvironmentVariables(sironProductType,productRootPath,true),
                     sourceDirectory,
                     destinationDirectory,
                     clientId
             );
 
             if (returnCode != 0) {
-                logger.error("Failed to fetch environment variables for product '{}', client '{}', even after fallback attempt.", sironProductType, clientId);
+                logger.error("Failed to fetch environment variables for product '{}', client '{}', even after fallback attempt.", productType, clientId);
             } else {
-                logger.info("Successfully fetched environment variables using fallback for product '{}', client '{}'", sironProductType, clientId);
+                logger.info("Successfully fetched environment variables using fallback for product '{}', client '{}'", productType, clientId);
             }
         }
         else {
-            logger.info("Successfully fetched environment variables for product '{}', client '{}'", sironProductType, clientId);
+            logger.info("Successfully fetched environment variables for product '{}', client '{}'", productType, clientId);
         }
         return productEnvironment;
     }
 
-    public int getProductEnvironmentFromScript(String[] input, String sourceDirectory, String destinationDirectory, String clientId){
+    public int getProductEnvironmentFromScript(String sourceDirectory, String destinationDirectory, String clientId){
 
         List<String> commands = getCommands(sourceDirectory, clientId);
         logger.info("Executing environment script for client '{}', source='{}'", clientId, sourceDirectory);
@@ -127,7 +127,7 @@ public class Environment {
         }
         return returnCode;
     }
-    public String[] buildEnvironmentVariables(SironProductType productType, String productRootPath, Boolean shellStatus) {
+    public String[] buildEnvironmentVariables(ProductType productType, String productRootPath, Boolean shellStatus) {
         return new String[] {
                 productConstant.getProductTypeByRoot(productType) + "=" + productRootPath,
                 shellStatus ? EnvironmentConstant.FS_SHELL_TRACE_YES : EnvironmentConstant.FS_SHELL_TRACE_NO,

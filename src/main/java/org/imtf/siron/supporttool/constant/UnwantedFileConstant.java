@@ -1,13 +1,13 @@
-package com.imtf.cstool.supporttool.constant;
+package org.imtf.siron.supporttool.constant;
 
 
-import org.springframework.stereotype.Component;
+import jakarta.enterprise.context.ApplicationScoped;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
-@Component
+@ApplicationScoped
 public class UnwantedFileConstant {
 
     private final List<String> FILE_CONTENT = new ArrayList<>();

@@ -1,11 +1,13 @@
-package com.imtf.cstool.supporttool.service;
+package org.imtf.siron.supporttool.service;
 
-import com.imtf.cstool.supporttool.collector.SystemInfoCollector;
-import com.imtf.cstool.supporttool.helper.systeminfo.OperatingSystem;
+
+
+import jakarta.enterprise.context.ApplicationScoped;
+import jakarta.inject.Inject;
+import org.imtf.siron.supporttool.collector.impl.SystemInfoCollector;
+import org.imtf.siron.supporttool.helper.systeminfo.OperatingSystem;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -17,15 +19,15 @@ import java.time.format.DateTimeFormatter;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
-@Service
+@ApplicationScoped
 public class SystemInfoService {
 
     private static final Logger logger = LoggerFactory.getLogger(SystemInfoService.class);
 
-    @Autowired
+    @Inject
     SystemInfoCollector systemInfoWriterService;
 
-    @Autowired
+    @Inject
     OperatingSystem osService;
 
 
@@ -34,24 +36,36 @@ public class SystemInfoService {
         String fullOutputPath = basePath + File.separator + folderName;
 
         logger.info("System info Destination Path :{}", fullOutputPath);
-        // Step 1: collect all info into .txt files
+
         String finalSystemFolder = systemInfoWriterService.exportSystemInfo(fullOutputPath);
 
         logger.info("System info Destination Final Path :{}", finalSystemFolder);
 
-        // Step 2: zip those files
+
         File zipFile = zipFolder(fullOutputPath, zipFileName);
 
-
-        // Step 3: return zip file as StreamingOutput
-       return zipFile.toPath();//output -> Files.copy(zipFile.toPath(), output);
+       return zipFile.toPath();
     }
 
-//      Compresses the folder into a ZIP file
 
     private File zipFolder(String folderPath, String zipFileName) throws IOException {
         File srcDir = new File(folderPath);
-        File zipFile = new File(srcDir.getParent(), zipFileName);
+
+        File parentFolder = new File(srcDir.getParent(), "system-zip");
+        if (!parentFolder.exists() && !parentFolder.mkdirs()) {
+            throw new IOException("Failed to create folder: " + parentFolder.getAbsolutePath());
+        }
+
+        File[] existingZips = parentFolder.listFiles((dir, name) -> name.toLowerCase().endsWith(".zip"));
+        if (existingZips != null) {
+            for (File oldZip : existingZips) {
+                if (!oldZip.delete()) {
+                    logger.warn("Failed to delete old zip file: {}", oldZip.getAbsolutePath());
+                }
+            }
+        }
+
+        File zipFile = new File(parentFolder, zipFileName);
 
         try (FileOutputStream fileOutputStream = new FileOutputStream(zipFile);
              ZipOutputStream zipOutputStream = new ZipOutputStream(fileOutputStream)) {
@@ -62,7 +76,6 @@ public class SystemInfoService {
     }
 
 
-    //     Adds all files and subfolders to the ZIP output
     private void zipDirectory(File folder, String parentFolder, ZipOutputStream zos) throws IOException {
         for (File file : folder.listFiles()) {
             if (file.isDirectory()) {

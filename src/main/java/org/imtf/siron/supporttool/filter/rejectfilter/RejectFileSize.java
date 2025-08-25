@@ -1,4 +1,4 @@
-package com.imtf.cstool.supporttool.filter.rejectfilter;
+package org.imtf.siron.supporttool.filter.rejectfilter;
 
 import java.io.File;
 import java.io.FileFilter;

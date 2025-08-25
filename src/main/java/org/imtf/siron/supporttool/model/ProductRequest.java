@@ -1,4 +1,4 @@
-package com.imtf.cstool.supporttool.model;
+package org.imtf.siron.supporttool.model;
 
 import java.util.List;
 

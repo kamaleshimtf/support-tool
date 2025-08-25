@@ -1,4 +1,4 @@
-package com.imtf.cstool.supporttool.helper.systeminfo;
+package org.imtf.siron.supporttool.helper.systeminfo;
 
 /**
  * Methods for working with CSV files

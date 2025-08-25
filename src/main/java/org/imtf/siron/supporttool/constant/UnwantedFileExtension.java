@@ -1,14 +1,13 @@
-package com.imtf.cstool.supporttool.constant;
+package org.imtf.siron.supporttool.constant;
 
-import com.imtf.cstool.supporttool.filter.rejectfilter.RejectFileExtension;
-import com.imtf.cstool.supporttool.filter.rejectfilter.RejectFileName;
-import com.imtf.cstool.supporttool.filter.rejectfilter.RejectFileSize;
-import com.imtf.cstool.supporttool.filter.rejectfilter.RejectFolderName;
+
 import lombok.Getter;
-
+import org.imtf.siron.supporttool.filter.rejectfilter.RejectFileExtension;
+import org.imtf.siron.supporttool.filter.rejectfilter.RejectFileName;
+import org.imtf.siron.supporttool.filter.rejectfilter.RejectFileSize;
+import org.imtf.siron.supporttool.filter.rejectfilter.RejectFolderName;
 import java.io.FileFilter;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Pattern;
 
@@ -19,7 +18,7 @@ public class UnwantedFileExtension {
 
     private static final List<String> FILE_EXTENSIONS = List.of(
             ".jar", ".ear", ".example", ".template", ".pdf", ".exe", ".bmp", ".jpg", ".jpeg", ".jfr",
-            ".part", ".htm", ".ttf", ".war", ".ddl", ".pse", ".pem", ".key", ".cer", ".crt", ".p12", ".pfx", ".der"
+            ".part", ".htm", ".ttf", ".war", ".ddl", ".pse", ".pem", ".key", ".cer", ".crt", ".p12", ".pfx", ".der", ".dat"
     );
 
     private static final List<String> FOLDER_NAMES = List.of(
@@ -37,7 +36,7 @@ public class UnwantedFileExtension {
     public UnwantedFileExtension() {
         rejectFileExtensions();
         rejectFolderNames();
-        rejectFileNamePatterns();
+       // rejectFileNamePatterns();
         rejectFileSize();
     }
 

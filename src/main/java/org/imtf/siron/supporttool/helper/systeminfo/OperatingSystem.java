@@ -1,15 +1,15 @@
-package com.imtf.cstool.supporttool.helper.systeminfo;
+package org.imtf.siron.supporttool.helper.systeminfo;
 
 
-import oshi.SystemInfo;
+import jakarta.enterprise.context.ApplicationScoped;
 import lombok.Setter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.stereotype.Component;
+import oshi.SystemInfo;
 import oshi.hardware.CentralProcessor;
 import oshi.hardware.HardwareAbstractionLayer;
-import oshi.util.FormatUtil;
 import oshi.software.os.OSProcess;
+import oshi.util.FormatUtil;
 
 import javax.swing.filechooser.FileSystemView;
 import java.io.*;
@@ -17,7 +17,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.util.*;
 
-@Component
+@ApplicationScoped
 public class OperatingSystem {
 
     private static final Logger log = LoggerFactory.getLogger(OperatingSystem.class);

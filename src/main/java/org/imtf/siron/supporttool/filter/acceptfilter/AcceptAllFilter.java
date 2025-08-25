@@ -1,4 +1,4 @@
-package org.imtf.siron.supporttool.filter;
+package org.imtf.siron.supporttool.filter.acceptfilter;
 
 import java.io.File;
 import java.io.FileFilter;

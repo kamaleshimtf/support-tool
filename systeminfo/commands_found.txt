@@ -1,0 +1,300 @@
+------------------
+which for command 'java'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\java.exe
+java was found 1 times.
+
+which for command 'javac'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\javac.exe
+javac was found 1 times.
+
+which for command 'sqlcmd'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\sqlcmd.exe
+sqlcmd was found 1 times.
+
+which for command 'bcp'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\bcp.exe
+bcp was found 1 times.
+
+which for command 'sqlplus'
+sqlplus was not found on this system
+
+which for command 'tnsping'
+tnsping was not found on this system
+
+which for command 'sqlldr'
+sqlldr was not found on this system
+
+which for command 'db2'
+db2 was not found on this system
+
+which for command 'db2level'
+db2level was not found on this system
+
+which for command 'ksh'
+ksh was not found on this system
+
+which for command 'bash'
+  found in C:\WINDOWS\system32\bash.exe
+bash was found 1 times.
+
+which for command 'sh'
+sh was not found on this system
+
+which for command 'cmd'
+  found in C:\WINDOWS\system32\cmd.exe
+cmd was found 1 times.
+
+which for command 'find'
+  found in C:\WINDOWS\system32\find.exe
+find was found 1 times.
+
+------------------
+which for command 'java'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\java.exe
+java was found 1 times.
+
+which for command 'javac'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\javac.exe
+javac was found 1 times.
+
+which for command 'sqlcmd'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\sqlcmd.exe
+sqlcmd was found 1 times.
+
+which for command 'bcp'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\bcp.exe
+bcp was found 1 times.
+
+which for command 'sqlplus'
+sqlplus was not found on this system
+
+which for command 'tnsping'
+tnsping was not found on this system
+
+which for command 'sqlldr'
+sqlldr was not found on this system
+
+which for command 'db2'
+db2 was not found on this system
+
+which for command 'db2level'
+db2level was not found on this system
+
+which for command 'ksh'
+ksh was not found on this system
+
+which for command 'bash'
+  found in C:\WINDOWS\system32\bash.exe
+bash was found 1 times.
+
+which for command 'sh'
+sh was not found on this system
+
+which for command 'cmd'
+  found in C:\WINDOWS\system32\cmd.exe
+cmd was found 1 times.
+
+which for command 'find'
+  found in C:\WINDOWS\system32\find.exe
+find was found 1 times.
+
+------------------
+which for command 'java'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\java.exe
+java was found 1 times.
+
+which for command 'javac'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\javac.exe
+javac was found 1 times.
+
+which for command 'sqlcmd'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\sqlcmd.exe
+sqlcmd was found 1 times.
+
+which for command 'bcp'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\bcp.exe
+bcp was found 1 times.
+
+which for command 'sqlplus'
+sqlplus was not found on this system
+
+which for command 'tnsping'
+tnsping was not found on this system
+
+which for command 'sqlldr'
+sqlldr was not found on this system
+
+which for command 'db2'
+db2 was not found on this system
+
+which for command 'db2level'
+db2level was not found on this system
+
+which for command 'ksh'
+ksh was not found on this system
+
+which for command 'bash'
+  found in C:\WINDOWS\system32\bash.exe
+bash was found 1 times.
+
+which for command 'sh'
+sh was not found on this system
+
+which for command 'cmd'
+  found in C:\WINDOWS\system32\cmd.exe
+cmd was found 1 times.
+
+which for command 'find'
+  found in C:\WINDOWS\system32\find.exe
+find was found 1 times.
+
+------------------
+which for command 'java'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\java.exe
+java was found 1 times.
+
+which for command 'javac'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\javac.exe
+javac was found 1 times.
+
+which for command 'sqlcmd'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\sqlcmd.exe
+sqlcmd was found 1 times.
+
+which for command 'bcp'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\bcp.exe
+bcp was found 1 times.
+
+which for command 'sqlplus'
+sqlplus was not found on this system
+
+which for command 'tnsping'
+tnsping was not found on this system
+
+which for command 'sqlldr'
+sqlldr was not found on this system
+
+which for command 'db2'
+db2 was not found on this system
+
+which for command 'db2level'
+db2level was not found on this system
+
+which for command 'ksh'
+ksh was not found on this system
+
+which for command 'bash'
+  found in C:\WINDOWS\system32\bash.exe
+bash was found 1 times.
+
+which for command 'sh'
+sh was not found on this system
+
+which for command 'cmd'
+  found in C:\WINDOWS\system32\cmd.exe
+cmd was found 1 times.
+
+which for command 'find'
+  found in C:\WINDOWS\system32\find.exe
+find was found 1 times.
+
+------------------
+which for command 'java'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\java.exe
+java was found 1 times.
+
+which for command 'javac'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\javac.exe
+javac was found 1 times.
+
+which for command 'sqlcmd'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\sqlcmd.exe
+sqlcmd was found 1 times.
+
+which for command 'bcp'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\bcp.exe
+bcp was found 1 times.
+
+which for command 'sqlplus'
+sqlplus was not found on this system
+
+which for command 'tnsping'
+tnsping was not found on this system
+
+which for command 'sqlldr'
+sqlldr was not found on this system
+
+which for command 'db2'
+db2 was not found on this system
+
+which for command 'db2level'
+db2level was not found on this system
+
+which for command 'ksh'
+ksh was not found on this system
+
+which for command 'bash'
+  found in C:\WINDOWS\system32\bash.exe
+bash was found 1 times.
+
+which for command 'sh'
+sh was not found on this system
+
+which for command 'cmd'
+  found in C:\WINDOWS\system32\cmd.exe
+cmd was found 1 times.
+
+which for command 'find'
+  found in C:\WINDOWS\system32\find.exe
+find was found 1 times.
+
+------------------
+which for command 'java'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\java.exe
+java was found 1 times.
+
+which for command 'javac'
+  found in C:\Program Files\Common Files\Oracle\Java\javapath\javac.exe
+javac was found 1 times.
+
+which for command 'sqlcmd'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\sqlcmd.exe
+sqlcmd was found 1 times.
+
+which for command 'bcp'
+  found in C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\\bcp.exe
+bcp was found 1 times.
+
+which for command 'sqlplus'
+sqlplus was not found on this system
+
+which for command 'tnsping'
+tnsping was not found on this system
+
+which for command 'sqlldr'
+sqlldr was not found on this system
+
+which for command 'db2'
+db2 was not found on this system
+
+which for command 'db2level'
+db2level was not found on this system
+
+which for command 'ksh'
+ksh was not found on this system
+
+which for command 'bash'
+  found in C:\WINDOWS\system32\bash.exe
+bash was found 1 times.
+
+which for command 'sh'
+sh was not found on this system
+
+which for command 'cmd'
+  found in C:\WINDOWS\system32\cmd.exe
+cmd was found 1 times.
+
+which for command 'find'
+  found in C:\WINDOWS\system32\find.exe
+find was found 1 times.
+

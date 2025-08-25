@@ -1,4 +1,4 @@
-package com.imtf.cstool.supporttool.helper.systeminfo;
+package org.imtf.siron.supporttool.helper.systeminfo;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

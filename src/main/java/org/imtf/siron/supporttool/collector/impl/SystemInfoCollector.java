@@ -1,11 +1,13 @@
-package com.imtf.cstool.supporttool.collector;
+package org.imtf.siron.supporttool.collector.impl;
 
-import com.imtf.cstool.supporttool.helper.systeminfo.CSVFileHandler;
-import com.imtf.cstool.supporttool.helper.systeminfo.OperatingSystem;
+
+import jakarta.enterprise.context.ApplicationScoped;
+import jakarta.inject.Inject;
+import org.imtf.siron.supporttool.helper.systeminfo.CSVFileHandler;
+import org.imtf.siron.supporttool.helper.systeminfo.OperatingSystem;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
+
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -14,12 +16,12 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Map;
 
-@Component
+@ApplicationScoped
 public class SystemInfoCollector {
 
     private static final Logger log = LoggerFactory.getLogger(SystemInfoCollector.class);
 
-    @Autowired
+    @Inject
     OperatingSystem operatingSystem;
 
     public String exportSystemInfo(String destination_folder_path) {

@@ -1,8 +1,8 @@
-package org.imtf.siron.supporttool.service.collector;
+package org.imtf.siron.supporttool.collector;
 
 import org.imtf.siron.supporttool.model.ProductClientInfo;
-import org.imtf.siron.supporttool.model.SironProductType;
+import org.imtf.siron.supporttool.model.ProductType;
 
 public interface ProductCollector {
-    void collect(SironProductType productType, ProductClientInfo productClientInfo);
+    void collect(String destinationPath, ProductType productType, ProductClientInfo productClientInfo);
 }

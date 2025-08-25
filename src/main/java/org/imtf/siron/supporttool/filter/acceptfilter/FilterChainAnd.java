@@ -1,4 +1,4 @@
-package org.imtf.siron.supporttool.filter;
+package org.imtf.siron.supporttool.filter.acceptfilter;
 
 
 
@@ -46,8 +46,7 @@ public class FilterChainAnd implements FileFilter {
 
     @Override
     public boolean accept(File filePath){
-        System.out.println("FilterChainAnd accept : " + this.filters);
-        System.out.println("FilterChainAnd File Path : " + filePath);
+
         for (FileFilter filter : this.filters) {
             if (!filter.accept(filePath)) {
                 return false;
