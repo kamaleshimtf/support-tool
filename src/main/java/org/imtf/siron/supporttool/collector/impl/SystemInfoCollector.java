@@ -19,14 +19,14 @@ import java.util.Map;
 @ApplicationScoped
 public class SystemInfoCollector {
 
-    private static final Logger log = LoggerFactory.getLogger(SystemInfoCollector.class);
+    private static final Logger logger = LoggerFactory.getLogger(SystemInfoCollector.class);
 
     @Inject
     OperatingSystem operatingSystem;
 
     public String exportSystemInfo(String destination_folder_path) {
 
-        log.trace("This is the destination_folder_path path:{}", destination_folder_path);
+        logger.info("This is the destination folder path:{}", destination_folder_path);
 
         String dirname = destination_folder_path;
         File dst_folder = new File(destination_folder_path);
@@ -34,11 +34,11 @@ public class SystemInfoCollector {
             try {
                 Files.createDirectories(Paths.get(dirname));
             } catch (IOException e) {
-                log.warn("Error creating SystemInfo folder!", e);
+                logger.warn("Error creating SystemInfo folder: {}", e.getMessage());
             }
         }
 
-        log.info("sysInfo -part I");
+        logger.info("collecting system info file");
         CSVFileHandler csv1 = new CSVFileHandler();
         csv1.createFile(dirname + operatingSystem.tr + "sysinfo.txt");
         String myPath = operatingSystem.getApplicationPath();
@@ -53,7 +53,7 @@ public class SystemInfoCollector {
         // -----------------------------//
 
 
-        log.info("SysInfo - part II");
+        logger.info("Collecting command installed file");
         CSVFileHandler csv2 = new CSVFileHandler();
         csv2.createFile(dirname + operatingSystem.tr + "commands_installed.txt");
         csv2.writeLine("show which possible needed command line utilities are existing");
@@ -81,7 +81,7 @@ public class SystemInfoCollector {
         // -----------------------------//
 
 
-        log.info("SysInfo - part III");
+        logger.info("Collecting command found file");
         CSVFileHandler csv3 = new CSVFileHandler();
         csv3.createFile(dirname + operatingSystem.tr + "commands_found.txt");
         csv2.writeLine("show which possible needed command line utilities are existing");
@@ -117,20 +117,19 @@ public class SystemInfoCollector {
         // -----------------------------//
 
 
-        log.info("SysInfo - part IV");
+        logger.info("Collecting environment file");
         String env = dirname + operatingSystem.tr + "environment.txt";
         operatingSystem.writeEnvironment2File(env);
-        log.info("file [" + env + "] created.");
+        logger.info("file [{}] created.", env);
 
 
         // -----------------------------//
 
 
-        log.info("SysInfo - part V");
+        logger.info("Collecting hardware files");
         CSVFileHandler csv4 = new CSVFileHandler();
         csv4.createFile(dirname + operatingSystem.tr + "hardware.txt");
         csv4.writeLine("------------------");
-        log.info("hardwareInfo");
 
         Map<String, String> map = operatingSystem.hardwareInfo();
         for (Map.Entry<String, String> entry : map.entrySet()) {
@@ -153,8 +152,7 @@ public class SystemInfoCollector {
         // -----------------------------//
 
 
-        log.info("SysInfo - part VI");
-        log.info("get process list");
+        logger.info("Collecting Processes Files");
         CSVFileHandler csv5 = new CSVFileHandler();
         csv5.createFile(dirname + operatingSystem.tr + "processes.txt");
 
@@ -166,15 +164,14 @@ public class SystemInfoCollector {
                 csv5.writeLine(line);
             }
         } catch (IOException e) {
-            log.warn("IO Exception while reading Processes!", e);
+            logger.warn("IO Exception while reading Processes: {}", e.getMessage());
         }
 
 
         // -----------------------------//
 
 
-        log.info("SysInfo - part VII");
-        log.info("get process memory");
+        logger.info("Collecting memory files");
         CSVFileHandler csv6 = new CSVFileHandler();
         csv6.createFile(dirname + operatingSystem.tr + "memory_used.txt");
 
@@ -187,11 +184,10 @@ public class SystemInfoCollector {
                 }
             }
         } catch (IOException e) {
-            log.warn("IO Exception while reading Memory!", e);
+            logger.warn("IO Exception while reading Memory: {}", e.getMessage());
         }
 
-        log.info("SystemInfo - end");
-        log.trace("Exiting exportSystemInfo ");
+        logger.info("Finished collecting System information");
 
         return destination_folder_path;
     }

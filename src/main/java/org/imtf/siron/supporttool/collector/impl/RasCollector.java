@@ -7,7 +7,6 @@ import org.imtf.siron.supporttool.constant.ProductConstant;
 import org.imtf.siron.supporttool.exception.NotFoundException;
 import org.imtf.siron.supporttool.filter.acceptfilter.AcceptExtension;
 import org.imtf.siron.supporttool.filter.acceptfilter.FilterChainAnd;
-import org.imtf.siron.supporttool.filter.rejectfilter.RejectFileName;
 import org.imtf.siron.supporttool.helper.EnvironmentManager;
 import org.imtf.siron.supporttool.helper.FileManager;
 import org.imtf.siron.supporttool.model.FilterPaths;

@@ -13,8 +13,6 @@ import org.imtf.siron.supporttool.model.ProductClientInfo;
 import org.imtf.siron.supporttool.model.ProductType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import java.io.File;
 import java.io.FileFilter;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -86,7 +84,6 @@ public class ZeidonCollector implements ProductCollector {
 
         String customSource = Paths.get(root, ProductConstant.PRODUCT_CUSTOM_FOLDER).toString();
         String customDest = fileManager.createSubFolder(dest, ProductConstant.PRODUCT_CUSTOM_FOLDER);
-        File zeidonBin = new File(Paths.get(sysSource, ProductConstant.ZEIDON_SYSTEM_BIN).toString());
 
             zeidonSystemPaths.put(Paths.get(sysSource, ProductConstant.ZEIDON_SYSTEM_ZAPP).toString(),
                     Paths.get(sysDest, ProductConstant.ZEIDON_SYSTEM_ZAPP).toString());

@@ -1,10 +1,8 @@
 package org.imtf.siron.supporttool.constant;
 
-import io.smallrye.config.ConfigMapping;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.List;
 
 public class SupportToolConstant {
 

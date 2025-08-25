@@ -71,7 +71,7 @@ public class SystemInfoService {
              ZipOutputStream zipOutputStream = new ZipOutputStream(fileOutputStream)) {
             zipDirectory(srcDir, srcDir.getName(), zipOutputStream);
         }
-
+        logger.info("Finished zipping System information : {}", zipFile.getAbsolutePath());
         return zipFile;
     }
 
