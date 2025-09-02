@@ -1,5 +1,6 @@
 package org.imtf.siron.supporttool.controller;
 
+import jakarta.annotation.security.RolesAllowed;
 import jakarta.inject.Inject;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.HttpHeaders;
@@ -33,6 +34,7 @@ public class SupportToolController {
     @Path("/product-info")
     @Consumes(MediaType.APPLICATION_JSON)
     @Produces(MediaType.APPLICATION_OCTET_STREAM)
+    @RolesAllowed("admin")
     public Response fetchProductInfo(ProductRequest productRequest) throws IOException {
         java.nio.file.Path zipFilePath = productInfoService.getProductInfo(productRequest);
 
@@ -62,6 +64,7 @@ public class SupportToolController {
     @GET
     @Path("/system-info")
     @Produces(MediaType.APPLICATION_OCTET_STREAM)
+    @RolesAllowed("admin")
     public Response systemInfo() {
         try {
 

@@ -50,7 +50,7 @@ public class ProductInfoService {
         searchProductInfo(productRequests);
         validateClientFolders(productRootMap);
         collectAllProducts(productRootMap);
-        String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+        String timestamp = new SimpleDateFormat(SupportToolConstant.ZIP_FOLDER_NAME_TIME_FORMAT).format(new Date());
         String zipFileName =  timestamp + "_" + SupportToolConstant.SUPPORT_FOLDER_NAME + ".zip";
         return fileManager.zipCreation(
                 Paths.get(this.destinationPath), zipFileName);

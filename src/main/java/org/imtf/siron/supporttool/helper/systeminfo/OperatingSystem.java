@@ -32,8 +32,11 @@ public class OperatingSystem {
     public String jvmArchitecture;
     private boolean is64bit;
     private boolean isWindows;
-    @Setter
     private int execTimeout;
+
+    public void setExecTimeout(int execTimeout) {
+        this.execTimeout = execTimeout;
+    }
 
     public OperatingSystem() {
         this.osTypeName = "";

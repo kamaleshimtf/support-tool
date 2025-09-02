@@ -1,7 +1,6 @@
 package org.imtf.siron.supporttool.constant;
 
 
-import lombok.Getter;
 import org.imtf.siron.supporttool.filter.rejectfilter.RejectFileExtension;
 import org.imtf.siron.supporttool.filter.rejectfilter.RejectFileName;
 import org.imtf.siron.supporttool.filter.rejectfilter.RejectFileSize;
@@ -11,10 +10,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Pattern;
 
-@Getter
 public class UnwantedFileExtension {
 
     private final List<FileFilter> filters = new ArrayList<>();
+
+    public List<FileFilter> getFilters() {
+        return filters;
+    }
 
     private static final List<String> FILE_EXTENSIONS = List.of(
             ".jar", ".ear", ".example", ".template", ".pdf", ".exe", ".bmp", ".jpg", ".jpeg", ".jfr",

@@ -1,15 +1,21 @@
 package org.imtf.siron.supporttool.model;
 
 
-import lombok.Getter;
 import org.imtf.siron.supporttool.filter.acceptfilter.AcceptAllFilter;
 
 import java.io.FileFilter;
 import java.util.List;
 import java.util.regex.Pattern;
 
-@Getter
 public class FilterPaths {
+
+    public FileFilter getFilter() {
+        return filter;
+    }
+
+    public String getDestinationPath() {
+        return destinationPath;
+    }
 
     private final FileFilter filter;
     private final String destinationPath;
@@ -23,5 +29,6 @@ public class FilterPaths {
         this.destinationPath = destinationPath;
         this.filter = new AcceptAllFilter(folderFilters,fileFilters);
     }
+
 
 }

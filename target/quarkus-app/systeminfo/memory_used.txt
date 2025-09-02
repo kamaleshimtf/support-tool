@@ -1,0 +1,3214 @@
+Node,Name,PeakWorkingSetSize
+M-KV07TXTVYN,accountsd,33751040
+M-KV07TXTVYN,AirPlayUIAgent,15630336
+M-KV07TXTVYN,akd,12451840
+M-KV07TXTVYN,AMPDeviceDiscoveryAgent,6127616
+M-KV07TXTVYN,AMPLibraryAgent,14925824
+M-KV07TXTVYN,amsaccountsd,11993088
+M-KV07TXTVYN,AppleSpell,64208896
+M-KV07TXTVYN,AppPredictionIntentsHelperService,30048256
+M-KV07TXTVYN,AppSSOAgent,54558720
+M-KV07TXTVYN,appstorecomponentsd,16154624
+M-KV07TXTVYN,audioaccessoryd,25100288
+M-KV07TXTVYN,AutoFillPanelService,53411840
+M-KV07TXTVYN,avconferenced,10403840
+M-KV07TXTVYN,AXVisualSupportAgent,40730624
+M-KV07TXTVYN,Azure Data Studio Helper,17268736
+M-KV07TXTVYN,Azure Data Studio Helper,21463040
+M-KV07TXTVYN,Azure Data Studio Helper,13959168
+M-KV07TXTVYN,Azure Data Studio Helper (GPU),22986752
+M-KV07TXTVYN,BiomeAgent,15958016
+M-KV07TXTVYN,bird,11960320
+M-KV07TXTVYN,businessservicesd,7847936
+M-KV07TXTVYN,calaccessd,23756800
+M-KV07TXTVYN,CalendarWidgetExtension,22216704
+M-KV07TXTVYN,callservicesd,33259520
+M-KV07TXTVYN,cfprefsd,6160384
+M-KV07TXTVYN,chrome_crashpad_handler,8421376
+M-KV07TXTVYN,chrome_crashpad_handler,3440640
+M-KV07TXTVYN,chrome_crashpad_handler,3260416
+M-KV07TXTVYN,chronod,32636928
+M-KV07TXTVYN,CMFSyncAgent,10846208
+M-KV07TXTVYN,Code Helper,38846464
+M-KV07TXTVYN,Code Helper,50266112
+M-KV07TXTVYN,Code Helper,43417600
+M-KV07TXTVYN,Code Helper,23117824
+M-KV07TXTVYN,Code Helper (GPU),65978368
+M-KV07TXTVYN,Code Helper (Plugin),34979840
+M-KV07TXTVYN,Code Helper (Plugin),95125504
+M-KV07TXTVYN,Code Helper (Plugin),48234496
+M-KV07TXTVYN,Code Helper (Plugin),36012032
+M-KV07TXTVYN,Code Helper (Plugin),93044736
+M-KV07TXTVYN,Code Helper (Renderer),422395904
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,78987264
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,70352896
+M-KV07TXTVYN,com.apple.dock.extra,43188224
+M-KV07TXTVYN,com.apple.hiservices-xpcservice,4014080
+M-KV07TXTVYN,com.apple.SafariPlatformSupport.Helper,21004288
+M-KV07TXTVYN,com.apple.SafariPlatformSupport.Helper,22085632
+M-KV07TXTVYN,com.apple.Virtualization.VirtualMachine,598081536
+M-KV07TXTVYN,com.apple.WebKit.Networking,10469376
+M-KV07TXTVYN,com.docker.backend,174047232
+M-KV07TXTVYN,com.docker.backend,34897920
+M-KV07TXTVYN,com.docker.build,29671424
+M-KV07TXTVYN,com.docker.dev-envs,3915776
+M-KV07TXTVYN,com.docker.virtualization,24379392
+M-KV07TXTVYN,com.microsoft.teams2.notificationcenter,56573952
+M-KV07TXTVYN,com.microsoft.teams2.respawn,2162688
+M-KV07TXTVYN,CommCenter,29802496
+M-KV07TXTVYN,commerce,7159808
+M-KV07TXTVYN,contactsd,15597568
+M-KV07TXTVYN,containermanagerd,9781248
+M-KV07TXTVYN,contentlinkingd,10190848
+M-KV07TXTVYN,ContextStoreAgent,29491200
+M-KV07TXTVYN,ContinuityCaptureAgent,12271616
+M-KV07TXTVYN,ControlCenter,91308032
+M-KV07TXTVYN,ControlCenterHelper,21512192
+M-KV07TXTVYN,coreauthd,12845056
+M-KV07TXTVYN,CoreLocationAgent,43122688
+M-KV07TXTVYN,corespeechd,17514496
+M-KV07TXTVYN,corespotlightd,63127552
+M-KV07TXTVYN,csimporter,5980160
+M-KV07TXTVYN,csnameddatad,3751936
+M-KV07TXTVYN,ctkahp,5406720
+M-KV07TXTVYN,CursorUIViewService,29327360
+M-KV07TXTVYN,deleted,24838144
+M-KV07TXTVYN,diagnostics_agent,15417344
+M-KV07TXTVYN,DiskUnmountWatcher,1785856
+M-KV07TXTVYN,distnoted,9240576
+M-KV07TXTVYN,Dock,79134720
+M-KV07TXTVYN,Docker Desktop,98959360
+M-KV07TXTVYN,Docker Desktop Helper,13729792
+M-KV07TXTVYN,Docker Desktop Helper (GPU),34504704
+M-KV07TXTVYN,Docker Desktop Helper (Renderer),141803520
+M-KV07TXTVYN,duetexpertd,34914304
+M-KV07TXTVYN,Electron,243089408
+M-KV07TXTVYN,Electron,64847872
+M-KV07TXTVYN,EndpointSecurityforMac,49119232
+M-KV07TXTVYN,extensionkitservice,10387456
+M-KV07TXTVYN,familycircled,10371072
+M-KV07TXTVYN,feedbackd,7225344
+M-KV07TXTVYN,Finder,189399040
+M-KV07TXTVYN,firefox,189939712
+M-KV07TXTVYN,fontd,12451840
+M-KV07TXTVYN,fontworker,7438336
+M-KV07TXTVYN,fsnotifier,3031040
+M-KV07TXTVYN,full-line-inference,96387072
+M-KV07TXTVYN,gamecontrolleragentd,5390336
+M-KV07TXTVYN,Google Chrome,633208832
+M-KV07TXTVYN,Google Chrome Helper,58802176
+M-KV07TXTVYN,Google Chrome Helper,50577408
+M-KV07TXTVYN,Google Chrome Helper,50069504
+M-KV07TXTVYN,Google Chrome Helper,132399104
+M-KV07TXTVYN,Google Chrome Helper (Alerts),54001664
+M-KV07TXTVYN,Google Chrome Helper (GPU),210993152
+M-KV07TXTVYN,Google Chrome Helper (Plugin),61079552
+M-KV07TXTVYN,Google Chrome Helper (Renderer),491601920
+M-KV07TXTVYN,Google Chrome Helper (Renderer),108216320
+M-KV07TXTVYN,Google Chrome Helper (Renderer),96288768
+M-KV07TXTVYN,Google Chrome Helper (Renderer),94486528
+M-KV07TXTVYN,Google Chrome Helper (Renderer),208781312
+M-KV07TXTVYN,Google Chrome Helper (Renderer),98107392
+M-KV07TXTVYN,Google Chrome Helper (Renderer),86261760
+M-KV07TXTVYN,Google Chrome Helper (Renderer),96763904
+M-KV07TXTVYN,Google Chrome Helper (Renderer),190873600
+M-KV07TXTVYN,Google Chrome Helper (Renderer),170672128
+M-KV07TXTVYN,Google Chrome Helper (Renderer),472416256
+M-KV07TXTVYN,Google Chrome Helper (Renderer),95649792
+M-KV07TXTVYN,Google Chrome Helper (Renderer),118210560
+M-KV07TXTVYN,Google Chrome Helper (Renderer),140967936
+M-KV07TXTVYN,Google Chrome Helper (Renderer),130531328
+M-KV07TXTVYN,Google Chrome Helper (Renderer),150061056
+M-KV07TXTVYN,Google Chrome Helper (Renderer),132202496
+M-KV07TXTVYN,Google Chrome Helper (Renderer),92274688
+M-KV07TXTVYN,Google Chrome Helper (Renderer),129843200
+M-KV07TXTVYN,Google Chrome Helper (Renderer),228884480
+M-KV07TXTVYN,Google Chrome Helper (Renderer),160972800
+M-KV07TXTVYN,Google Chrome Helper (Renderer),181288960
+M-KV07TXTVYN,Google Chrome Helper (Renderer),164233216
+M-KV07TXTVYN,Google Chrome Helper (Renderer),168558592
+M-KV07TXTVYN,Google Chrome Helper (Renderer),101285888
+M-KV07TXTVYN,Google Chrome Helper (Renderer),84623360
+M-KV07TXTVYN,Google Chrome Helper (Renderer),96141312
+M-KV07TXTVYN,Google Chrome Helper (Renderer),127926272
+M-KV07TXTVYN,Google Chrome Helper (Renderer),320552960
+M-KV07TXTVYN,Google Chrome Helper (Renderer),124551168
+M-KV07TXTVYN,Google Chrome Helper (Renderer),130007040
+M-KV07TXTVYN,Google Chrome Helper (Renderer),140541952
+M-KV07TXTVYN,Google Chrome Helper (Renderer),121208832
+M-KV07TXTVYN,Google Chrome Helper (Renderer),145883136
+M-KV07TXTVYN,Google Chrome Helper (Renderer),145014784
+M-KV07TXTVYN,Google Chrome Helper (Renderer),165216256
+M-KV07TXTVYN,icdd,3932160
+M-KV07TXTVYN,iconservicesagent,18694144
+M-KV07TXTVYN,idea,2330394624
+M-KV07TXTVYN,identityservicesd,24952832
+M-KV07TXTVYN,imagent,23953408
+M-KV07TXTVYN,IMAutomaticHistoryDeletionAgent,11239424
+M-KV07TXTVYN,imklaunchagent,11583488
+M-KV07TXTVYN,Jamf Connect,59670528
+M-KV07TXTVYN,jamfRemoteAssist,20119552
+M-KV07TXTVYN,jamfRemoteAssistConnectorUI,36126720
+M-KV07TXTVYN,java,237387776
+M-KV07TXTVYN,java,49512448
+M-KV07TXTVYN,Keychain Circle Notification,22069248
+M-KV07TXTVYN,linkd,11337728
+M-KV07TXTVYN,loginwindow,69648384
+M-KV07TXTVYN,lsd,20168704
+M-KV07TXTVYN,maild,20119552
+M-KV07TXTVYN,managedcorespotlightd,16302080
+M-KV07TXTVYN,mbuseragent,3244032
+M-KV07TXTVYN,mdbulkimport,18153472
+M-KV07TXTVYN,mdworker_shared,27049984
+M-KV07TXTVYN,mdworker_shared,29196288
+M-KV07TXTVYN,mdwrite,3719168
+M-KV07TXTVYN,mediaanalysisd,113655808
+M-KV07TXTVYN,mediaremoteagent,3670016
+M-KV07TXTVYN,MessagesBlastDoorService,5652480
+M-KV07TXTVYN,Microsoft Excel,120881152
+M-KV07TXTVYN,Microsoft OneNote,235208704
+M-KV07TXTVYN,Microsoft Outlook,349470720
+M-KV07TXTVYN,Microsoft PowerPoint,264404992
+M-KV07TXTVYN,Microsoft SharePoint,77201408
+M-KV07TXTVYN,Microsoft Teams WebView,192659456
+M-KV07TXTVYN,Microsoft Teams WebView Helper,52609024
+M-KV07TXTVYN,Microsoft Teams WebView Helper,45776896
+M-KV07TXTVYN,Microsoft Teams WebView Helper,64913408
+M-KV07TXTVYN,Microsoft Teams WebView Helper (GPU),94273536
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Plugin),51052544
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Renderer),920010752
+M-KV07TXTVYN,Microsoft Update Assistant,38862848
+M-KV07TXTVYN,Microsoft Word,234209280
+M-KV07TXTVYN,MicrosoftSqlToolsCredentials,7323648
+M-KV07TXTVYN,MicrosoftSqlToolsServiceLayer,25706496
+M-KV07TXTVYN,migrationhelper,2293760
+M-KV07TXTVYN,mscamerad-xpc,3522560
+M-KV07TXTVYN,msedge_crashpad_handler,1982464
+M-KV07TXTVYN,msedge_crashpad_handler,3588096
+M-KV07TXTVYN,MSTeams,193888256
+M-KV07TXTVYN,Music,65323008
+M-KV07TXTVYN,MySQLWorkbench,55590912
+M-KV07TXTVYN,ndoagent,8110080
+M-KV07TXTVYN,networkserviceproxy,19693568
+M-KV07TXTVYN,ngrok,31834112
+M-KV07TXTVYN,Notes,63733760
+M-KV07TXTVYN,NotificationCenter,77611008
+M-KV07TXTVYN,nsurlsessiond,18071552
+M-KV07TXTVYN,PAH_Extension,17612800
+M-KV07TXTVYN,passd,17072128
+M-KV07TXTVYN,PasswordBreachAgent,6569984
+M-KV07TXTVYN,pboard,12517376
+M-KV07TXTVYN,peopled,13041664
+M-KV07TXTVYN,pkd,16793600
+M-KV07TXTVYN,plugin-container,38682624
+M-KV07TXTVYN,plugin-container,38682624
+M-KV07TXTVYN,plugin-container,38682624
+M-KV07TXTVYN,plugin-container,24821760
+M-KV07TXTVYN,plugin-container,46710784
+M-KV07TXTVYN,plugin-container,22380544
+M-KV07TXTVYN,plugin-container,52396032
+M-KV07TXTVYN,plugin-container,23379968
+M-KV07TXTVYN,Postman,206667776
+M-KV07TXTVYN,Postman Helper,13828096
+M-KV07TXTVYN,Postman Helper,27295744
+M-KV07TXTVYN,Postman Helper (GPU),59310080
+M-KV07TXTVYN,Postman Helper (Renderer),664895488
+M-KV07TXTVYN,PowerChime,18808832
+M-KV07TXTVYN,Preview,81281024
+M-KV07TXTVYN,proactived,19202048
+M-KV07TXTVYN,ptpcamerad,3276800
+M-KV07TXTVYN,QEMUHelper,5832704
+M-KV07TXTVYN,QEMULauncher,25444352
+M-KV07TXTVYN,QEMULauncher,4538368
+M-KV07TXTVYN,QuickLookUIService,17072128
+M-KV07TXTVYN,rapportd,19529728
+M-KV07TXTVYN,replayd,31391744
+M-KV07TXTVYN,searchpartyuseragent,21479424
+M-KV07TXTVYN,secd,19234816
+M-KV07TXTVYN,secinitd,14024704
+M-KV07TXTVYN,seserviced,5865472
+M-KV07TXTVYN,sharedfilelistd,13680640
+M-KV07TXTVYN,ShareMail,18169856
+M-KV07TXTVYN,ShareSheetUI,21643264
+M-KV07TXTVYN,sharingd,25133056
+M-KV07TXTVYN,ShipIt,4718592
+M-KV07TXTVYN,siriinferenced,29179904
+M-KV07TXTVYN,Spotlight,137396224
+M-KV07TXTVYN,spotlightknowledged,19873792
+M-KV07TXTVYN,spotlightknowledged,9928704
+M-KV07TXTVYN,SqlToolsResourceProviderService,5324800
+M-KV07TXTVYN,ssh-agent,1081344
+M-KV07TXTVYN,StatusKitAgent,10158080
+M-KV07TXTVYN,StocksWidget,48627712
+M-KV07TXTVYN,suggestd,28098560
+M-KV07TXTVYN,swcd,21299200
+M-KV07TXTVYN,syncdefaultsd,16269312
+M-KV07TXTVYN,SystemUIServer,29622272
+M-KV07TXTVYN,talagentd,15253504
+M-KV07TXTVYN,tccd,15564800
+M-KV07TXTVYN,Terminal,174735360
+M-KV07TXTVYN,TextInputMenuAgent,43778048
+M-KV07TXTVYN,ThemeWidgetControlViewService,19021824
+M-KV07TXTVYN,ThemeWidgetControlViewService,27738112
+M-KV07TXTVYN,triald,18186240
+M-KV07TXTVYN,trustd,14729216
+M-KV07TXTVYN,Tunnelblick,69353472
+M-KV07TXTVYN,universalaccessd,16449536
+M-KV07TXTVYN,useractivityd,9338880
+M-KV07TXTVYN,UserEventAgent,18694144
+M-KV07TXTVYN,usernoted,26148864
+M-KV07TXTVYN,UserNotificationCenter,34848768
+M-KV07TXTVYN,usernotificationsd,14565376
+M-KV07TXTVYN,UTM,136822784
+M-KV07TXTVYN,ViewBridgeAuxiliary,17367040
+M-KV07TXTVYN,VTDecoderXPCService,8388608
+M-KV07TXTVYN,VTDecoderXPCService,4980736
+M-KV07TXTVYN,WallpaperAgent,28229632
+M-KV07TXTVYN,WallpaperVideoExtension,15892480
+M-KV07TXTVYN,WeatherWidget,54542336
+M-KV07TXTVYN,WiFiAgent,37371904
+M-KV07TXTVYN,WindowManager,60080128
+M-KV07TXTVYN,WorldClockWidget,35061760
+M-KV07TXTVYN,zsh,3932160
+M-KV07TXTVYN,zsh,6684672
+M-KV07TXTVYN,zsh,1769472
+M-KV07TXTVYN,zsh,2359296
+Node,Name,PeakWorkingSetSize
+M-KV07TXTVYN,accountsd,33308672
+M-KV07TXTVYN,AirPlayUIAgent,15302656
+M-KV07TXTVYN,akd,12877824
+M-KV07TXTVYN,AMPDeviceDiscoveryAgent,6062080
+M-KV07TXTVYN,AMPLibraryAgent,14925824
+M-KV07TXTVYN,amsaccountsd,11993088
+M-KV07TXTVYN,amsengagementd,19890176
+M-KV07TXTVYN,appleaccountd,19529728
+M-KV07TXTVYN,AppleSpell,67125248
+M-KV07TXTVYN,AppPredictionIntentsHelperService,29605888
+M-KV07TXTVYN,AppSSOAgent,46071808
+M-KV07TXTVYN,appstoreagent,28655616
+M-KV07TXTVYN,appstorecomponentsd,15990784
+M-KV07TXTVYN,assistant_cdmd,12894208
+M-KV07TXTVYN,assistantd,27770880
+M-KV07TXTVYN,audioaccessoryd,24657920
+M-KV07TXTVYN,AutoFillPanelService,43499520
+M-KV07TXTVYN,avconferenced,10289152
+M-KV07TXTVYN,AXVisualSupportAgent,40583168
+M-KV07TXTVYN,Azure Data Studio Helper,16875520
+M-KV07TXTVYN,Azure Data Studio Helper,21397504
+M-KV07TXTVYN,Azure Data Studio Helper,13680640
+M-KV07TXTVYN,Azure Data Studio Helper (GPU),22495232
+M-KV07TXTVYN,BiomeAgent,17776640
+M-KV07TXTVYN,BiomeSELFIngestor,10616832
+M-KV07TXTVYN,bird,11206656
+M-KV07TXTVYN,businessservicesd,13893632
+M-KV07TXTVYN,calaccessd,21676032
+M-KV07TXTVYN,CalendarWidgetExtension,22216704
+M-KV07TXTVYN,callservicesd,33128448
+M-KV07TXTVYN,cdpd,8585216
+M-KV07TXTVYN,cfprefsd,6471680
+M-KV07TXTVYN,chrome_crashpad_handler,8470528
+M-KV07TXTVYN,chrome_crashpad_handler,2277376
+M-KV07TXTVYN,chrome_crashpad_handler,3260416
+M-KV07TXTVYN,chronod,37453824
+M-KV07TXTVYN,cloudd,21872640
+M-KV07TXTVYN,CloudTelemetryService,9306112
+M-KV07TXTVYN,Code Helper,41287680
+M-KV07TXTVYN,Code Helper,54722560
+M-KV07TXTVYN,Code Helper,47693824
+M-KV07TXTVYN,Code Helper,24150016
+M-KV07TXTVYN,Code Helper (GPU),66371584
+M-KV07TXTVYN,Code Helper (Plugin),34586624
+M-KV07TXTVYN,Code Helper (Plugin),110231552
+M-KV07TXTVYN,Code Helper (Plugin),58114048
+M-KV07TXTVYN,Code Helper (Plugin),35651584
+M-KV07TXTVYN,Code Helper (Plugin),97484800
+M-KV07TXTVYN,Code Helper (Renderer),404865024
+M-KV07TXTVYN,com.apple.accessibility.mediaaccessibilityd,3358720
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,73629696
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,70762496
+M-KV07TXTVYN,com.apple.dock.extra,41107456
+M-KV07TXTVYN,com.apple.geod,14565376
+M-KV07TXTVYN,com.apple.hiservices-xpcservice,4030464
+M-KV07TXTVYN,com.apple.SafariPlatformSupport.Helper,21905408
+M-KV07TXTVYN,com.apple.SafariPlatformSupport.Helper,23019520
+M-KV07TXTVYN,com.apple.Virtualization.VirtualMachine,870842368
+M-KV07TXTVYN,com.apple.WebKit.Networking,10567680
+M-KV07TXTVYN,com.docker.backend,174702592
+M-KV07TXTVYN,com.docker.backend,34963456
+M-KV07TXTVYN,com.docker.build,32342016
+M-KV07TXTVYN,com.docker.dev-envs,3915776
+M-KV07TXTVYN,com.docker.virtualization,24150016
+M-KV07TXTVYN,com.microsoft.teams2.notificationcenter,54214656
+M-KV07TXTVYN,com.microsoft.teams2.respawn,2162688
+M-KV07TXTVYN,CommCenter,29917184
+M-KV07TXTVYN,commerce,7159808
+M-KV07TXTVYN,contactsd,11272192
+M-KV07TXTVYN,containermanagerd,9224192
+M-KV07TXTVYN,contentlinkingd,10469376
+M-KV07TXTVYN,ContextStoreAgent,30113792
+M-KV07TXTVYN,ContinuityCaptureAgent,13090816
+M-KV07TXTVYN,ControlCenter,76234752
+M-KV07TXTVYN,ControlCenterHelper,21479424
+M-KV07TXTVYN,coreautha,32145408
+M-KV07TXTVYN,coreauthd,15187968
+M-KV07TXTVYN,CoreLocationAgent,43237376
+M-KV07TXTVYN,CoreServicesUIAgent,42483712
+M-KV07TXTVYN,corespeechd,19005440
+M-KV07TXTVYN,corespotlightd,69910528
+M-KV07TXTVYN,csimporter,5980160
+M-KV07TXTVYN,csnameddatad,3751936
+M-KV07TXTVYN,ctkahp,4915200
+M-KV07TXTVYN,ctkd,12632064
+M-KV07TXTVYN,CursorUIViewService,29081600
+M-KV07TXTVYN,deleted,23461888
+M-KV07TXTVYN,diagnostics_agent,15859712
+M-KV07TXTVYN,DiskUnmountWatcher,1785856
+M-KV07TXTVYN,distnoted,10321920
+M-KV07TXTVYN,Dock,74498048
+M-KV07TXTVYN,Docker Desktop,106708992
+M-KV07TXTVYN,Docker Desktop Helper,13467648
+M-KV07TXTVYN,Docker Desktop Helper (GPU),34275328
+M-KV07TXTVYN,Docker Desktop Helper (Renderer),140361728
+M-KV07TXTVYN,DockHelper,31440896
+M-KV07TXTVYN,duetexpertd,38453248
+M-KV07TXTVYN,Electron,236486656
+M-KV07TXTVYN,Electron,58654720
+M-KV07TXTVYN,EndpointSecurityforMac,41189376
+M-KV07TXTVYN,extensionkitservice,9928704
+M-KV07TXTVYN,extensionkitservice,10387456
+M-KV07TXTVYN,familycircled,11223040
+M-KV07TXTVYN,feedbackd,9797632
+M-KV07TXTVYN,Finder,130072576
+M-KV07TXTVYN,firefox,154075136
+M-KV07TXTVYN,followupd,5439488
+M-KV07TXTVYN,fontd,12845056
+M-KV07TXTVYN,fontworker,7438336
+M-KV07TXTVYN,fsnotifier,3538944
+M-KV07TXTVYN,full-line-inference,91865088
+M-KV07TXTVYN,gamecontrolleragentd,9732096
+M-KV07TXTVYN,generativeexperiencesd,18513920
+M-KV07TXTVYN,GMSSELFIngestor,11501568
+M-KV07TXTVYN,Google Chrome,682098688
+M-KV07TXTVYN,Google Chrome Helper,58458112
+M-KV07TXTVYN,Google Chrome Helper,50298880
+M-KV07TXTVYN,Google Chrome Helper,50774016
+M-KV07TXTVYN,Google Chrome Helper,135233536
+M-KV07TXTVYN,Google Chrome Helper (Alerts),53444608
+M-KV07TXTVYN,Google Chrome Helper (GPU),178438144
+M-KV07TXTVYN,Google Chrome Helper (Plugin),60538880
+M-KV07TXTVYN,Google Chrome Helper (Renderer),154664960
+M-KV07TXTVYN,Google Chrome Helper (Renderer),121044992
+M-KV07TXTVYN,Google Chrome Helper (Renderer),516325376
+M-KV07TXTVYN,Google Chrome Helper (Renderer),91258880
+M-KV07TXTVYN,Google Chrome Helper (Renderer),439517184
+M-KV07TXTVYN,Google Chrome Helper (Renderer),97992704
+M-KV07TXTVYN,Google Chrome Helper (Renderer),89931776
+M-KV07TXTVYN,Google Chrome Helper (Renderer),90996736
+M-KV07TXTVYN,Google Chrome Helper (Renderer),139624448
+M-KV07TXTVYN,Google Chrome Helper (Renderer),93634560
+M-KV07TXTVYN,Google Chrome Helper (Renderer),102055936
+M-KV07TXTVYN,Google Chrome Helper (Renderer),304218112
+M-KV07TXTVYN,Google Chrome Helper (Renderer),423985152
+M-KV07TXTVYN,Google Chrome Helper (Renderer),95404032
+M-KV07TXTVYN,Google Chrome Helper (Renderer),102563840
+M-KV07TXTVYN,Google Chrome Helper (Renderer),140197888
+M-KV07TXTVYN,Google Chrome Helper (Renderer),131825664
+M-KV07TXTVYN,Google Chrome Helper (Renderer),149028864
+M-KV07TXTVYN,Google Chrome Helper (Renderer),131694592
+M-KV07TXTVYN,Google Chrome Helper (Renderer),95453184
+M-KV07TXTVYN,Google Chrome Helper (Renderer),130629632
+M-KV07TXTVYN,Google Chrome Helper (Renderer),539475968
+M-KV07TXTVYN,Google Chrome Helper (Renderer),239108096
+M-KV07TXTVYN,Google Chrome Helper (Renderer),237092864
+M-KV07TXTVYN,Google Chrome Helper (Renderer),162447360
+M-KV07TXTVYN,Google Chrome Helper (Renderer),199475200
+M-KV07TXTVYN,Google Chrome Helper (Renderer),101187584
+M-KV07TXTVYN,Google Chrome Helper (Renderer),84721664
+M-KV07TXTVYN,Google Chrome Helper (Renderer),96206848
+M-KV07TXTVYN,Google Chrome Helper (Renderer),127483904
+M-KV07TXTVYN,Google Chrome Helper (Renderer),200933376
+M-KV07TXTVYN,Google Chrome Helper (Renderer),124895232
+M-KV07TXTVYN,Google Chrome Helper (Renderer),127827968
+M-KV07TXTVYN,Google Chrome Helper (Renderer),175177728
+M-KV07TXTVYN,Google Chrome Helper (Renderer),150765568
+M-KV07TXTVYN,Google Chrome Helper (Renderer),150437888
+M-KV07TXTVYN,Google Chrome Helper (Renderer),142000128
+M-KV07TXTVYN,Google Chrome Helper (Renderer),167346176
+M-KV07TXTVYN,homed,49430528
+M-KV07TXTVYN,icdd,3932160
+M-KV07TXTVYN,iCloudNotificationAgent,15548416
+M-KV07TXTVYN,iconservicesagent,13221888
+M-KV07TXTVYN,idea,1957003264
+M-KV07TXTVYN,identityservicesd,25198592
+M-KV07TXTVYN,IFTelemetrySELFIngestor,9748480
+M-KV07TXTVYN,IFTranscriptSELFIngestor,10256384
+M-KV07TXTVYN,imagent,23527424
+M-KV07TXTVYN,IMAutomaticHistoryDeletionAgent,10829824
+M-KV07TXTVYN,imklaunchagent,11878400
+M-KV07TXTVYN,installerauthagent,3768320
+M-KV07TXTVYN,intelligenceplatformd,5980160
+M-KV07TXTVYN,itunescloudd,23298048
+M-KV07TXTVYN,Jamf Connect,54001664
+M-KV07TXTVYN,jamfRemoteAssist,19349504
+M-KV07TXTVYN,jamfRemoteAssistConnectorUI,34078720
+M-KV07TXTVYN,java,230539264
+M-KV07TXTVYN,java,19841024
+M-KV07TXTVYN,keyboardservicesd,11567104
+M-KV07TXTVYN,Keychain Circle Notification,18448384
+M-KV07TXTVYN,linkd,11026432
+M-KV07TXTVYN,loginwindow,71057408
+M-KV07TXTVYN,lsd,20496384
+M-KV07TXTVYN,managedcorespotlightd,12124160
+M-KV07TXTVYN,mbuseragent,3244032
+M-KV07TXTVYN,mdbulkimport,19021824
+M-KV07TXTVYN,mdworker_shared,32899072
+M-KV07TXTVYN,mdworker_shared,26853376
+M-KV07TXTVYN,mdworker_shared,32538624
+M-KV07TXTVYN,mdworker_shared,32374784
+M-KV07TXTVYN,mdwrite,2801664
+M-KV07TXTVYN,mediaanalysisd,20611072
+M-KV07TXTVYN,mediaremoteagent,3719168
+M-KV07TXTVYN,MessagesBlastDoorService,12288000
+M-KV07TXTVYN,Microsoft Excel,79806464
+M-KV07TXTVYN,Microsoft OneNote,161742848
+M-KV07TXTVYN,Microsoft Outlook,259915776
+M-KV07TXTVYN,Microsoft PowerPoint,146210816
+M-KV07TXTVYN,Microsoft SharePoint,74907648
+M-KV07TXTVYN,Microsoft Teams WebView,189202432
+M-KV07TXTVYN,Microsoft Teams WebView Helper,52887552
+M-KV07TXTVYN,Microsoft Teams WebView Helper,46350336
+M-KV07TXTVYN,Microsoft Teams WebView Helper,62308352
+M-KV07TXTVYN,Microsoft Teams WebView Helper (GPU),95092736
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Plugin),51412992
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Renderer),906100736
+M-KV07TXTVYN,Microsoft Update Assistant,33308672
+M-KV07TXTVYN,Microsoft Word,206618624
+M-KV07TXTVYN,MicrosoftSqlToolsCredentials,5865472
+M-KV07TXTVYN,MicrosoftSqlToolsServiceLayer,15663104
+M-KV07TXTVYN,migrationhelper,2293760
+M-KV07TXTVYN,mlhostd,15253504
+M-KV07TXTVYN,mobiletimerd,9814016
+M-KV07TXTVYN,ModelCatalogAgent,10715136
+M-KV07TXTVYN,mscamerad-xpc,3522560
+M-KV07TXTVYN,msedge_crashpad_handler,1982464
+M-KV07TXTVYN,msedge_crashpad_handler,2392064
+M-KV07TXTVYN,MSTeams,179486720
+M-KV07TXTVYN,MTLAssetUpgraderD,2785280
+M-KV07TXTVYN,Music,53788672
+M-KV07TXTVYN,MySQLWorkbench,50888704
+M-KV07TXTVYN,ndoagent,9633792
+M-KV07TXTVYN,neagent,11010048
+M-KV07TXTVYN,networkserviceproxy,21479424
+M-KV07TXTVYN,ngrok,29556736
+M-KV07TXTVYN,Notes,55083008
+M-KV07TXTVYN,NotificationCenter,70074368
+M-KV07TXTVYN,nsattributedstringagent,64503808
+M-KV07TXTVYN,nsurlsessiond,18776064
+M-KV07TXTVYN,OSDUIHelper,26640384
+M-KV07TXTVYN,PAH_Extension,17432576
+M-KV07TXTVYN,parsecd,21987328
+M-KV07TXTVYN,passd,17170432
+M-KV07TXTVYN,PasswordBreachAgent,6586368
+M-KV07TXTVYN,pboard,11845632
+M-KV07TXTVYN,peopled,11747328
+M-KV07TXTVYN,photoanalysisd,24231936
+M-KV07TXTVYN,photolibraryd,20987904
+M-KV07TXTVYN,pkd,20185088
+M-KV07TXTVYN,plugin-container,38010880
+M-KV07TXTVYN,plugin-container,38060032
+M-KV07TXTVYN,plugin-container,38043648
+M-KV07TXTVYN,plugin-container,24379392
+M-KV07TXTVYN,plugin-container,45973504
+M-KV07TXTVYN,plugin-container,22134784
+M-KV07TXTVYN,plugin-container,51806208
+M-KV07TXTVYN,plugin-container,23019520
+M-KV07TXTVYN,Postman,199393280
+M-KV07TXTVYN,Postman Helper,13893632
+M-KV07TXTVYN,Postman Helper,27066368
+M-KV07TXTVYN,Postman Helper (GPU),58703872
+M-KV07TXTVYN,Postman Helper (Renderer),622936064
+M-KV07TXTVYN,PowerChime,20856832
+M-KV07TXTVYN,Preview,69648384
+M-KV07TXTVYN,proactived,19005440
+M-KV07TXTVYN,proactiveeventtrackerd,5193728
+M-KV07TXTVYN,promotedcontentd,19398656
+M-KV07TXTVYN,ptpcamerad,3276800
+M-KV07TXTVYN,QEMUHelper,5832704
+M-KV07TXTVYN,QEMULauncher,24264704
+M-KV07TXTVYN,QEMULauncher,4521984
+M-KV07TXTVYN,QuickLookUIService,16941056
+M-KV07TXTVYN,rapportd,19808256
+M-KV07TXTVYN,replayd,51773440
+M-KV07TXTVYN,routined,24297472
+M-KV07TXTVYN,SAExtensionOrchestrator,16302080
+M-KV07TXTVYN,searchpartyuseragent,22118400
+M-KV07TXTVYN,secd,19988480
+M-KV07TXTVYN,secinitd,10944512
+M-KV07TXTVYN,seserviced,5865472
+M-KV07TXTVYN,sharedfilelistd,13385728
+M-KV07TXTVYN,ShareMail,18235392
+M-KV07TXTVYN,ShareSheetUI,21315584
+M-KV07TXTVYN,sharingd,25870336
+M-KV07TXTVYN,ShipIt,4718592
+M-KV07TXTVYN,siriinferenced,32243712
+M-KV07TXTVYN,siriknowledged,26689536
+M-KV07TXTVYN,SoftwareUpdateNotificationManager,43696128
+M-KV07TXTVYN,Spotlight,144736256
+M-KV07TXTVYN,spotlightknowledged,14598144
+M-KV07TXTVYN,spotlightknowledged,8994816
+M-KV07TXTVYN,SqlToolsResourceProviderService,4538368
+M-KV07TXTVYN,ssh-agent,1081344
+M-KV07TXTVYN,StatusKitAgent,10158080
+M-KV07TXTVYN,StocksWidget,48578560
+M-KV07TXTVYN,suggestd,28327936
+M-KV07TXTVYN,swcd,16171008
+M-KV07TXTVYN,swtransparencyd,9535488
+M-KV07TXTVYN,syncdefaultsd,14860288
+M-KV07TXTVYN,SystemUIServer,30146560
+M-KV07TXTVYN,talagentd,14532608
+M-KV07TXTVYN,tccd,15564800
+M-KV07TXTVYN,Terminal,116326400
+M-KV07TXTVYN,TextInputMenuAgent,34242560
+M-KV07TXTVYN,ThemeWidgetControlViewService,18120704
+M-KV07TXTVYN,ThemeWidgetControlViewService,27213824
+M-KV07TXTVYN,tipsd,23117824
+M-KV07TXTVYN,triald,17825792
+M-KV07TXTVYN,trustd,15597568
+M-KV07TXTVYN,Tunnelblick,56688640
+M-KV07TXTVYN,universalaccessd,14811136
+M-KV07TXTVYN,useractivityd,9682944
+M-KV07TXTVYN,UserEventAgent,18333696
+M-KV07TXTVYN,usernoted,25346048
+M-KV07TXTVYN,UserNotificationCenter,36995072
+M-KV07TXTVYN,usernotificationsd,15089664
+M-KV07TXTVYN,UTM,119406592
+M-KV07TXTVYN,ViewBridgeAuxiliary,16941056
+M-KV07TXTVYN,VTDecoderXPCService,11517952
+M-KV07TXTVYN,VTDecoderXPCService,8421376
+M-KV07TXTVYN,VTDecoderXPCService,4980736
+M-KV07TXTVYN,WallpaperAgent,25722880
+M-KV07TXTVYN,WallpaperVideoExtension,13271040
+M-KV07TXTVYN,WeatherWidget,54804480
+M-KV07TXTVYN,WiFiAgent,37404672
+M-KV07TXTVYN,WindowManager,58720256
+M-KV07TXTVYN,WorldClockWidget,35045376
+M-KV07TXTVYN,zsh,1474560
+M-KV07TXTVYN,zsh,1638400
+M-KV07TXTVYN,zsh,1589248
+M-KV07TXTVYN,zsh,3850240
+Node,Name,PeakWorkingSetSize
+M-KV07TXTVYN,accountsd,71172096
+M-KV07TXTVYN,AccountSubscriber,12124160
+M-KV07TXTVYN,adprivacyd,22036480
+M-KV07TXTVYN,AirPlayUIAgent,20643840
+M-KV07TXTVYN,akd,19906560
+M-KV07TXTVYN,AMPArtworkAgent,11042816
+M-KV07TXTVYN,AMPDeviceDiscoveryAgent,11583488
+M-KV07TXTVYN,AMPLibraryAgent,33095680
+M-KV07TXTVYN,amsaccountsd,18055168
+M-KV07TXTVYN,amsengagementd,23396352
+M-KV07TXTVYN,amsondevicestoraged,25329664
+M-KV07TXTVYN,analyticsagent,15564800
+M-KV07TXTVYN,APFSUserAgent,7553024
+M-KV07TXTVYN,appleaccountd,26689536
+M-KV07TXTVYN,AppleSpell,55508992
+M-KV07TXTVYN,AppPredictionIntentsHelperService,27623424
+M-KV07TXTVYN,AppSSOAgent,51724288
+M-KV07TXTVYN,appstoreagent,25329664
+M-KV07TXTVYN,ASConfigurationSubscriber,12812288
+M-KV07TXTVYN,askpermissiond,17367040
+M-KV07TXTVYN,AssetCacheLocatorService,14680064
+M-KV07TXTVYN,assistant_cdmd,25116672
+M-KV07TXTVYN,assistantd,38060032
+M-KV07TXTVYN,AUCrashHandlerService,8470528
+M-KV07TXTVYN,audioaccessoryd,32014336
+M-KV07TXTVYN,AudioComponentRegistrar,14925824
+M-KV07TXTVYN,avconferenced,20905984
+M-KV07TXTVYN,axassetsd,30916608
+M-KV07TXTVYN,backgroundassets.user,8208384
+M-KV07TXTVYN,BackgroundTaskManagementAgent,19365888
+M-KV07TXTVYN,betaenrollmentagent,10600448
+M-KV07TXTVYN,BiomeAgent,39321600
+M-KV07TXTVYN,BiomeSELFIngestor,14598144
+M-KV07TXTVYN,bird,19136512
+M-KV07TXTVYN,bluetoothuserd,14090240
+M-KV07TXTVYN,calaccessd,30523392
+M-KV07TXTVYN,CalendarIntentsExtension,17530880
+M-KV07TXTVYN,CalendarWidgetExtension,35815424
+M-KV07TXTVYN,CallHistoryPluginHelper,15941632
+M-KV07TXTVYN,CallHistorySyncHelper,18874368
+M-KV07TXTVYN,callservicesd,37781504
+M-KV07TXTVYN,CarbonComponentScannerXPC,9613312
+M-KV07TXTVYN,CategoriesService,10797056
+M-KV07TXTVYN,cdpd,11747328
+M-KV07TXTVYN,cfprefsd,11993088
+M-KV07TXTVYN,chrome_crashpad_handler,5095424
+M-KV07TXTVYN,chrome_crashpad_handler,5079040
+M-KV07TXTVYN,chrome_crashpad_handler,5292032
+M-KV07TXTVYN,chronod,52035584
+M-KV07TXTVYN,cloudd,35356672
+M-KV07TXTVYN,cloudphotod,10240000
+M-KV07TXTVYN,CloudTelemetryService,11091968
+M-KV07TXTVYN,CloudTelemetryService,10797056
+M-KV07TXTVYN,CloudTelemetryService,12386304
+M-KV07TXTVYN,CloudTelemetryService,21495808
+M-KV07TXTVYN,CMFSyncAgent,10420224
+M-KV07TXTVYN,Code Helper,95600640
+M-KV07TXTVYN,Code Helper,76054528
+M-KV07TXTVYN,Code Helper,128991232
+M-KV07TXTVYN,Code Helper,39976960
+M-KV07TXTVYN,Code Helper (GPU),94093312
+M-KV07TXTVYN,Code Helper (Plugin),96321536
+M-KV07TXTVYN,Code Helper (Plugin),60194816
+M-KV07TXTVYN,Code Helper (Plugin),188399616
+M-KV07TXTVYN,Code Helper (Plugin),130531328
+M-KV07TXTVYN,Code Helper (Plugin),202293248
+M-KV07TXTVYN,Code Helper (Renderer),440074240
+M-KV07TXTVYN,colorsync.useragent,6668288
+M-KV07TXTVYN,com.apple.accessibility.mediaaccessibilityd,7159808
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,81805312
+M-KV07TXTVYN,com.apple.audio.ComponentTagHelper,3997696
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7192576
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7290880
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7323648
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7454720
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7307264
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7372800
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7356416
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7323648
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7340032
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7356416
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7536640
+M-KV07TXTVYN,com.apple.BKAgentService,11354112
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,3375104
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,2932736
+M-KV07TXTVYN,com.apple.DictionaryServiceHelper,5226496
+M-KV07TXTVYN,com.apple.dock.extra,85508096
+M-KV07TXTVYN,com.apple.FaceTime.FTConversationService,14041088
+M-KV07TXTVYN,com.apple.geod,16629760
+M-KV07TXTVYN,com.apple.hiservices-xpcservice,5357568
+M-KV07TXTVYN,com.apple.quicklook.ThumbnailsAgent,32538624
+M-KV07TXTVYN,com.apple.sbd,7323648
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,10502144
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,11223040
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,10797056
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,9715712
+M-KV07TXTVYN,com.apple.Virtualization.VirtualMachine,2466299904
+M-KV07TXTVYN,com.apple.WebKit.Networking,15876096
+M-KV07TXTVYN,com.docker.backend,187580416
+M-KV07TXTVYN,com.docker.backend,71892992
+M-KV07TXTVYN,com.docker.build,41222144
+M-KV07TXTVYN,com.docker.dev-envs,14893056
+M-KV07TXTVYN,com.docker.virtualization,38125568
+M-KV07TXTVYN,com.microsoft.teams2.notificationcenter,49741824
+M-KV07TXTVYN,com.microsoft.teams2.respawn,5865472
+M-KV07TXTVYN,CommCenter,29327360
+M-KV07TXTVYN,commerce,12369920
+M-KV07TXTVYN,contactsd,19333120
+M-KV07TXTVYN,contactsdonationagent,17825792
+M-KV07TXTVYN,containermanagerd,16465920
+M-KV07TXTVYN,contentlinkingd,14729216
+M-KV07TXTVYN,ContextService,20332544
+M-KV07TXTVYN,ContextStoreAgent,34127872
+M-KV07TXTVYN,ContinuityCaptureAgent,16351232
+M-KV07TXTVYN,ControlCenter,79446016
+M-KV07TXTVYN,coreauthd,13664256
+M-KV07TXTVYN,CoreLocationAgent,48037888
+M-KV07TXTVYN,CoreServicesUIAgent,62701568
+M-KV07TXTVYN,corespeechd,35176448
+M-KV07TXTVYN,corespotlightd,128876544
+M-KV07TXTVYN,CSExattrCryptoService,11272192
+M-KV07TXTVYN,csnameddatad,4358144
+M-KV07TXTVYN,ctkahp,8830976
+M-KV07TXTVYN,ctkd,15335424
+M-KV07TXTVYN,CursorUIViewService,24674304
+M-KV07TXTVYN,dataaccessd,24559616
+M-KV07TXTVYN,deleted,20791296
+M-KV07TXTVYN,diagnosticextensionsd,14581760
+M-KV07TXTVYN,diagnostics_agent,13369344
+M-KV07TXTVYN,DiskUnmountWatcher,5652480
+M-KV07TXTVYN,distnoted,9289728
+M-KV07TXTVYN,dmd,15925248
+M-KV07TXTVYN,Dock,108445696
+M-KV07TXTVYN,Docker Desktop,201326592
+M-KV07TXTVYN,Docker Desktop Helper,34144256
+M-KV07TXTVYN,Docker Desktop Helper (GPU),74743808
+M-KV07TXTVYN,Docker Desktop Helper (Renderer),196083712
+M-KV07TXTVYN,DockHelper,42041344
+M-KV07TXTVYN,donotdisturbd,30507008
+M-KV07TXTVYN,duetexpertd,48300032
+M-KV07TXTVYN,Electron,229801984
+M-KV07TXTVYN,EndpointSecurityforMac,85147648
+M-KV07TXTVYN,extensionkitservice,8175616
+M-KV07TXTVYN,extensionkitservice,8536064
+M-KV07TXTVYN,extensionkitservice,8503296
+M-KV07TXTVYN,extensionkitservice,8552448
+M-KV07TXTVYN,extensionkitservice,8273920
+M-KV07TXTVYN,extensionkitservice,8617984
+M-KV07TXTVYN,extensionkitservice,11796480
+M-KV07TXTVYN,familycircled,15941632
+M-KV07TXTVYN,fileproviderd,28213248
+M-KV07TXTVYN,financed,22855680
+M-KV07TXTVYN,Finder,85327872
+M-KV07TXTVYN,findmylocateagent,25952256
+M-KV07TXTVYN,followupd,7913472
+M-KV07TXTVYN,fontd,32931840
+M-KV07TXTVYN,fontworker,22921216
+M-KV07TXTVYN,fsnotifier,6389760
+M-KV07TXTVYN,fudHelperAgent,3440640
+M-KV07TXTVYN,gamecontrolleragentd,9863168
+M-KV07TXTVYN,generativeexperiencesd,26279936
+M-KV07TXTVYN,geodMachServiceBridge,4751360
+M-KV07TXTVYN,GMSSELFIngestor,14483456
+M-KV07TXTVYN,Google Chrome,503529472
+M-KV07TXTVYN,Google Chrome Helper,62668800
+M-KV07TXTVYN,Google Chrome Helper,79659008
+M-KV07TXTVYN,Google Chrome Helper,158826496
+M-KV07TXTVYN,Google Chrome Helper (Alerts),67026944
+M-KV07TXTVYN,Google Chrome Helper (GPU),181633024
+M-KV07TXTVYN,Google Chrome Helper (Plugin),72712192
+M-KV07TXTVYN,Google Chrome Helper (Renderer),206651392
+M-KV07TXTVYN,Google Chrome Helper (Renderer),81772544
+M-KV07TXTVYN,Google Chrome Helper (Renderer),129384448
+M-KV07TXTVYN,Google Chrome Helper (Renderer),124010496
+M-KV07TXTVYN,Google Chrome Helper (Renderer),111263744
+M-KV07TXTVYN,Google Chrome Helper (Renderer),151027712
+M-KV07TXTVYN,Google Chrome Helper (Renderer),164052992
+M-KV07TXTVYN,Google Chrome Helper (Renderer),235388928
+M-KV07TXTVYN,Google Chrome Helper (Renderer),277381120
+M-KV07TXTVYN,Google Chrome Helper (Renderer),363986944
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155484160
+M-KV07TXTVYN,Google Chrome Helper (Renderer),185286656
+M-KV07TXTVYN,Google Chrome Helper (Renderer),114343936
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155516928
+M-KV07TXTVYN,Google Chrome Helper (Renderer),171540480
+M-KV07TXTVYN,Google Chrome Helper (Renderer),170885120
+M-KV07TXTVYN,Google Chrome Helper (Renderer),311590912
+M-KV07TXTVYN,Google Chrome Helper (Renderer),109740032
+M-KV07TXTVYN,Google Chrome Helper (Renderer),126763008
+M-KV07TXTVYN,Google Chrome Helper (Renderer),215891968
+M-KV07TXTVYN,Google Chrome Helper (Renderer),193888256
+M-KV07TXTVYN,Google Chrome Helper (Renderer),332070912
+M-KV07TXTVYN,Google Chrome Helper (Renderer),306462720
+M-KV07TXTVYN,Google Chrome Helper (Renderer),310181888
+M-KV07TXTVYN,Google Chrome Helper (Renderer),308297728
+M-KV07TXTVYN,Google Chrome Helper (Renderer),489422848
+M-KV07TXTVYN,Google Chrome Helper (Renderer),376029184
+M-KV07TXTVYN,Google Chrome Helper (Renderer),420380672
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155303936
+M-KV07TXTVYN,Google Chrome Helper (Renderer),385073152
+M-KV07TXTVYN,Google Chrome Helper (Renderer),303202304
+M-KV07TXTVYN,Google Chrome Helper (Renderer),150601728
+M-KV07TXTVYN,heard,43843584
+M-KV07TXTVYN,homed,57229312
+M-KV07TXTVYN,homeenergyd,31260672
+M-KV07TXTVYN,icdd,10190848
+M-KV07TXTVYN,icloudmailagent,12042240
+M-KV07TXTVYN,iCloudNotificationAgent,22462464
+M-KV07TXTVYN,iconservicesagent,39256064
+M-KV07TXTVYN,idea,3806461952
+M-KV07TXTVYN,identityservicesd,39796736
+M-KV07TXTVYN,IFTelemetrySELFIngestor,12697600
+M-KV07TXTVYN,IFTranscriptSELFIngestor,13385728
+M-KV07TXTVYN,imagent,40353792
+M-KV07TXTVYN,IMDPersistenceAgent,21889024
+M-KV07TXTVYN,imklaunchagent,14057472
+M-KV07TXTVYN,inputanalyticsd,12451840
+M-KV07TXTVYN,installerauthagent,4538368
+M-KV07TXTVYN,IntelligencePlatformComputeService,22822912
+M-KV07TXTVYN,intelligenceplatformd,17252352
+M-KV07TXTVYN,intelligentroutingd,20594688
+M-KV07TXTVYN,InteractiveLegacyProfilesSubscriber,17727488
+M-KV07TXTVYN,itunescloudd,29245440
+M-KV07TXTVYN,Jamf Connect,85164032
+M-KV07TXTVYN,jamfRemoteAssist,49463296
+M-KV07TXTVYN,jamfRemoteAssistConnectorUI,71221248
+M-KV07TXTVYN,java,294223872
+M-KV07TXTVYN,keyboardservicesd,14041088
+M-KV07TXTVYN,knowledge-agent,36536320
+M-KV07TXTVYN,KonaSynthesizer,13025280
+M-KV07TXTVYN,LegacyProfilesSubscriber,17727488
+M-KV07TXTVYN,linkd,34766848
+M-KV07TXTVYN,localizationswitcherd,9142272
+M-KV07TXTVYN,localspeechrecognition,36028416
+M-KV07TXTVYN,localspeechrecognition,16138240
+M-KV07TXTVYN,lockdownmoded,14811136
+M-KV07TXTVYN,loginitemregisterd,9388032
+M-KV07TXTVYN,loginwindow,38715392
+M-KV07TXTVYN,lsd,30556160
+M-KV07TXTVYN,MacinTalkAUSP,22396928
+M-KV07TXTVYN,maild,20791296
+M-KV07TXTVYN,managedcorespotlightd,35389440
+M-KV07TXTVYN,ManagedSettingsAgent,9617408
+M-KV07TXTVYN,ManagedSettingsSubscriber,10567680
+M-KV07TXTVYN,ManagementTestSubscriber,10043392
+M-KV07TXTVYN,mapssyncd,19775488
+M-KV07TXTVYN,MauiAUSP,22364160
+M-KV07TXTVYN,mdbulkimport,30261248
+M-KV07TXTVYN,mdworker_shared,24756224
+M-KV07TXTVYN,mdworker_shared,24936448
+M-KV07TXTVYN,mdworker_shared,24739840
+M-KV07TXTVYN,mdworker_shared,24707072
+M-KV07TXTVYN,mdworker_shared,24756224
+M-KV07TXTVYN,mdworker_shared,20692992
+M-KV07TXTVYN,mdworker_shared,32784384
+M-KV07TXTVYN,mdworker_shared,32686080
+M-KV07TXTVYN,mdwrite,5423104
+M-KV07TXTVYN,media-indexer,13287424
+M-KV07TXTVYN,mediaanalysisd,356106240
+M-KV07TXTVYN,mediaremoteagent,4849664
+M-KV07TXTVYN,MENotificationAgent,12566528
+M-KV07TXTVYN,MessagesActionExtension,29147136
+M-KV07TXTVYN,metrickitd,8634368
+M-KV07TXTVYN,Microsoft Excel,249643008
+M-KV07TXTVYN,Microsoft OneNote,303841280
+M-KV07TXTVYN,Microsoft Outlook,416645120
+M-KV07TXTVYN,Microsoft PowerPoint,199737344
+M-KV07TXTVYN,Microsoft SharePoint,144769024
+M-KV07TXTVYN,Microsoft Teams WebView,286490624
+M-KV07TXTVYN,Microsoft Teams WebView Helper,71761920
+M-KV07TXTVYN,Microsoft Teams WebView Helper,68861952
+M-KV07TXTVYN,Microsoft Teams WebView Helper,81461248
+M-KV07TXTVYN,Microsoft Teams WebView Helper (GPU),149618688
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Plugin),72564736
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Renderer),881852416
+M-KV07TXTVYN,Microsoft Word,294469632
+M-KV07TXTVYN,milod,20561920
+M-KV07TXTVYN,mlhostd,23576576
+M-KV07TXTVYN,mobiletimerd,14647296
+M-KV07TXTVYN,ModelCatalogAgent,18776064
+M-KV07TXTVYN,mscamerad-xpc,6307840
+M-KV07TXTVYN,msedge_crashpad_handler,4734976
+M-KV07TXTVYN,msedge_crashpad_handler,5750784
+M-KV07TXTVYN,MSTeams,186712064
+M-KV07TXTVYN,MTLAssetUpgraderD,13352960
+M-KV07TXTVYN,MTLCompilerService,15187968
+M-KV07TXTVYN,MTLCompilerService,43024384
+M-KV07TXTVYN,MTLCompilerService,41287680
+M-KV07TXTVYN,MTLCompilerService,50610176
+M-KV07TXTVYN,MTLCompilerService,54116352
+M-KV07TXTVYN,MTLCompilerService,39682048
+M-KV07TXTVYN,MTLCompilerService,38518784
+M-KV07TXTVYN,MTLCompilerService,50282496
+M-KV07TXTVYN,MTLCompilerService,39649280
+M-KV07TXTVYN,MTLCompilerService,19677184
+M-KV07TXTVYN,MTLCompilerService,19005440
+M-KV07TXTVYN,Music,180453376
+M-KV07TXTVYN,naturallanguaged,9388032
+M-KV07TXTVYN,ndoagent,9469952
+M-KV07TXTVYN,neagent,14876672
+M-KV07TXTVYN,networkserviceproxy,31703040
+M-KV07TXTVYN,ngrok,33538048
+M-KV07TXTVYN,Notes,75792384
+M-KV07TXTVYN,NotificationCenter,67567616
+M-KV07TXTVYN,nsattributedstringagent,72253440
+M-KV07TXTVYN,nsurlsessiond,21839872
+M-KV07TXTVYN,PackageThumbnailExtension,13746176
+M-KV07TXTVYN,PAH_Extension,21495808
+M-KV07TXTVYN,parsec-fbf,13189120
+M-KV07TXTVYN,parsecd,27656192
+M-KV07TXTVYN,PasscodeSettingsSubscriber,17891328
+M-KV07TXTVYN,PasswordBreachAgent,17563648
+M-KV07TXTVYN,pboard,13516800
+M-KV07TXTVYN,pbs,9895936
+M-KV07TXTVYN,photoanalysisd,28311552
+M-KV07TXTVYN,photolibraryd,26034176
+M-KV07TXTVYN,pkd,17416192
+M-KV07TXTVYN,PlugInLibraryService,3489792
+M-KV07TXTVYN,PlugInLibraryService,3981312
+M-KV07TXTVYN,PodcastContentService,9043968
+M-KV07TXTVYN,Postman,287506432
+M-KV07TXTVYN,Postman Helper,32718848
+M-KV07TXTVYN,Postman Helper,46776320
+M-KV07TXTVYN,Postman Helper (GPU),98467840
+M-KV07TXTVYN,Postman Helper (Renderer),473284608
+M-KV07TXTVYN,PowerChime,27033600
+M-KV07TXTVYN,Preview,172720128
+M-KV07TXTVYN,privatecloudcomputed,18857984
+M-KV07TXTVYN,proactived,23035904
+M-KV07TXTVYN,proactiveeventtrackerd,12304384
+M-KV07TXTVYN,promotedcontentd,23199744
+M-KV07TXTVYN,ProtectedCloudKeySyncing,13074432
+M-KV07TXTVYN,ptpcamerad,8257536
+M-KV07TXTVYN,QuickLookUIService,18776064
+M-KV07TXTVYN,QuickLookUIService,19103744
+M-KV07TXTVYN,rapportd,31801344
+M-KV07TXTVYN,remindd,32309248
+M-KV07TXTVYN,RemoteManagementAgent,14548992
+M-KV07TXTVYN,replayd,52183040
+M-KV07TXTVYN,replicatord,24707072
+M-KV07TXTVYN,ReportCrash,4390912
+M-KV07TXTVYN,routined,31817728
+M-KV07TXTVYN,SAExtensionOrchestrator,17891328
+M-KV07TXTVYN,SafariBookmarksSyncAgent,20561920
+M-KV07TXTVYN,SafariConfigurationSubscriber,12369920
+M-KV07TXTVYN,SafariLaunchAgent,12533760
+M-KV07TXTVYN,SafariLinkExtension,17580032
+M-KV07TXTVYN,ScopedBookmarkAgent,17924096
+M-KV07TXTVYN,ScreenSharingSubscriber,12566528
+M-KV07TXTVYN,ScreenTimeAgent,20758528
+M-KV07TXTVYN,searchpartyuseragent,35471360
+M-KV07TXTVYN,secd,27443200
+M-KV07TXTVYN,secinitd,46972928
+M-KV07TXTVYN,SecuritySubscriber,10158080
+M-KV07TXTVYN,SetStoreUpdateService,15679488
+M-KV07TXTVYN,sharedfilelistd,18432000
+M-KV07TXTVYN,sharingd,40386560
+M-KV07TXTVYN,siriactionsd,46219264
+M-KV07TXTVYN,SiriAUSP,13680640
+M-KV07TXTVYN,siriinferenced,72335360
+M-KV07TXTVYN,siriknowledged,51806208
+M-KV07TXTVYN,SiriSuggestionsBookkeepingService,48529408
+M-KV07TXTVYN,sirittsd,13287424
+M-KV07TXTVYN,sociallayerd,16351232
+M-KV07TXTVYN,SoftwareUpdateNotificationManager,46710784
+M-KV07TXTVYN,spindump_agent,4571136
+M-KV07TXTVYN,Spotlight,155254784
+M-KV07TXTVYN,spotlightknowledged,34160640
+M-KV07TXTVYN,spotlightknowledged,21692416
+M-KV07TXTVYN,StatusKitAgent,19791872
+M-KV07TXTVYN,StocksKitService,25575424
+M-KV07TXTVYN,StocksWidget,90472448
+M-KV07TXTVYN,storekitagent,26771456
+M-KV07TXTVYN,studentd,34947072
+M-KV07TXTVYN,suggestd,46170112
+M-KV07TXTVYN,swcd,25804800
+M-KV07TXTVYN,swtransparencyd,12124160
+M-KV07TXTVYN,syncdefaultsd,18087936
+M-KV07TXTVYN,SystemUIServer,54525952
+M-KV07TXTVYN,talagentd,32243712
+M-KV07TXTVYN,tccd,27066368
+M-KV07TXTVYN,Terminal,165838848
+M-KV07TXTVYN,TextInputMenuAgent,61652992
+M-KV07TXTVYN,TextInputSwitcher,27148288
+M-KV07TXTVYN,ThemeWidgetControlViewService,20381696
+M-KV07TXTVYN,ThemeWidgetControlViewService,21807104
+M-KV07TXTVYN,ThemeWidgetControlViewService,21561344
+M-KV07TXTVYN,ThemeWidgetControlViewService,40026112
+M-KV07TXTVYN,tipsd,32096256
+M-KV07TXTVYN,transparencyd,29163520
+M-KV07TXTVYN,triald,28934144
+M-KV07TXTVYN,trustd,24739840
+M-KV07TXTVYN,Tunnelblick,75530240
+M-KV07TXTVYN,UIKitSystem,33062912
+M-KV07TXTVYN,universalaccessd,21397504
+M-KV07TXTVYN,UsageTrackingAgent,19595264
+M-KV07TXTVYN,useractivityd,13238272
+M-KV07TXTVYN,UserEventAgent,24363008
+M-KV07TXTVYN,usernoted,34177024
+M-KV07TXTVYN,usernotificationsd,20283392
+M-KV07TXTVYN,UTM,86327296
+M-KV07TXTVYN,ViewBridgeAuxiliary,14991360
+M-KV07TXTVYN,VisualizerService,20021248
+M-KV07TXTVYN,VisualizerService_x86,11448320
+M-KV07TXTVYN,voicebankingd,16449536
+M-KV07TXTVYN,VTDecoderXPCService,14565376
+M-KV07TXTVYN,VTDecoderXPCService,11862016
+M-KV07TXTVYN,VTDecoderXPCService,14647296
+M-KV07TXTVYN,VTEncoderXPCService,31604736
+M-KV07TXTVYN,VTEncoderXPCService,27475968
+M-KV07TXTVYN,VTEncoderXPCService,24985600
+M-KV07TXTVYN,VTEncoderXPCService,29917184
+M-KV07TXTVYN,WallpaperAgent,34226176
+M-KV07TXTVYN,WallpaperVideoExtension,82460672
+M-KV07TXTVYN,WardaSynthesizer_arm64,16646144
+M-KV07TXTVYN,WardaSynthesizer_x86_64,10858496
+M-KV07TXTVYN,weatherd,19005440
+M-KV07TXTVYN,WeatherWidget,79577088
+M-KV07TXTVYN,webprivacyd,14581760
+M-KV07TXTVYN,WiFiAgent,47923200
+M-KV07TXTVYN,WiFiCloudAssetsXPCService,4734976
+M-KV07TXTVYN,WindowManager,42958848
+M-KV07TXTVYN,WorldClockWidget,59523072
+M-KV07TXTVYN,XProtectPluginService,9633792
+M-KV07TXTVYN,zsh,7995392
+M-KV07TXTVYN,zsh,5160960
+M-KV07TXTVYN,zsh,7897088
+Node,Name,PeakWorkingSetSize
+M-KV07TXTVYN,accountsd,71188480
+M-KV07TXTVYN,AccountSubscriber,12124160
+M-KV07TXTVYN,adprivacyd,21954560
+M-KV07TXTVYN,AirPlayUIAgent,20643840
+M-KV07TXTVYN,akd,19824640
+M-KV07TXTVYN,AMPArtworkAgent,11010048
+M-KV07TXTVYN,AMPDeviceDiscoveryAgent,11534336
+M-KV07TXTVYN,AMPLibraryAgent,33095680
+M-KV07TXTVYN,amsaccountsd,18055168
+M-KV07TXTVYN,amsengagementd,23379968
+M-KV07TXTVYN,amsondevicestoraged,25214976
+M-KV07TXTVYN,analyticsagent,15564800
+M-KV07TXTVYN,APFSUserAgent,7553024
+M-KV07TXTVYN,appleaccountd,26689536
+M-KV07TXTVYN,AppleSpell,57458688
+M-KV07TXTVYN,AppPredictionIntentsHelperService,30228480
+M-KV07TXTVYN,AppSSOAgent,51740672
+M-KV07TXTVYN,appstoreagent,25346048
+M-KV07TXTVYN,ASConfigurationSubscriber,12812288
+M-KV07TXTVYN,askpermissiond,17252352
+M-KV07TXTVYN,AssetCacheLocatorService,14696448
+M-KV07TXTVYN,assistant_cdmd,25116672
+M-KV07TXTVYN,assistantd,38027264
+M-KV07TXTVYN,AUCrashHandlerService,8470528
+M-KV07TXTVYN,audioaccessoryd,32030720
+M-KV07TXTVYN,AudioComponentRegistrar,14893056
+M-KV07TXTVYN,avconferenced,20905984
+M-KV07TXTVYN,axassetsd,30916608
+M-KV07TXTVYN,backgroundassets.user,8192000
+M-KV07TXTVYN,BackgroundTaskManagementAgent,19365888
+M-KV07TXTVYN,betaenrollmentagent,10600448
+M-KV07TXTVYN,BiomeAgent,39469056
+M-KV07TXTVYN,BiomeSELFIngestor,14598144
+M-KV07TXTVYN,bird,19136512
+M-KV07TXTVYN,bluetoothuserd,14090240
+M-KV07TXTVYN,calaccessd,31571968
+M-KV07TXTVYN,CalendarIntentsExtension,17530880
+M-KV07TXTVYN,CalendarWidgetExtension,35815424
+M-KV07TXTVYN,CallHistoryPluginHelper,15941632
+M-KV07TXTVYN,CallHistorySyncHelper,18874368
+M-KV07TXTVYN,callservicesd,37765120
+M-KV07TXTVYN,CarbonComponentScannerXPC,9613312
+M-KV07TXTVYN,CategoriesService,10797056
+M-KV07TXTVYN,cdpd,11747328
+M-KV07TXTVYN,cfprefsd,11354112
+M-KV07TXTVYN,chrome_crashpad_handler,5095424
+M-KV07TXTVYN,chrome_crashpad_handler,5079040
+M-KV07TXTVYN,chrome_crashpad_handler,5292032
+M-KV07TXTVYN,chronod,52133888
+M-KV07TXTVYN,cloudd,35323904
+M-KV07TXTVYN,cloudphotod,10240000
+M-KV07TXTVYN,CloudTelemetryService,11075584
+M-KV07TXTVYN,CloudTelemetryService,10764288
+M-KV07TXTVYN,CloudTelemetryService,12353536
+M-KV07TXTVYN,CloudTelemetryService,21495808
+M-KV07TXTVYN,CMFSyncAgent,10420224
+M-KV07TXTVYN,Code Helper,96600064
+M-KV07TXTVYN,Code Helper,76087296
+M-KV07TXTVYN,Code Helper,129155072
+M-KV07TXTVYN,Code Helper,39976960
+M-KV07TXTVYN,Code Helper (GPU),92979200
+M-KV07TXTVYN,Code Helper (Plugin),96321536
+M-KV07TXTVYN,Code Helper (Plugin),60325888
+M-KV07TXTVYN,Code Helper (Plugin),184811520
+M-KV07TXTVYN,Code Helper (Plugin),131563520
+M-KV07TXTVYN,Code Helper (Plugin),203800576
+M-KV07TXTVYN,Code Helper (Renderer),501022720
+M-KV07TXTVYN,colorsync.useragent,6668288
+M-KV07TXTVYN,com.apple.accessibility.mediaaccessibilityd,7159808
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,81838080
+M-KV07TXTVYN,com.apple.audio.ComponentTagHelper,3997696
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7192576
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7290880
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7323648
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7454720
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7307264
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7372800
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7356416
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7323648
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7340032
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7356416
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7536640
+M-KV07TXTVYN,com.apple.BKAgentService,11354112
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,3375104
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,2932736
+M-KV07TXTVYN,com.apple.DictionaryServiceHelper,5226496
+M-KV07TXTVYN,com.apple.dock.extra,85524480
+M-KV07TXTVYN,com.apple.FaceTime.FTConversationService,14041088
+M-KV07TXTVYN,com.apple.geod,16596992
+M-KV07TXTVYN,com.apple.hiservices-xpcservice,5357568
+M-KV07TXTVYN,com.apple.quicklook.ThumbnailsAgent,32423936
+M-KV07TXTVYN,com.apple.sbd,7323648
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,10502144
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,11223040
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,10797056
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,9715712
+M-KV07TXTVYN,com.apple.Virtualization.VirtualMachine,2605105152
+M-KV07TXTVYN,com.apple.WebKit.Networking,15646720
+M-KV07TXTVYN,com.docker.backend,188252160
+M-KV07TXTVYN,com.docker.backend,72024064
+M-KV07TXTVYN,com.docker.build,54345728
+M-KV07TXTVYN,com.docker.dev-envs,14893056
+M-KV07TXTVYN,com.docker.virtualization,38420480
+M-KV07TXTVYN,com.microsoft.teams2.notificationcenter,49840128
+M-KV07TXTVYN,com.microsoft.teams2.respawn,5865472
+M-KV07TXTVYN,CommCenter,29327360
+M-KV07TXTVYN,commerce,12369920
+M-KV07TXTVYN,contactsd,19660800
+M-KV07TXTVYN,contactsdonationagent,17825792
+M-KV07TXTVYN,containermanagerd,16465920
+M-KV07TXTVYN,contentlinkingd,14729216
+M-KV07TXTVYN,ContextService,20332544
+M-KV07TXTVYN,ContextStoreAgent,34291712
+M-KV07TXTVYN,ContinuityCaptureAgent,16351232
+M-KV07TXTVYN,ControlCenter,79429632
+M-KV07TXTVYN,coreauthd,13680640
+M-KV07TXTVYN,CoreLocationAgent,48070656
+M-KV07TXTVYN,CoreServicesUIAgent,62799872
+M-KV07TXTVYN,corespeechd,35160064
+M-KV07TXTVYN,corespotlightd,129695744
+M-KV07TXTVYN,CSExattrCryptoService,11272192
+M-KV07TXTVYN,csnameddatad,4358144
+M-KV07TXTVYN,ctkahp,8830976
+M-KV07TXTVYN,ctkd,15335424
+M-KV07TXTVYN,CursorUIViewService,24739840
+M-KV07TXTVYN,dataaccessd,24543232
+M-KV07TXTVYN,deleted,20791296
+M-KV07TXTVYN,diagnosticextensionsd,14581760
+M-KV07TXTVYN,diagnostics_agent,13369344
+M-KV07TXTVYN,DiskUnmountWatcher,5652480
+M-KV07TXTVYN,distnoted,9224192
+M-KV07TXTVYN,dmd,15892480
+M-KV07TXTVYN,Dock,105889792
+M-KV07TXTVYN,Docker Desktop,203554816
+M-KV07TXTVYN,Docker Desktop Helper,34144256
+M-KV07TXTVYN,Docker Desktop Helper (GPU),74924032
+M-KV07TXTVYN,Docker Desktop Helper (Renderer),192233472
+M-KV07TXTVYN,DockHelper,42041344
+M-KV07TXTVYN,donotdisturbd,30507008
+M-KV07TXTVYN,duetexpertd,49627136
+M-KV07TXTVYN,Electron,233521152
+M-KV07TXTVYN,EndpointSecurityforMac,85131264
+M-KV07TXTVYN,extensionkitservice,8175616
+M-KV07TXTVYN,extensionkitservice,8536064
+M-KV07TXTVYN,extensionkitservice,8503296
+M-KV07TXTVYN,extensionkitservice,8552448
+M-KV07TXTVYN,extensionkitservice,8273920
+M-KV07TXTVYN,extensionkitservice,8617984
+M-KV07TXTVYN,extensionkitservice,11845632
+M-KV07TXTVYN,familycircled,16039936
+M-KV07TXTVYN,fileproviderd,28213248
+M-KV07TXTVYN,financed,22380544
+M-KV07TXTVYN,Finder,85409792
+M-KV07TXTVYN,findmylocateagent,25952256
+M-KV07TXTVYN,followupd,7880704
+M-KV07TXTVYN,fontd,32882688
+M-KV07TXTVYN,fontworker,22921216
+M-KV07TXTVYN,fsnotifier,6389760
+M-KV07TXTVYN,fudHelperAgent,3440640
+M-KV07TXTVYN,gamecontrolleragentd,9863168
+M-KV07TXTVYN,generativeexperiencesd,26279936
+M-KV07TXTVYN,geodMachServiceBridge,4751360
+M-KV07TXTVYN,GMSSELFIngestor,14483456
+M-KV07TXTVYN,Google Chrome,509411328
+M-KV07TXTVYN,Google Chrome Helper,62668800
+M-KV07TXTVYN,Google Chrome Helper,79544320
+M-KV07TXTVYN,Google Chrome Helper,158941184
+M-KV07TXTVYN,Google Chrome Helper (Alerts),67043328
+M-KV07TXTVYN,Google Chrome Helper (GPU),189005824
+M-KV07TXTVYN,Google Chrome Helper (Plugin),72712192
+M-KV07TXTVYN,Google Chrome Helper (Renderer),81854464
+M-KV07TXTVYN,Google Chrome Helper (Renderer),208486400
+M-KV07TXTVYN,Google Chrome Helper (Renderer),129368064
+M-KV07TXTVYN,Google Chrome Helper (Renderer),123961344
+M-KV07TXTVYN,Google Chrome Helper (Renderer),111263744
+M-KV07TXTVYN,Google Chrome Helper (Renderer),151863296
+M-KV07TXTVYN,Google Chrome Helper (Renderer),164118528
+M-KV07TXTVYN,Google Chrome Helper (Renderer),235749376
+M-KV07TXTVYN,Google Chrome Helper (Renderer),277479424
+M-KV07TXTVYN,Google Chrome Helper (Renderer),368934912
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155484160
+M-KV07TXTVYN,Google Chrome Helper (Renderer),185303040
+M-KV07TXTVYN,Google Chrome Helper (Renderer),115064832
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155500544
+M-KV07TXTVYN,Google Chrome Helper (Renderer),171687936
+M-KV07TXTVYN,Google Chrome Helper (Renderer),171048960
+M-KV07TXTVYN,Google Chrome Helper (Renderer),312098816
+M-KV07TXTVYN,Google Chrome Helper (Renderer),110428160
+M-KV07TXTVYN,Google Chrome Helper (Renderer),126746624
+M-KV07TXTVYN,Google Chrome Helper (Renderer),216186880
+M-KV07TXTVYN,Google Chrome Helper (Renderer),200720384
+M-KV07TXTVYN,Google Chrome Helper (Renderer),332005376
+M-KV07TXTVYN,Google Chrome Helper (Renderer),319160320
+M-KV07TXTVYN,Google Chrome Helper (Renderer),317849600
+M-KV07TXTVYN,Google Chrome Helper (Renderer),311066624
+M-KV07TXTVYN,Google Chrome Helper (Renderer),524451840
+M-KV07TXTVYN,Google Chrome Helper (Renderer),372375552
+M-KV07TXTVYN,Google Chrome Helper (Renderer),513114112
+M-KV07TXTVYN,Google Chrome Helper (Renderer),385056768
+M-KV07TXTVYN,Google Chrome Helper (Renderer),303497216
+M-KV07TXTVYN,Google Chrome Helper (Renderer),157696000
+M-KV07TXTVYN,heard,43597824
+M-KV07TXTVYN,homed,57196544
+M-KV07TXTVYN,homeenergyd,31227904
+M-KV07TXTVYN,icdd,10190848
+M-KV07TXTVYN,icloudmailagent,12042240
+M-KV07TXTVYN,iCloudNotificationAgent,22462464
+M-KV07TXTVYN,iconservicesagent,38993920
+M-KV07TXTVYN,idea,3810459648
+M-KV07TXTVYN,identityservicesd,39976960
+M-KV07TXTVYN,IFTelemetrySELFIngestor,12697600
+M-KV07TXTVYN,IFTranscriptSELFIngestor,13385728
+M-KV07TXTVYN,imagent,40337408
+M-KV07TXTVYN,IMDPersistenceAgent,21790720
+M-KV07TXTVYN,imklaunchagent,14106624
+M-KV07TXTVYN,inputanalyticsd,12451840
+M-KV07TXTVYN,installerauthagent,4538368
+M-KV07TXTVYN,IntelligencePlatformComputeService,24461312
+M-KV07TXTVYN,intelligenceplatformd,16777216
+M-KV07TXTVYN,intelligentroutingd,20594688
+M-KV07TXTVYN,InteractiveLegacyProfilesSubscriber,17727488
+M-KV07TXTVYN,itunescloudd,29179904
+M-KV07TXTVYN,Jamf Connect,84049920
+M-KV07TXTVYN,jamfRemoteAssist,49463296
+M-KV07TXTVYN,jamfRemoteAssistConnectorUI,71270400
+M-KV07TXTVYN,java,317521920
+M-KV07TXTVYN,keyboardservicesd,14008320
+M-KV07TXTVYN,knowledge-agent,36274176
+M-KV07TXTVYN,KonaSynthesizer,13025280
+M-KV07TXTVYN,LegacyProfilesSubscriber,17727488
+M-KV07TXTVYN,linkd,41746432
+M-KV07TXTVYN,localizationswitcherd,9142272
+M-KV07TXTVYN,localspeechrecognition,36028416
+M-KV07TXTVYN,localspeechrecognition,16138240
+M-KV07TXTVYN,lockdownmoded,14811136
+M-KV07TXTVYN,loginitemregisterd,9388032
+M-KV07TXTVYN,loginwindow,38764544
+M-KV07TXTVYN,lsd,30507008
+M-KV07TXTVYN,MacinTalkAUSP,22396928
+M-KV07TXTVYN,maild,20692992
+M-KV07TXTVYN,managedcorespotlightd,35389440
+M-KV07TXTVYN,ManagedSettingsAgent,9617408
+M-KV07TXTVYN,ManagedSettingsSubscriber,10567680
+M-KV07TXTVYN,ManagementTestSubscriber,10043392
+M-KV07TXTVYN,mapssyncd,19349504
+M-KV07TXTVYN,MauiAUSP,22364160
+M-KV07TXTVYN,mdbulkimport,30261248
+M-KV07TXTVYN,mdworker_shared,32849920
+M-KV07TXTVYN,mdworker_shared,32735232
+M-KV07TXTVYN,mdworker_shared,32505856
+M-KV07TXTVYN,mdwrite,5423104
+M-KV07TXTVYN,media-indexer,13287424
+M-KV07TXTVYN,mediaanalysisd,356204544
+M-KV07TXTVYN,mediaremoteagent,4849664
+M-KV07TXTVYN,MENotificationAgent,12566528
+M-KV07TXTVYN,MessagesActionExtension,29147136
+M-KV07TXTVYN,metrickitd,8634368
+M-KV07TXTVYN,Microsoft Excel,245039104
+M-KV07TXTVYN,Microsoft OneNote,301481984
+M-KV07TXTVYN,Microsoft Outlook,412319744
+M-KV07TXTVYN,Microsoft PowerPoint,195182592
+M-KV07TXTVYN,Microsoft SharePoint,144359424
+M-KV07TXTVYN,Microsoft Teams WebView,286441472
+M-KV07TXTVYN,Microsoft Teams WebView Helper,71778304
+M-KV07TXTVYN,Microsoft Teams WebView Helper,68878336
+M-KV07TXTVYN,Microsoft Teams WebView Helper,81444864
+M-KV07TXTVYN,Microsoft Teams WebView Helper (GPU),148848640
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Plugin),72564736
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Renderer),856850432
+M-KV07TXTVYN,Microsoft Word,289865728
+M-KV07TXTVYN,milod,20561920
+M-KV07TXTVYN,mlhostd,23576576
+M-KV07TXTVYN,mobiletimerd,14630912
+M-KV07TXTVYN,ModelCatalogAgent,18776064
+M-KV07TXTVYN,mscamerad-xpc,6307840
+M-KV07TXTVYN,msedge_crashpad_handler,4734976
+M-KV07TXTVYN,msedge_crashpad_handler,5750784
+M-KV07TXTVYN,MSTeams,186400768
+M-KV07TXTVYN,MTLAssetUpgraderD,13352960
+M-KV07TXTVYN,MTLCompilerService,15187968
+M-KV07TXTVYN,MTLCompilerService,43024384
+M-KV07TXTVYN,MTLCompilerService,41287680
+M-KV07TXTVYN,MTLCompilerService,51052544
+M-KV07TXTVYN,MTLCompilerService,54099968
+M-KV07TXTVYN,MTLCompilerService,39682048
+M-KV07TXTVYN,MTLCompilerService,38518784
+M-KV07TXTVYN,MTLCompilerService,50888704
+M-KV07TXTVYN,MTLCompilerService,39649280
+M-KV07TXTVYN,MTLCompilerService,19677184
+M-KV07TXTVYN,MTLCompilerService,19005440
+M-KV07TXTVYN,Music,180076544
+M-KV07TXTVYN,naturallanguaged,9469952
+M-KV07TXTVYN,ndoagent,9469952
+M-KV07TXTVYN,neagent,14876672
+M-KV07TXTVYN,networkserviceproxy,31703040
+M-KV07TXTVYN,ngrok,34226176
+M-KV07TXTVYN,Notes,75235328
+M-KV07TXTVYN,NotificationCenter,67469312
+M-KV07TXTVYN,nsattributedstringagent,72253440
+M-KV07TXTVYN,nsurlsessiond,21790720
+M-KV07TXTVYN,PackageThumbnailExtension,13746176
+M-KV07TXTVYN,PAH_Extension,21528576
+M-KV07TXTVYN,parsec-fbf,13189120
+M-KV07TXTVYN,parsecd,27623424
+M-KV07TXTVYN,PasscodeSettingsSubscriber,17891328
+M-KV07TXTVYN,PasswordBreachAgent,17563648
+M-KV07TXTVYN,pboard,13467648
+M-KV07TXTVYN,pbs,9895936
+M-KV07TXTVYN,photoanalysisd,28131328
+M-KV07TXTVYN,photolibraryd,25706496
+M-KV07TXTVYN,pkd,17416192
+M-KV07TXTVYN,PlugInLibraryService,3489792
+M-KV07TXTVYN,PlugInLibraryService,3981312
+M-KV07TXTVYN,PodcastContentService,9043968
+M-KV07TXTVYN,Postman,292241408
+M-KV07TXTVYN,Postman Helper,32702464
+M-KV07TXTVYN,Postman Helper,46825472
+M-KV07TXTVYN,Postman Helper (GPU),98697216
+M-KV07TXTVYN,Postman Helper (Renderer),461045760
+M-KV07TXTVYN,PowerChime,26181632
+M-KV07TXTVYN,Preview,171933696
+M-KV07TXTVYN,privatecloudcomputed,18825216
+M-KV07TXTVYN,proactived,23085056
+M-KV07TXTVYN,proactiveeventtrackerd,12304384
+M-KV07TXTVYN,promotedcontentd,23199744
+M-KV07TXTVYN,ProtectedCloudKeySyncing,13123584
+M-KV07TXTVYN,ptpcamerad,8257536
+M-KV07TXTVYN,QuickLookUIService,18792448
+M-KV07TXTVYN,QuickLookUIService,19120128
+M-KV07TXTVYN,rapportd,31768576
+M-KV07TXTVYN,RemoteManagementAgent,14499840
+M-KV07TXTVYN,replayd,52183040
+M-KV07TXTVYN,replicatord,24707072
+M-KV07TXTVYN,ReportCrash,4390912
+M-KV07TXTVYN,routined,31178752
+M-KV07TXTVYN,SAExtensionOrchestrator,17891328
+M-KV07TXTVYN,SafariBookmarksSyncAgent,20463616
+M-KV07TXTVYN,SafariConfigurationSubscriber,12369920
+M-KV07TXTVYN,SafariLaunchAgent,12533760
+M-KV07TXTVYN,SafariLinkExtension,17580032
+M-KV07TXTVYN,ScopedBookmarkAgent,17924096
+M-KV07TXTVYN,ScreenSharingSubscriber,12566528
+M-KV07TXTVYN,ScreenTimeAgent,20627456
+M-KV07TXTVYN,searchpartyuseragent,35405824
+M-KV07TXTVYN,secd,24477696
+M-KV07TXTVYN,secinitd,46972928
+M-KV07TXTVYN,SecuritySubscriber,10158080
+M-KV07TXTVYN,SetStoreUpdateService,15679488
+M-KV07TXTVYN,sharedfilelistd,18366464
+M-KV07TXTVYN,sharingd,40402944
+M-KV07TXTVYN,siriactionsd,46120960
+M-KV07TXTVYN,SiriAUSP,13680640
+M-KV07TXTVYN,siriinferenced,72204288
+M-KV07TXTVYN,siriknowledged,51806208
+M-KV07TXTVYN,SiriSuggestionsBookkeepingService,48529408
+M-KV07TXTVYN,sirittsd,13287424
+M-KV07TXTVYN,sociallayerd,16351232
+M-KV07TXTVYN,SoftwareUpdateNotificationManager,46727168
+M-KV07TXTVYN,spindump_agent,4571136
+M-KV07TXTVYN,Spotlight,155189248
+M-KV07TXTVYN,spotlightknowledged,115212288
+M-KV07TXTVYN,spotlightknowledged,21774336
+M-KV07TXTVYN,StatusKitAgent,19496960
+M-KV07TXTVYN,StocksKitService,25378816
+M-KV07TXTVYN,StocksWidget,90472448
+M-KV07TXTVYN,storekitagent,26624000
+M-KV07TXTVYN,studentd,34963456
+M-KV07TXTVYN,suggestd,46448640
+M-KV07TXTVYN,swcd,25804800
+M-KV07TXTVYN,swtransparencyd,12058624
+M-KV07TXTVYN,syncdefaultsd,17989632
+M-KV07TXTVYN,SystemUIServer,54525952
+M-KV07TXTVYN,talagentd,32243712
+M-KV07TXTVYN,tccd,27049984
+M-KV07TXTVYN,Terminal,165232640
+M-KV07TXTVYN,TextInputMenuAgent,61734912
+M-KV07TXTVYN,TextInputSwitcher,27115520
+M-KV07TXTVYN,ThemeWidgetControlViewService,20660224
+M-KV07TXTVYN,ThemeWidgetControlViewService,21839872
+M-KV07TXTVYN,ThemeWidgetControlViewService,21659648
+M-KV07TXTVYN,ThemeWidgetControlViewService,40009728
+M-KV07TXTVYN,tipsd,31981568
+M-KV07TXTVYN,transparencyd,28868608
+M-KV07TXTVYN,triald,28016640
+M-KV07TXTVYN,trustd,23330816
+M-KV07TXTVYN,Tunnelblick,75415552
+M-KV07TXTVYN,UIKitSystem,33046528
+M-KV07TXTVYN,universalaccessd,21397504
+M-KV07TXTVYN,UsageTrackingAgent,19595264
+M-KV07TXTVYN,useractivityd,13271040
+M-KV07TXTVYN,UserEventAgent,24395776
+M-KV07TXTVYN,usernoted,37502976
+M-KV07TXTVYN,usernotificationsd,20234240
+M-KV07TXTVYN,UTM,86507520
+M-KV07TXTVYN,ViewBridgeAuxiliary,15056896
+M-KV07TXTVYN,VisualizerService,20054016
+M-KV07TXTVYN,VisualizerService_x86,11456512
+M-KV07TXTVYN,voicebankingd,16171008
+M-KV07TXTVYN,VTDecoderXPCService,14565376
+M-KV07TXTVYN,VTDecoderXPCService,11862016
+M-KV07TXTVYN,VTDecoderXPCService,14647296
+M-KV07TXTVYN,VTEncoderXPCService,31686656
+M-KV07TXTVYN,VTEncoderXPCService,27475968
+M-KV07TXTVYN,VTEncoderXPCService,24985600
+M-KV07TXTVYN,VTEncoderXPCService,29917184
+M-KV07TXTVYN,WallpaperAgent,34226176
+M-KV07TXTVYN,WallpaperVideoExtension,28704768
+M-KV07TXTVYN,WardaSynthesizer_arm64,16646144
+M-KV07TXTVYN,WardaSynthesizer_x86_64,10858496
+M-KV07TXTVYN,weatherd,19005440
+M-KV07TXTVYN,WeatherWidget,79659008
+M-KV07TXTVYN,webprivacyd,14581760
+M-KV07TXTVYN,WiFiAgent,47890432
+M-KV07TXTVYN,WiFiCloudAssetsXPCService,4734976
+M-KV07TXTVYN,WindowManager,43204608
+M-KV07TXTVYN,WorldClockWidget,59523072
+M-KV07TXTVYN,XProtectPluginService,9633792
+M-KV07TXTVYN,zsh,7995392
+M-KV07TXTVYN,zsh,5160960
+M-KV07TXTVYN,zsh,7897088
+Node,Name,PeakWorkingSetSize
+M-KV07TXTVYN,accountsd,71188480
+M-KV07TXTVYN,AccountSubscriber,12124160
+M-KV07TXTVYN,adprivacyd,21970944
+M-KV07TXTVYN,AirPlayUIAgent,21217280
+M-KV07TXTVYN,akd,20545536
+M-KV07TXTVYN,AMPArtworkAgent,11010048
+M-KV07TXTVYN,AMPDeviceDiscoveryAgent,11534336
+M-KV07TXTVYN,AMPLibraryAgent,33095680
+M-KV07TXTVYN,amsaccountsd,18153472
+M-KV07TXTVYN,amsengagementd,23379968
+M-KV07TXTVYN,amsondevicestoraged,25214976
+M-KV07TXTVYN,analyticsagent,15564800
+M-KV07TXTVYN,APFSUserAgent,7553024
+M-KV07TXTVYN,appleaccountd,26771456
+M-KV07TXTVYN,AppleSpell,57475072
+M-KV07TXTVYN,AppPredictionIntentsHelperService,30359552
+M-KV07TXTVYN,AppSSOAgent,51855360
+M-KV07TXTVYN,appstoreagent,25329664
+M-KV07TXTVYN,ASConfigurationSubscriber,12812288
+M-KV07TXTVYN,askpermissiond,17252352
+M-KV07TXTVYN,AssetCacheLocatorService,14745600
+M-KV07TXTVYN,assistant_cdmd,25116672
+M-KV07TXTVYN,assistantd,38027264
+M-KV07TXTVYN,AUCrashHandlerService,8470528
+M-KV07TXTVYN,audioaccessoryd,32374784
+M-KV07TXTVYN,AudioComponentRegistrar,14893056
+M-KV07TXTVYN,avconferenced,20955136
+M-KV07TXTVYN,axassetsd,30916608
+M-KV07TXTVYN,backgroundassets.user,8208384
+M-KV07TXTVYN,BackgroundTaskManagementAgent,19791872
+M-KV07TXTVYN,betaenrollmentagent,10600448
+M-KV07TXTVYN,BiomeAgent,39370752
+M-KV07TXTVYN,BiomeSELFIngestor,14598144
+M-KV07TXTVYN,bird,19120128
+M-KV07TXTVYN,bluetoothuserd,15859712
+M-KV07TXTVYN,calaccessd,31621120
+M-KV07TXTVYN,CalendarIntentsExtension,17530880
+M-KV07TXTVYN,CalendarWidgetExtension,35815424
+M-KV07TXTVYN,CallHistoryPluginHelper,15958016
+M-KV07TXTVYN,CallHistorySyncHelper,18890752
+M-KV07TXTVYN,callservicesd,37830656
+M-KV07TXTVYN,CarbonComponentScannerXPC,9613312
+M-KV07TXTVYN,CategoriesService,10797056
+M-KV07TXTVYN,cdpd,11747328
+M-KV07TXTVYN,cfprefsd,11370496
+M-KV07TXTVYN,chrome_crashpad_handler,5095424
+M-KV07TXTVYN,chrome_crashpad_handler,5079040
+M-KV07TXTVYN,chrome_crashpad_handler,5292032
+M-KV07TXTVYN,chronod,52150272
+M-KV07TXTVYN,cloudd,35323904
+M-KV07TXTVYN,cloudphotod,10240000
+M-KV07TXTVYN,CloudTelemetryService,11075584
+M-KV07TXTVYN,CloudTelemetryService,10764288
+M-KV07TXTVYN,CloudTelemetryService,12353536
+M-KV07TXTVYN,CloudTelemetryService,21495808
+M-KV07TXTVYN,CMFSyncAgent,10420224
+M-KV07TXTVYN,Code Helper,99713024
+M-KV07TXTVYN,Code Helper,76103680
+M-KV07TXTVYN,Code Helper,129269760
+M-KV07TXTVYN,Code Helper,40026112
+M-KV07TXTVYN,Code Helper (GPU),94355456
+M-KV07TXTVYN,Code Helper (Plugin),96337920
+M-KV07TXTVYN,Code Helper (Plugin),60407808
+M-KV07TXTVYN,Code Helper (Plugin),189595648
+M-KV07TXTVYN,Code Helper (Plugin),131579904
+M-KV07TXTVYN,Code Helper (Plugin),204701696
+M-KV07TXTVYN,Code Helper (Renderer),489029632
+M-KV07TXTVYN,colorsync.useragent,6668288
+M-KV07TXTVYN,com.apple.accessibility.mediaaccessibilityd,7159808
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,81887232
+M-KV07TXTVYN,com.apple.audio.ComponentTagHelper,3997696
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7192576
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7290880
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7323648
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7454720
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7307264
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7372800
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7356416
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7323648
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7340032
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7356416
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7536640
+M-KV07TXTVYN,com.apple.BKAgentService,11354112
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,3375104
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,2932736
+M-KV07TXTVYN,com.apple.DictionaryServiceHelper,5226496
+M-KV07TXTVYN,com.apple.dock.extra,86016000
+M-KV07TXTVYN,com.apple.FaceTime.FTConversationService,14041088
+M-KV07TXTVYN,com.apple.geod,16596992
+M-KV07TXTVYN,com.apple.hiservices-xpcservice,5390336
+M-KV07TXTVYN,com.apple.quicklook.ThumbnailsAgent,32423936
+M-KV07TXTVYN,com.apple.sbd,7323648
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,10502144
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,11223040
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,10797056
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,9715712
+M-KV07TXTVYN,com.apple.Virtualization.VirtualMachine,2606120960
+M-KV07TXTVYN,com.apple.WebKit.Networking,15728640
+M-KV07TXTVYN,com.docker.backend,189726720
+M-KV07TXTVYN,com.docker.backend,72040448
+M-KV07TXTVYN,com.docker.build,54345728
+M-KV07TXTVYN,com.docker.dev-envs,14893056
+M-KV07TXTVYN,com.docker.virtualization,39239680
+M-KV07TXTVYN,com.microsoft.teams2.notificationcenter,50823168
+M-KV07TXTVYN,com.microsoft.teams2.respawn,5865472
+M-KV07TXTVYN,CommCenter,29474816
+M-KV07TXTVYN,commerce,12369920
+M-KV07TXTVYN,contactsd,19398656
+M-KV07TXTVYN,contactsdonationagent,17842176
+M-KV07TXTVYN,containermanagerd,16662528
+M-KV07TXTVYN,contentlinkingd,14811136
+M-KV07TXTVYN,ContextService,20332544
+M-KV07TXTVYN,ContextStoreAgent,34553856
+M-KV07TXTVYN,ContinuityCaptureAgent,16809984
+M-KV07TXTVYN,ControlCenter,79282176
+M-KV07TXTVYN,coreautha,26673152
+M-KV07TXTVYN,coreauthd,13860864
+M-KV07TXTVYN,CoreLocationAgent,50069504
+M-KV07TXTVYN,CoreServicesUIAgent,62849024
+M-KV07TXTVYN,corespeechd,35176448
+M-KV07TXTVYN,corespotlightd,129859584
+M-KV07TXTVYN,CSExattrCryptoService,11272192
+M-KV07TXTVYN,csnameddatad,4358144
+M-KV07TXTVYN,ctkahp,8847360
+M-KV07TXTVYN,ctkd,15335424
+M-KV07TXTVYN,CursorUIViewService,25264128
+M-KV07TXTVYN,dataaccessd,24543232
+M-KV07TXTVYN,deleted,20791296
+M-KV07TXTVYN,diagnosticextensionsd,14761984
+M-KV07TXTVYN,diagnostics_agent,14336000
+M-KV07TXTVYN,DiskUnmountWatcher,5652480
+M-KV07TXTVYN,distnoted,9338880
+M-KV07TXTVYN,dmd,15925248
+M-KV07TXTVYN,Dock,105512960
+M-KV07TXTVYN,docker,24788992
+M-KV07TXTVYN,docker,24772608
+M-KV07TXTVYN,docker,24723456
+M-KV07TXTVYN,Docker Desktop,204636160
+M-KV07TXTVYN,Docker Desktop Helper,34193408
+M-KV07TXTVYN,Docker Desktop Helper (GPU),74498048
+M-KV07TXTVYN,Docker Desktop Helper (Renderer),207863808
+M-KV07TXTVYN,DockHelper,42237952
+M-KV07TXTVYN,donotdisturbd,30654464
+M-KV07TXTVYN,duetexpertd,49889280
+M-KV07TXTVYN,Electron,233734144
+M-KV07TXTVYN,EndpointSecurityforMac,91013120
+M-KV07TXTVYN,extensionkitservice,8175616
+M-KV07TXTVYN,extensionkitservice,11304960
+M-KV07TXTVYN,extensionkitservice,8503296
+M-KV07TXTVYN,extensionkitservice,8552448
+M-KV07TXTVYN,extensionkitservice,8273920
+M-KV07TXTVYN,extensionkitservice,8617984
+M-KV07TXTVYN,extensionkitservice,11845632
+M-KV07TXTVYN,familycircled,16039936
+M-KV07TXTVYN,fileproviderd,28196864
+M-KV07TXTVYN,financed,22364160
+M-KV07TXTVYN,Finder,85426176
+M-KV07TXTVYN,findmylocateagent,25985024
+M-KV07TXTVYN,followupd,8126464
+M-KV07TXTVYN,fontd,32849920
+M-KV07TXTVYN,fontworker,22921216
+M-KV07TXTVYN,fsnotifier,6389760
+M-KV07TXTVYN,fudHelperAgent,3440640
+M-KV07TXTVYN,gamecontrolleragentd,9863168
+M-KV07TXTVYN,generativeexperiencesd,26247168
+M-KV07TXTVYN,geodMachServiceBridge,4751360
+M-KV07TXTVYN,GMSSELFIngestor,14483456
+M-KV07TXTVYN,Google Chrome,514211840
+M-KV07TXTVYN,Google Chrome Helper,62881792
+M-KV07TXTVYN,Google Chrome Helper,79937536
+M-KV07TXTVYN,Google Chrome Helper,159645696
+M-KV07TXTVYN,Google Chrome Helper (Alerts),67649536
+M-KV07TXTVYN,Google Chrome Helper (GPU),190529536
+M-KV07TXTVYN,Google Chrome Helper (Plugin),73269248
+M-KV07TXTVYN,Google Chrome Helper (Renderer),81739776
+M-KV07TXTVYN,Google Chrome Helper (Renderer),134791168
+M-KV07TXTVYN,Google Chrome Helper (Renderer),120569856
+M-KV07TXTVYN,Google Chrome Helper (Renderer),426508288
+M-KV07TXTVYN,Google Chrome Helper (Renderer),208814080
+M-KV07TXTVYN,Google Chrome Helper (Renderer),129449984
+M-KV07TXTVYN,Google Chrome Helper (Renderer),124026880
+M-KV07TXTVYN,Google Chrome Helper (Renderer),111329280
+M-KV07TXTVYN,Google Chrome Helper (Renderer),151912448
+M-KV07TXTVYN,Google Chrome Helper (Renderer),164200448
+M-KV07TXTVYN,Google Chrome Helper (Renderer),235962368
+M-KV07TXTVYN,Google Chrome Helper (Renderer),277921792
+M-KV07TXTVYN,Google Chrome Helper (Renderer),371621888
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155549696
+M-KV07TXTVYN,Google Chrome Helper (Renderer),185663488
+M-KV07TXTVYN,Google Chrome Helper (Renderer),115441664
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155549696
+M-KV07TXTVYN,Google Chrome Helper (Renderer),171835392
+M-KV07TXTVYN,Google Chrome Helper (Renderer),187367424
+M-KV07TXTVYN,Google Chrome Helper (Renderer),314114048
+M-KV07TXTVYN,Google Chrome Helper (Renderer),110510080
+M-KV07TXTVYN,Google Chrome Helper (Renderer),126828544
+M-KV07TXTVYN,Google Chrome Helper (Renderer),241205248
+M-KV07TXTVYN,Google Chrome Helper (Renderer),200802304
+M-KV07TXTVYN,Google Chrome Helper (Renderer),333545472
+M-KV07TXTVYN,Google Chrome Helper (Renderer),319668224
+M-KV07TXTVYN,Google Chrome Helper (Renderer),313966592
+M-KV07TXTVYN,Google Chrome Helper (Renderer),311377920
+M-KV07TXTVYN,Google Chrome Helper (Renderer),605552640
+M-KV07TXTVYN,Google Chrome Helper (Renderer),373096448
+M-KV07TXTVYN,Google Chrome Helper (Renderer),626999296
+M-KV07TXTVYN,Google Chrome Helper (Renderer),385089536
+M-KV07TXTVYN,Google Chrome Helper (Renderer),303595520
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155746304
+M-KV07TXTVYN,heard,43630592
+M-KV07TXTVYN,homed,57229312
+M-KV07TXTVYN,homeenergyd,31211520
+M-KV07TXTVYN,icdd,10190848
+M-KV07TXTVYN,icloudmailagent,12025856
+M-KV07TXTVYN,iCloudNotificationAgent,22462464
+M-KV07TXTVYN,iconservicesagent,38469632
+M-KV07TXTVYN,idea,3811262464
+M-KV07TXTVYN,identityservicesd,40091648
+M-KV07TXTVYN,IFTelemetrySELFIngestor,12697600
+M-KV07TXTVYN,IFTranscriptSELFIngestor,13385728
+M-KV07TXTVYN,imagent,40697856
+M-KV07TXTVYN,IMDPersistenceAgent,21807104
+M-KV07TXTVYN,imklaunchagent,14073856
+M-KV07TXTVYN,inputanalyticsd,12402688
+M-KV07TXTVYN,installerauthagent,4538368
+M-KV07TXTVYN,IntelligencePlatformComputeService,23363584
+M-KV07TXTVYN,intelligenceplatformd,16777216
+M-KV07TXTVYN,intelligentroutingd,20692992
+M-KV07TXTVYN,InteractiveLegacyProfilesSubscriber,17727488
+M-KV07TXTVYN,itunescloudd,29179904
+M-KV07TXTVYN,Jamf Connect,84623360
+M-KV07TXTVYN,jamfRemoteAssist,50102272
+M-KV07TXTVYN,jamfRemoteAssistConnectorUI,71778304
+M-KV07TXTVYN,java,316719104
+M-KV07TXTVYN,keyboardservicesd,14008320
+M-KV07TXTVYN,knowledge-agent,36290560
+M-KV07TXTVYN,KonaSynthesizer,13025280
+M-KV07TXTVYN,LegacyProfilesSubscriber,17727488
+M-KV07TXTVYN,linkd,41500672
+M-KV07TXTVYN,localizationswitcherd,10928128
+M-KV07TXTVYN,localspeechrecognition,36028416
+M-KV07TXTVYN,localspeechrecognition,16138240
+M-KV07TXTVYN,lockdownmoded,14827520
+M-KV07TXTVYN,loginitemregisterd,9388032
+M-KV07TXTVYN,loginwindow,166281216
+M-KV07TXTVYN,lsd,30687232
+M-KV07TXTVYN,MacinTalkAUSP,22396928
+M-KV07TXTVYN,maild,20692992
+M-KV07TXTVYN,managedcorespotlightd,35405824
+M-KV07TXTVYN,ManagedSettingsAgent,9617408
+M-KV07TXTVYN,ManagedSettingsSubscriber,10567680
+M-KV07TXTVYN,ManagementTestSubscriber,10043392
+M-KV07TXTVYN,mapssyncd,19333120
+M-KV07TXTVYN,MauiAUSP,22364160
+M-KV07TXTVYN,mdbulkimport,30261248
+M-KV07TXTVYN,mdworker_shared,22953984
+M-KV07TXTVYN,mdworker_shared,22872064
+M-KV07TXTVYN,mdworker_shared,29884416
+M-KV07TXTVYN,mdworker_shared,29360128
+M-KV07TXTVYN,mdwrite,5423104
+M-KV07TXTVYN,media-indexer,13287424
+M-KV07TXTVYN,mediaanalysisd,358760448
+M-KV07TXTVYN,mediaremoteagent,4849664
+M-KV07TXTVYN,MENotificationAgent,12566528
+M-KV07TXTVYN,MessagesActionExtension,29147136
+M-KV07TXTVYN,metrickitd,8699904
+M-KV07TXTVYN,Microsoft Excel,244875264
+M-KV07TXTVYN,Microsoft OneNote,303824896
+M-KV07TXTVYN,Microsoft Outlook,412286976
+M-KV07TXTVYN,Microsoft PowerPoint,195035136
+M-KV07TXTVYN,Microsoft SharePoint,144965632
+M-KV07TXTVYN,Microsoft Teams WebView,286507008
+M-KV07TXTVYN,Microsoft Teams WebView Helper,72204288
+M-KV07TXTVYN,Microsoft Teams WebView Helper,68878336
+M-KV07TXTVYN,Microsoft Teams WebView Helper,82264064
+M-KV07TXTVYN,Microsoft Teams WebView Helper (GPU),149635072
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Plugin),72990720
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Renderer),1000226816
+M-KV07TXTVYN,Microsoft Word,289701888
+M-KV07TXTVYN,milod,20758528
+M-KV07TXTVYN,mlhostd,23789568
+M-KV07TXTVYN,mobiletimerd,14647296
+M-KV07TXTVYN,ModelCatalogAgent,18759680
+M-KV07TXTVYN,mscamerad-xpc,6307840
+M-KV07TXTVYN,msedge_crashpad_handler,4734976
+M-KV07TXTVYN,msedge_crashpad_handler,5750784
+M-KV07TXTVYN,MSTeams,190267392
+M-KV07TXTVYN,MTLAssetUpgraderD,13352960
+M-KV07TXTVYN,MTLCompilerService,15187968
+M-KV07TXTVYN,MTLCompilerService,43204608
+M-KV07TXTVYN,MTLCompilerService,41287680
+M-KV07TXTVYN,MTLCompilerService,51150848
+M-KV07TXTVYN,MTLCompilerService,54116352
+M-KV07TXTVYN,MTLCompilerService,39682048
+M-KV07TXTVYN,MTLCompilerService,38518784
+M-KV07TXTVYN,MTLCompilerService,50888704
+M-KV07TXTVYN,MTLCompilerService,39649280
+M-KV07TXTVYN,MTLCompilerService,19677184
+M-KV07TXTVYN,MTLCompilerService,19005440
+M-KV07TXTVYN,Music,181895168
+M-KV07TXTVYN,naturallanguaged,9469952
+M-KV07TXTVYN,ndoagent,9486336
+M-KV07TXTVYN,neagent,18579456
+M-KV07TXTVYN,networkserviceproxy,31719424
+M-KV07TXTVYN,ngrok,35127296
+M-KV07TXTVYN,Notes,75644928
+M-KV07TXTVYN,NotificationCenter,67928064
+M-KV07TXTVYN,nsattributedstringagent,72269824
+M-KV07TXTVYN,nsurlsessiond,21692416
+M-KV07TXTVYN,PackageThumbnailExtension,13746176
+M-KV07TXTVYN,PAH_Extension,21889024
+M-KV07TXTVYN,parsec-fbf,13189120
+M-KV07TXTVYN,parsecd,27623424
+M-KV07TXTVYN,PasscodeSettingsSubscriber,17891328
+M-KV07TXTVYN,PasswordBreachAgent,17563648
+M-KV07TXTVYN,pboard,13533184
+M-KV07TXTVYN,pbs,9895936
+M-KV07TXTVYN,photoanalysisd,28147712
+M-KV07TXTVYN,photolibraryd,25706496
+M-KV07TXTVYN,pkd,17416192
+M-KV07TXTVYN,PlugInLibraryService,3489792
+M-KV07TXTVYN,PlugInLibraryService,3981312
+M-KV07TXTVYN,PodcastContentService,9043968
+M-KV07TXTVYN,Postman,276725760
+M-KV07TXTVYN,Postman Helper,32833536
+M-KV07TXTVYN,Postman Helper,46759936
+M-KV07TXTVYN,Postman Helper (GPU),97976320
+M-KV07TXTVYN,Postman Helper (Renderer),440238080
+M-KV07TXTVYN,PowerChime,26673152
+M-KV07TXTVYN,Preview,172310528
+M-KV07TXTVYN,privatecloudcomputed,18825216
+M-KV07TXTVYN,proactived,23838720
+M-KV07TXTVYN,proactiveeventtrackerd,12304384
+M-KV07TXTVYN,promotedcontentd,23248896
+M-KV07TXTVYN,ProtectedCloudKeySyncing,13139968
+M-KV07TXTVYN,ptpcamerad,8257536
+M-KV07TXTVYN,QuickLookUIService,19267584
+M-KV07TXTVYN,QuickLookUIService,19529728
+M-KV07TXTVYN,rapportd,31834112
+M-KV07TXTVYN,RemoteManagementAgent,14499840
+M-KV07TXTVYN,replayd,52314112
+M-KV07TXTVYN,replicatord,24772608
+M-KV07TXTVYN,ReportCrash,4390912
+M-KV07TXTVYN,routined,32145408
+M-KV07TXTVYN,SAExtensionOrchestrator,17891328
+M-KV07TXTVYN,SafariBookmarksSyncAgent,20463616
+M-KV07TXTVYN,SafariConfigurationSubscriber,12369920
+M-KV07TXTVYN,SafariLaunchAgent,12533760
+M-KV07TXTVYN,SafariLinkExtension,17580032
+M-KV07TXTVYN,ScopedBookmarkAgent,17924096
+M-KV07TXTVYN,ScreenSharingSubscriber,12566528
+M-KV07TXTVYN,ScreenTimeAgent,20578304
+M-KV07TXTVYN,searchpartyuseragent,35536896
+M-KV07TXTVYN,secd,27787264
+M-KV07TXTVYN,secinitd,46972928
+M-KV07TXTVYN,SecuritySubscriber,10158080
+M-KV07TXTVYN,SetStoreUpdateService,15679488
+M-KV07TXTVYN,sharedfilelistd,18366464
+M-KV07TXTVYN,sharingd,40681472
+M-KV07TXTVYN,siriactionsd,46284800
+M-KV07TXTVYN,SiriAUSP,13680640
+M-KV07TXTVYN,siriinferenced,72204288
+M-KV07TXTVYN,siriknowledged,51789824
+M-KV07TXTVYN,SiriSuggestionsBookkeepingService,48807936
+M-KV07TXTVYN,sirittsd,13287424
+M-KV07TXTVYN,sociallayerd,16351232
+M-KV07TXTVYN,SoftwareUpdateNotificationManager,47054848
+M-KV07TXTVYN,spindump_agent,4571136
+M-KV07TXTVYN,Spotlight,157679616
+M-KV07TXTVYN,spotlightknowledged,172687360
+M-KV07TXTVYN,spotlightknowledged,35569664
+M-KV07TXTVYN,StatusKitAgent,19562496
+M-KV07TXTVYN,StocksKitService,25378816
+M-KV07TXTVYN,StocksWidget,90472448
+M-KV07TXTVYN,storekitagent,26624000
+M-KV07TXTVYN,studentd,35012608
+M-KV07TXTVYN,suggestd,46186496
+M-KV07TXTVYN,swcd,25804800
+M-KV07TXTVYN,swtransparencyd,12058624
+M-KV07TXTVYN,syncdefaultsd,19234816
+M-KV07TXTVYN,SystemUIServer,55345152
+M-KV07TXTVYN,talagentd,32243712
+M-KV07TXTVYN,tccd,27049984
+M-KV07TXTVYN,Terminal,164839424
+M-KV07TXTVYN,TextInputMenuAgent,62291968
+M-KV07TXTVYN,TextInputSwitcher,27394048
+M-KV07TXTVYN,ThemeWidgetControlViewService,21659648
+M-KV07TXTVYN,ThemeWidgetControlViewService,22462464
+M-KV07TXTVYN,ThemeWidgetControlViewService,22249472
+M-KV07TXTVYN,ThemeWidgetControlViewService,40140800
+M-KV07TXTVYN,tipsd,32014336
+M-KV07TXTVYN,transparencyd,28852224
+M-KV07TXTVYN,triald,28000256
+M-KV07TXTVYN,trustd,23199744
+M-KV07TXTVYN,Tunnelblick,75448320
+M-KV07TXTVYN,UIKitSystem,33587200
+M-KV07TXTVYN,universalaccessd,21889024
+M-KV07TXTVYN,UsageTrackingAgent,19693568
+M-KV07TXTVYN,useractivityd,13271040
+M-KV07TXTVYN,UserEventAgent,24838144
+M-KV07TXTVYN,usernoted,37781504
+M-KV07TXTVYN,usernotificationsd,20250624
+M-KV07TXTVYN,UTM,86556672
+M-KV07TXTVYN,ViewBridgeAuxiliary,15728640
+M-KV07TXTVYN,VisualizerService,20774912
+M-KV07TXTVYN,VisualizerService_x86,12140544
+M-KV07TXTVYN,voicebankingd,16171008
+M-KV07TXTVYN,VTDecoderXPCService,14548992
+M-KV07TXTVYN,VTDecoderXPCService,11878400
+M-KV07TXTVYN,VTDecoderXPCService,15089664
+M-KV07TXTVYN,VTEncoderXPCService,31981568
+M-KV07TXTVYN,VTEncoderXPCService,27475968
+M-KV07TXTVYN,VTEncoderXPCService,24985600
+M-KV07TXTVYN,VTEncoderXPCService,29917184
+M-KV07TXTVYN,WallpaperAgent,35110912
+M-KV07TXTVYN,WallpaperVideoExtension,30310400
+M-KV07TXTVYN,WardaSynthesizer_arm64,16646144
+M-KV07TXTVYN,WardaSynthesizer_x86_64,10858496
+M-KV07TXTVYN,weatherd,19005440
+M-KV07TXTVYN,WeatherWidget,79659008
+M-KV07TXTVYN,webprivacyd,14598144
+M-KV07TXTVYN,WiFiAgent,48332800
+M-KV07TXTVYN,WiFiCloudAssetsXPCService,4734976
+M-KV07TXTVYN,WindowManager,44236800
+M-KV07TXTVYN,WorldClockWidget,59523072
+M-KV07TXTVYN,XProtectPluginService,9633792
+M-KV07TXTVYN,zsh,7995392
+M-KV07TXTVYN,zsh,5160960
+M-KV07TXTVYN,zsh,7897088
+Node,Name,PeakWorkingSetSize
+M-KV07TXTVYN,accountsd,71188480
+M-KV07TXTVYN,AccountSubscriber,12124160
+M-KV07TXTVYN,adprivacyd,21970944
+M-KV07TXTVYN,AirPlayUIAgent,21282816
+M-KV07TXTVYN,akd,20545536
+M-KV07TXTVYN,AMPArtworkAgent,11010048
+M-KV07TXTVYN,AMPDeviceDiscoveryAgent,11550720
+M-KV07TXTVYN,AMPLibraryAgent,33062912
+M-KV07TXTVYN,amsaccountsd,18137088
+M-KV07TXTVYN,amsengagementd,23379968
+M-KV07TXTVYN,amsondevicestoraged,25214976
+M-KV07TXTVYN,analyticsagent,15564800
+M-KV07TXTVYN,APFSUserAgent,7553024
+M-KV07TXTVYN,appleaccountd,26771456
+M-KV07TXTVYN,AppleSpell,61358080
+M-KV07TXTVYN,AppPredictionIntentsHelperService,30359552
+M-KV07TXTVYN,AppSSOAgent,51904512
+M-KV07TXTVYN,appstoreagent,25362432
+M-KV07TXTVYN,ASConfigurationSubscriber,12812288
+M-KV07TXTVYN,askpermissiond,17219584
+M-KV07TXTVYN,AssetCacheLocatorService,14761984
+M-KV07TXTVYN,assistant_cdmd,25116672
+M-KV07TXTVYN,assistantd,38141952
+M-KV07TXTVYN,AUCrashHandlerService,8470528
+M-KV07TXTVYN,audioaccessoryd,32407552
+M-KV07TXTVYN,AudioComponentRegistrar,14925824
+M-KV07TXTVYN,avconferenced,20922368
+M-KV07TXTVYN,axassetsd,30932992
+M-KV07TXTVYN,backgroundassets.user,8208384
+M-KV07TXTVYN,BackgroundTaskManagementAgent,19791872
+M-KV07TXTVYN,betaenrollmentagent,10600448
+M-KV07TXTVYN,BiomeAgent,39370752
+M-KV07TXTVYN,BiomeSELFIngestor,14598144
+M-KV07TXTVYN,bird,19120128
+M-KV07TXTVYN,bluetoothuserd,15859712
+M-KV07TXTVYN,calaccessd,31604736
+M-KV07TXTVYN,CalendarIntentsExtension,17530880
+M-KV07TXTVYN,CalendarWidgetExtension,35815424
+M-KV07TXTVYN,CallHistoryPluginHelper,15958016
+M-KV07TXTVYN,CallHistorySyncHelper,18890752
+M-KV07TXTVYN,callservicesd,37797888
+M-KV07TXTVYN,CarbonComponentScannerXPC,9613312
+M-KV07TXTVYN,CategoriesService,10960896
+M-KV07TXTVYN,cdpd,11747328
+M-KV07TXTVYN,cfprefsd,11665408
+M-KV07TXTVYN,chrome_crashpad_handler,5095424
+M-KV07TXTVYN,chrome_crashpad_handler,5079040
+M-KV07TXTVYN,chrome_crashpad_handler,5292032
+M-KV07TXTVYN,chronod,52166656
+M-KV07TXTVYN,cloudd,35323904
+M-KV07TXTVYN,cloudphotod,10240000
+M-KV07TXTVYN,CloudTelemetryService,11075584
+M-KV07TXTVYN,CloudTelemetryService,10764288
+M-KV07TXTVYN,CloudTelemetryService,12353536
+M-KV07TXTVYN,CloudTelemetryService,21495808
+M-KV07TXTVYN,CMFSyncAgent,10420224
+M-KV07TXTVYN,Code Helper,96616448
+M-KV07TXTVYN,Code Helper,76136448
+M-KV07TXTVYN,Code Helper,129368064
+M-KV07TXTVYN,Code Helper,40026112
+M-KV07TXTVYN,Code Helper (GPU),95453184
+M-KV07TXTVYN,Code Helper (Plugin),96321536
+M-KV07TXTVYN,Code Helper (Plugin),60424192
+M-KV07TXTVYN,Code Helper (Plugin),203522048
+M-KV07TXTVYN,Code Helper (Plugin),131694592
+M-KV07TXTVYN,Code Helper (Plugin),206471168
+M-KV07TXTVYN,Code Helper (Renderer),489209856
+M-KV07TXTVYN,colorsync.useragent,6668288
+M-KV07TXTVYN,com.apple.accessibility.mediaaccessibilityd,7159808
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,81903616
+M-KV07TXTVYN,com.apple.audio.ComponentTagHelper,3997696
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7225344
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7192576
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7290880
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7323648
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7454720
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7307264
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7372800
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7356416
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7323648
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7340032
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7356416
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7536640
+M-KV07TXTVYN,com.apple.BKAgentService,11354112
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,3375104
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,2932736
+M-KV07TXTVYN,com.apple.DictionaryServiceHelper,5226496
+M-KV07TXTVYN,com.apple.dock.extra,86032384
+M-KV07TXTVYN,com.apple.FaceTime.FTConversationService,14041088
+M-KV07TXTVYN,com.apple.geod,16596992
+M-KV07TXTVYN,com.apple.hiservices-xpcservice,5439488
+M-KV07TXTVYN,com.apple.quicklook.ThumbnailsAgent,32423936
+M-KV07TXTVYN,com.apple.sbd,7323648
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,10502144
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,11272192
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,10797056
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,9715712
+M-KV07TXTVYN,com.apple.Virtualization.VirtualMachine,2624159744
+M-KV07TXTVYN,com.apple.WebKit.Networking,15728640
+M-KV07TXTVYN,com.docker.backend,189890560
+M-KV07TXTVYN,com.docker.backend,72056832
+M-KV07TXTVYN,com.docker.build,54427648
+M-KV07TXTVYN,com.docker.dev-envs,14893056
+M-KV07TXTVYN,com.docker.virtualization,39501824
+M-KV07TXTVYN,com.microsoft.teams2.notificationcenter,51412992
+M-KV07TXTVYN,com.microsoft.teams2.respawn,5865472
+M-KV07TXTVYN,CommCenter,29474816
+M-KV07TXTVYN,commerce,12369920
+M-KV07TXTVYN,contactsd,19415040
+M-KV07TXTVYN,contactsdonationagent,17842176
+M-KV07TXTVYN,containermanagerd,16793600
+M-KV07TXTVYN,contentlinkingd,14843904
+M-KV07TXTVYN,ContextService,20332544
+M-KV07TXTVYN,ContextStoreAgent,35078144
+M-KV07TXTVYN,ContinuityCaptureAgent,16809984
+M-KV07TXTVYN,ControlCenter,82378752
+M-KV07TXTVYN,coreautha,26705920
+M-KV07TXTVYN,coreauthd,13860864
+M-KV07TXTVYN,CoreLocationAgent,50102272
+M-KV07TXTVYN,CoreServicesUIAgent,62849024
+M-KV07TXTVYN,corespeechd,35143680
+M-KV07TXTVYN,corespotlightd,129794048
+M-KV07TXTVYN,CSExattrCryptoService,11272192
+M-KV07TXTVYN,csnameddatad,4358144
+M-KV07TXTVYN,ctkahp,8847360
+M-KV07TXTVYN,ctkd,15335424
+M-KV07TXTVYN,CursorUIViewService,25280512
+M-KV07TXTVYN,dataaccessd,24543232
+M-KV07TXTVYN,deleted,20791296
+M-KV07TXTVYN,diagnosticextensionsd,14761984
+M-KV07TXTVYN,diagnostics_agent,14336000
+M-KV07TXTVYN,DiskUnmountWatcher,5652480
+M-KV07TXTVYN,distnoted,9322496
+M-KV07TXTVYN,dmd,15908864
+M-KV07TXTVYN,Dock,106053632
+M-KV07TXTVYN,Docker Desktop,206733312
+M-KV07TXTVYN,Docker Desktop Helper,34258944
+M-KV07TXTVYN,Docker Desktop Helper (GPU),74219520
+M-KV07TXTVYN,Docker Desktop Helper (Renderer),197541888
+M-KV07TXTVYN,DockHelper,42237952
+M-KV07TXTVYN,donotdisturbd,30736384
+M-KV07TXTVYN,duetexpertd,50003968
+M-KV07TXTVYN,Electron,235651072
+M-KV07TXTVYN,EndpointSecurityforMac,90996736
+M-KV07TXTVYN,extensionkitservice,8175616
+M-KV07TXTVYN,extensionkitservice,11304960
+M-KV07TXTVYN,extensionkitservice,8503296
+M-KV07TXTVYN,extensionkitservice,8552448
+M-KV07TXTVYN,extensionkitservice,8273920
+M-KV07TXTVYN,extensionkitservice,8617984
+M-KV07TXTVYN,extensionkitservice,11845632
+M-KV07TXTVYN,familycircled,16039936
+M-KV07TXTVYN,fileproviderd,28213248
+M-KV07TXTVYN,financed,22380544
+M-KV07TXTVYN,Finder,85442560
+M-KV07TXTVYN,findmylocateagent,25985024
+M-KV07TXTVYN,followupd,7995392
+M-KV07TXTVYN,fontd,32948224
+M-KV07TXTVYN,fontworker,22921216
+M-KV07TXTVYN,fsnotifier,6389760
+M-KV07TXTVYN,fudHelperAgent,3440640
+M-KV07TXTVYN,gamecontrolleragentd,9879552
+M-KV07TXTVYN,generativeexperiencesd,26247168
+M-KV07TXTVYN,geodMachServiceBridge,4751360
+M-KV07TXTVYN,GMSSELFIngestor,14483456
+M-KV07TXTVYN,Google Chrome,549601280
+M-KV07TXTVYN,Google Chrome Helper,60719104
+M-KV07TXTVYN,Google Chrome Helper,131383296
+M-KV07TXTVYN,Google Chrome Helper,69173248
+M-KV07TXTVYN,Google Chrome Helper,80429056
+M-KV07TXTVYN,Google Chrome Helper,162217984
+M-KV07TXTVYN,Google Chrome Helper (Alerts),67665920
+M-KV07TXTVYN,Google Chrome Helper (GPU),202080256
+M-KV07TXTVYN,Google Chrome Helper (Plugin),73302016
+M-KV07TXTVYN,Google Chrome Helper (Renderer),82001920
+M-KV07TXTVYN,Google Chrome Helper (Renderer),136609792
+M-KV07TXTVYN,Google Chrome Helper (Renderer),120143872
+M-KV07TXTVYN,Google Chrome Helper (Renderer),107085824
+M-KV07TXTVYN,Google Chrome Helper (Renderer),266469376
+M-KV07TXTVYN,Google Chrome Helper (Renderer),107954176
+M-KV07TXTVYN,Google Chrome Helper (Renderer),116621312
+M-KV07TXTVYN,Google Chrome Helper (Renderer),417660928
+M-KV07TXTVYN,Google Chrome Helper (Renderer),407781376
+M-KV07TXTVYN,Google Chrome Helper (Renderer),209420288
+M-KV07TXTVYN,Google Chrome Helper (Renderer),129482752
+M-KV07TXTVYN,Google Chrome Helper (Renderer),124026880
+M-KV07TXTVYN,Google Chrome Helper (Renderer),111362048
+M-KV07TXTVYN,Google Chrome Helper (Renderer),153452544
+M-KV07TXTVYN,Google Chrome Helper (Renderer),164216832
+M-KV07TXTVYN,Google Chrome Helper (Renderer),236273664
+M-KV07TXTVYN,Google Chrome Helper (Renderer),278052864
+M-KV07TXTVYN,Google Chrome Helper (Renderer),366215168
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155549696
+M-KV07TXTVYN,Google Chrome Helper (Renderer),185679872
+M-KV07TXTVYN,Google Chrome Helper (Renderer),120487936
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155549696
+M-KV07TXTVYN,Google Chrome Helper (Renderer),172048384
+M-KV07TXTVYN,Google Chrome Helper (Renderer),314081280
+M-KV07TXTVYN,Google Chrome Helper (Renderer),110510080
+M-KV07TXTVYN,Google Chrome Helper (Renderer),126844928
+M-KV07TXTVYN,Google Chrome Helper (Renderer),232046592
+M-KV07TXTVYN,Google Chrome Helper (Renderer),200851456
+M-KV07TXTVYN,Google Chrome Helper (Renderer),333578240
+M-KV07TXTVYN,Google Chrome Helper (Renderer),320094208
+M-KV07TXTVYN,Google Chrome Helper (Renderer),314245120
+M-KV07TXTVYN,Google Chrome Helper (Renderer),312000512
+M-KV07TXTVYN,Google Chrome Helper (Renderer),638418944
+M-KV07TXTVYN,Google Chrome Helper (Renderer),406487040
+M-KV07TXTVYN,Google Chrome Helper (Renderer),473759744
+M-KV07TXTVYN,Google Chrome Helper (Renderer),385089536
+M-KV07TXTVYN,Google Chrome Helper (Renderer),306118656
+M-KV07TXTVYN,Google Chrome Helper (Renderer),156106752
+M-KV07TXTVYN,heard,43663360
+M-KV07TXTVYN,homed,57311232
+M-KV07TXTVYN,homeenergyd,31227904
+M-KV07TXTVYN,icdd,10190848
+M-KV07TXTVYN,icloudmailagent,12025856
+M-KV07TXTVYN,iCloudNotificationAgent,22462464
+M-KV07TXTVYN,iconservicesagent,38469632
+M-KV07TXTVYN,idea,3666657280
+M-KV07TXTVYN,identityservicesd,40042496
+M-KV07TXTVYN,IFTelemetrySELFIngestor,12697600
+M-KV07TXTVYN,IFTranscriptSELFIngestor,13385728
+M-KV07TXTVYN,imagent,40714240
+M-KV07TXTVYN,IMDPersistenceAgent,21807104
+M-KV07TXTVYN,imklaunchagent,14073856
+M-KV07TXTVYN,inputanalyticsd,12419072
+M-KV07TXTVYN,installerauthagent,4538368
+M-KV07TXTVYN,IntelligencePlatformComputeService,24723456
+M-KV07TXTVYN,intelligenceplatformd,16777216
+M-KV07TXTVYN,intelligentroutingd,20692992
+M-KV07TXTVYN,InteractiveLegacyProfilesSubscriber,17727488
+M-KV07TXTVYN,itunescloudd,29130752
+M-KV07TXTVYN,Jamf Connect,85082112
+M-KV07TXTVYN,jamfRemoteAssist,50102272
+M-KV07TXTVYN,jamfRemoteAssistConnectorUI,71794688
+M-KV07TXTVYN,java,373129216
+M-KV07TXTVYN,keyboardservicesd,14155776
+M-KV07TXTVYN,knowledge-agent,36290560
+M-KV07TXTVYN,KonaSynthesizer,13025280
+M-KV07TXTVYN,LegacyProfilesSubscriber,17727488
+M-KV07TXTVYN,linkd,41500672
+M-KV07TXTVYN,localizationswitcherd,10928128
+M-KV07TXTVYN,localspeechrecognition,36028416
+M-KV07TXTVYN,localspeechrecognition,16138240
+M-KV07TXTVYN,lockdownmoded,14827520
+M-KV07TXTVYN,loginitemregisterd,9388032
+M-KV07TXTVYN,loginwindow,104775680
+M-KV07TXTVYN,lsd,30851072
+M-KV07TXTVYN,MacinTalkAUSP,22396928
+M-KV07TXTVYN,maild,20692992
+M-KV07TXTVYN,managedcorespotlightd,35389440
+M-KV07TXTVYN,ManagedSettingsAgent,9617408
+M-KV07TXTVYN,ManagedSettingsSubscriber,10567680
+M-KV07TXTVYN,ManagementTestSubscriber,10043392
+M-KV07TXTVYN,mapssyncd,19349504
+M-KV07TXTVYN,MauiAUSP,22364160
+M-KV07TXTVYN,mdbulkimport,30261248
+M-KV07TXTVYN,mdworker_shared,29442048
+M-KV07TXTVYN,mdworker_shared,29769728
+M-KV07TXTVYN,mdwrite,5423104
+M-KV07TXTVYN,media-indexer,13287424
+M-KV07TXTVYN,mediaanalysisd,359088128
+M-KV07TXTVYN,mediaremoteagent,5144576
+M-KV07TXTVYN,MENotificationAgent,12566528
+M-KV07TXTVYN,MessagesActionExtension,29147136
+M-KV07TXTVYN,metrickitd,8699904
+M-KV07TXTVYN,Microsoft Excel,244891648
+M-KV07TXTVYN,Microsoft OneNote,303759360
+M-KV07TXTVYN,Microsoft Outlook,412696576
+M-KV07TXTVYN,Microsoft PowerPoint,195051520
+M-KV07TXTVYN,Microsoft SharePoint,144736256
+M-KV07TXTVYN,Microsoft Teams WebView,286507008
+M-KV07TXTVYN,Microsoft Teams WebView Helper,72204288
+M-KV07TXTVYN,Microsoft Teams WebView Helper,68894720
+M-KV07TXTVYN,Microsoft Teams WebView Helper,82264064
+M-KV07TXTVYN,Microsoft Teams WebView Helper (GPU),144818176
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Plugin),73007104
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Renderer),870400000
+M-KV07TXTVYN,Microsoft Word,289718272
+M-KV07TXTVYN,milod,20627456
+M-KV07TXTVYN,mlhostd,23805952
+M-KV07TXTVYN,mobiletimerd,14680064
+M-KV07TXTVYN,ModelCatalogAgent,18776064
+M-KV07TXTVYN,mscamerad-xpc,6307840
+M-KV07TXTVYN,msedge_crashpad_handler,4734976
+M-KV07TXTVYN,msedge_crashpad_handler,5750784
+M-KV07TXTVYN,MSTeams,190185472
+M-KV07TXTVYN,MTLAssetUpgraderD,13352960
+M-KV07TXTVYN,MTLCompilerService,15187968
+M-KV07TXTVYN,MTLCompilerService,43204608
+M-KV07TXTVYN,MTLCompilerService,41287680
+M-KV07TXTVYN,MTLCompilerService,51200000
+M-KV07TXTVYN,MTLCompilerService,54263808
+M-KV07TXTVYN,MTLCompilerService,39682048
+M-KV07TXTVYN,MTLCompilerService,38518784
+M-KV07TXTVYN,MTLCompilerService,50888704
+M-KV07TXTVYN,MTLCompilerService,39665664
+M-KV07TXTVYN,MTLCompilerService,19677184
+M-KV07TXTVYN,MTLCompilerService,19005440
+M-KV07TXTVYN,Music,181501952
+M-KV07TXTVYN,naturallanguaged,9469952
+M-KV07TXTVYN,ndoagent,9486336
+M-KV07TXTVYN,neagent,18677760
+M-KV07TXTVYN,networkserviceproxy,31719424
+M-KV07TXTVYN,ngrok,35618816
+M-KV07TXTVYN,Notes,75644928
+M-KV07TXTVYN,NotificationCenter,67960832
+M-KV07TXTVYN,nsattributedstringagent,72269824
+M-KV07TXTVYN,nsurlsessiond,21741568
+M-KV07TXTVYN,OSDUIHelper,30310400
+M-KV07TXTVYN,PackageThumbnailExtension,13746176
+M-KV07TXTVYN,PAH_Extension,21905408
+M-KV07TXTVYN,parsec-fbf,13189120
+M-KV07TXTVYN,parsecd,27623424
+M-KV07TXTVYN,PasscodeSettingsSubscriber,17891328
+M-KV07TXTVYN,PasswordBreachAgent,17563648
+M-KV07TXTVYN,pboard,13647872
+M-KV07TXTVYN,pbs,9928704
+M-KV07TXTVYN,photoanalysisd,28131328
+M-KV07TXTVYN,photolibraryd,25706496
+M-KV07TXTVYN,pkd,17416192
+M-KV07TXTVYN,PlugInLibraryService,3489792
+M-KV07TXTVYN,PlugInLibraryService,3981312
+M-KV07TXTVYN,PodcastContentService,9043968
+M-KV07TXTVYN,Postman,299794432
+M-KV07TXTVYN,Postman Helper,32817152
+M-KV07TXTVYN,Postman Helper,46792704
+M-KV07TXTVYN,Postman Helper (GPU),98779136
+M-KV07TXTVYN,Postman Helper (Renderer),491110400
+M-KV07TXTVYN,PowerChime,26738688
+M-KV07TXTVYN,Preview,172326912
+M-KV07TXTVYN,privatecloudcomputed,18825216
+M-KV07TXTVYN,proactived,24051712
+M-KV07TXTVYN,proactiveeventtrackerd,12304384
+M-KV07TXTVYN,promotedcontentd,23248896
+M-KV07TXTVYN,ProtectedCloudKeySyncing,13107200
+M-KV07TXTVYN,ptpcamerad,8257536
+M-KV07TXTVYN,QuickLookUIService,19267584
+M-KV07TXTVYN,QuickLookUIService,19529728
+M-KV07TXTVYN,rapportd,31834112
+M-KV07TXTVYN,RemoteManagementAgent,14499840
+M-KV07TXTVYN,replayd,52314112
+M-KV07TXTVYN,replicatord,24772608
+M-KV07TXTVYN,ReportCrash,4390912
+M-KV07TXTVYN,routined,31178752
+M-KV07TXTVYN,SAExtensionOrchestrator,17891328
+M-KV07TXTVYN,SafariBookmarksSyncAgent,20463616
+M-KV07TXTVYN,SafariConfigurationSubscriber,12369920
+M-KV07TXTVYN,SafariLaunchAgent,12533760
+M-KV07TXTVYN,SafariLinkExtension,17580032
+M-KV07TXTVYN,ScopedBookmarkAgent,17924096
+M-KV07TXTVYN,ScreenSharingSubscriber,12566528
+M-KV07TXTVYN,ScreenTimeAgent,20594688
+M-KV07TXTVYN,searchpartyuseragent,35536896
+M-KV07TXTVYN,secd,27197440
+M-KV07TXTVYN,secinitd,46972928
+M-KV07TXTVYN,SecuritySubscriber,10158080
+M-KV07TXTVYN,SetStoreUpdateService,15679488
+M-KV07TXTVYN,sharedfilelistd,18366464
+M-KV07TXTVYN,sharingd,40681472
+M-KV07TXTVYN,siriactionsd,46153728
+M-KV07TXTVYN,SiriAUSP,13680640
+M-KV07TXTVYN,siriinferenced,72204288
+M-KV07TXTVYN,siriknowledged,51806208
+M-KV07TXTVYN,SiriSuggestionsBookkeepingService,48807936
+M-KV07TXTVYN,sirittsd,13287424
+M-KV07TXTVYN,sociallayerd,16351232
+M-KV07TXTVYN,SoftwareUpdateNotificationManager,47054848
+M-KV07TXTVYN,spindump_agent,4571136
+M-KV07TXTVYN,Spotlight,157696000
+M-KV07TXTVYN,spotlightknowledged,229867520
+M-KV07TXTVYN,spotlightknowledged,35553280
+M-KV07TXTVYN,StatusKitAgent,19562496
+M-KV07TXTVYN,StocksKitService,25378816
+M-KV07TXTVYN,StocksWidget,90472448
+M-KV07TXTVYN,storekitagent,26624000
+M-KV07TXTVYN,studentd,35012608
+M-KV07TXTVYN,suggestd,46170112
+M-KV07TXTVYN,swcd,25804800
+M-KV07TXTVYN,swtransparencyd,12058624
+M-KV07TXTVYN,syncdefaultsd,19169280
+M-KV07TXTVYN,SystemUIServer,55345152
+M-KV07TXTVYN,talagentd,32260096
+M-KV07TXTVYN,tccd,27164672
+M-KV07TXTVYN,Terminal,166232064
+M-KV07TXTVYN,TextInputMenuAgent,62324736
+M-KV07TXTVYN,TextInputSwitcher,27475968
+M-KV07TXTVYN,ThemeWidgetControlViewService,21872640
+M-KV07TXTVYN,ThemeWidgetControlViewService,22577152
+M-KV07TXTVYN,ThemeWidgetControlViewService,22298624
+M-KV07TXTVYN,ThemeWidgetControlViewService,40189952
+M-KV07TXTVYN,tipsd,32014336
+M-KV07TXTVYN,transparencyd,29310976
+M-KV07TXTVYN,triald,28016640
+M-KV07TXTVYN,trustd,22839296
+M-KV07TXTVYN,Tunnelblick,75530240
+M-KV07TXTVYN,UIKitSystem,33538048
+M-KV07TXTVYN,universalaccessd,21889024
+M-KV07TXTVYN,UsageTrackingAgent,19808256
+M-KV07TXTVYN,useractivityd,13352960
+M-KV07TXTVYN,UserEventAgent,24870912
+M-KV07TXTVYN,usernoted,37650432
+M-KV07TXTVYN,usernotificationsd,20267008
+M-KV07TXTVYN,UTM,86573056
+M-KV07TXTVYN,ViewBridgeAuxiliary,15728640
+M-KV07TXTVYN,VisualizerService,20840448
+M-KV07TXTVYN,VisualizerService_x86,12144640
+M-KV07TXTVYN,voicebankingd,16171008
+M-KV07TXTVYN,VTDecoderXPCService,14401536
+M-KV07TXTVYN,VTDecoderXPCService,14548992
+M-KV07TXTVYN,VTDecoderXPCService,11878400
+M-KV07TXTVYN,VTDecoderXPCService,15089664
+M-KV07TXTVYN,VTEncoderXPCService,31981568
+M-KV07TXTVYN,VTEncoderXPCService,27475968
+M-KV07TXTVYN,VTEncoderXPCService,24985600
+M-KV07TXTVYN,VTEncoderXPCService,29917184
+M-KV07TXTVYN,WallpaperAgent,35127296
+M-KV07TXTVYN,WallpaperVideoExtension,30294016
+M-KV07TXTVYN,WardaSynthesizer_arm64,16646144
+M-KV07TXTVYN,WardaSynthesizer_x86_64,10858496
+M-KV07TXTVYN,weatherd,19005440
+M-KV07TXTVYN,WeatherWidget,79626240
+M-KV07TXTVYN,webprivacyd,14614528
+M-KV07TXTVYN,WiFiAgent,48300032
+M-KV07TXTVYN,WiFiCloudAssetsXPCService,4734976
+M-KV07TXTVYN,WindowManager,44695552
+M-KV07TXTVYN,WorldClockWidget,59523072
+M-KV07TXTVYN,XProtectPluginService,9633792
+M-KV07TXTVYN,zsh,7995392
+M-KV07TXTVYN,zsh,5160960
+M-KV07TXTVYN,zsh,7897088
+Node,Name,PeakWorkingSetSize
+M-KV07TXTVYN,accountsd,68419584
+M-KV07TXTVYN,AccountSubscriber,6209536
+M-KV07TXTVYN,adprivacyd,20512768
+M-KV07TXTVYN,AirPlayUIAgent,18153472
+M-KV07TXTVYN,akd,20316160
+M-KV07TXTVYN,AMPArtworkAgent,10141696
+M-KV07TXTVYN,AMPDeviceDiscoveryAgent,10960896
+M-KV07TXTVYN,AMPLibraryAgent,29900800
+M-KV07TXTVYN,amsaccountsd,18038784
+M-KV07TXTVYN,amsengagementd,49168384
+M-KV07TXTVYN,amsondevicestoraged,21528576
+M-KV07TXTVYN,analyticsagent,12173312
+M-KV07TXTVYN,APFSUserAgent,7307264
+M-KV07TXTVYN,appleaccountd,26066944
+M-KV07TXTVYN,AppleSpell,68419584
+M-KV07TXTVYN,AppPredictionIntentsHelperService,23511040
+M-KV07TXTVYN,AppSSOAgent,50118656
+M-KV07TXTVYN,appstoreagent,33472512
+M-KV07TXTVYN,ASConfigurationSubscriber,6553600
+M-KV07TXTVYN,askpermissiond,11321344
+M-KV07TXTVYN,AssetCacheLocatorService,7700480
+M-KV07TXTVYN,assistant_cdmd,19791872
+M-KV07TXTVYN,assistantd,34963456
+M-KV07TXTVYN,AUCrashHandlerService,2932736
+M-KV07TXTVYN,audioaccessoryd,33292288
+M-KV07TXTVYN,AudioComponentRegistrar,14483456
+M-KV07TXTVYN,AuthenticationServicesAgent,25034752
+M-KV07TXTVYN,avconferenced,20955136
+M-KV07TXTVYN,axassetsd,12861440
+M-KV07TXTVYN,backgroundassets.user,7520256
+M-KV07TXTVYN,BackgroundTaskManagementAgent,19251200
+M-KV07TXTVYN,betaenrollmentagent,10551296
+M-KV07TXTVYN,BiomeAgent,32014336
+M-KV07TXTVYN,BiomeSELFIngestor,13664256
+M-KV07TXTVYN,bird,17874944
+M-KV07TXTVYN,bluetoothuserd,15859712
+M-KV07TXTVYN,calaccessd,31686656
+M-KV07TXTVYN,CalendarIntentsExtension,17367040
+M-KV07TXTVYN,CalendarWidgetExtension,35258368
+M-KV07TXTVYN,CallHistoryPluginHelper,14041088
+M-KV07TXTVYN,CallHistorySyncHelper,17219584
+M-KV07TXTVYN,callservicesd,36175872
+M-KV07TXTVYN,CarbonComponentScannerXPC,8757248
+M-KV07TXTVYN,CategoriesService,6701056
+M-KV07TXTVYN,cdpd,11304960
+M-KV07TXTVYN,cfprefsd,10584064
+M-KV07TXTVYN,chrome_crashpad_handler,5095424
+M-KV07TXTVYN,chrome_crashpad_handler,4767744
+M-KV07TXTVYN,chrome_crashpad_handler,5292032
+M-KV07TXTVYN,chronod,40976384
+M-KV07TXTVYN,cloudd,35176448
+M-KV07TXTVYN,cloudphotod,10223616
+M-KV07TXTVYN,CloudTelemetryService,4833280
+M-KV07TXTVYN,CloudTelemetryService,4767744
+M-KV07TXTVYN,CloudTelemetryService,18776064
+M-KV07TXTVYN,CloudTelemetryService,24068096
+M-KV07TXTVYN,CMFSyncAgent,10174464
+M-KV07TXTVYN,Code Helper,96878592
+M-KV07TXTVYN,Code Helper,65388544
+M-KV07TXTVYN,Code Helper,102400000
+M-KV07TXTVYN,Code Helper,40108032
+M-KV07TXTVYN,Code Helper (GPU),90750976
+M-KV07TXTVYN,Code Helper (Plugin),80117760
+M-KV07TXTVYN,Code Helper (Plugin),53149696
+M-KV07TXTVYN,Code Helper (Plugin),210075648
+M-KV07TXTVYN,Code Helper (Plugin),129220608
+M-KV07TXTVYN,Code Helper (Plugin),299286528
+M-KV07TXTVYN,Code Helper (Renderer),503005184
+M-KV07TXTVYN,colorsync.useragent,5914624
+M-KV07TXTVYN,com.apple.accessibility.mediaaccessibilityd,5832704
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,112443392
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,74776576
+M-KV07TXTVYN,com.apple.audio.ComponentTagHelper,2244608
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7208960
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7028736
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7159808
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7159808
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7274496
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,6307840
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,6668288
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,6275072
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,6406144
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,5324800
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7110656
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,5275648
+M-KV07TXTVYN,com.apple.BKAgentService,7307264
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,3047424
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,2916352
+M-KV07TXTVYN,com.apple.DictionaryServiceHelper,5210112
+M-KV07TXTVYN,com.apple.dock.extra,87851008
+M-KV07TXTVYN,com.apple.FaceTime.FTConversationService,13778944
+M-KV07TXTVYN,com.apple.geod,22233088
+M-KV07TXTVYN,com.apple.hiservices-xpcservice,5324800
+M-KV07TXTVYN,com.apple.quicklook.ThumbnailsAgent,34242560
+M-KV07TXTVYN,com.apple.sbd,4358144
+M-KV07TXTVYN,com.apple.siri.embeddedspeech,10911744
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,10256384
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,11124736
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,8814592
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,9437184
+M-KV07TXTVYN,com.apple.Virtualization.VirtualMachine,2654191616
+M-KV07TXTVYN,com.apple.WebKit.Networking,15024128
+M-KV07TXTVYN,com.docker.backend,202375168
+M-KV07TXTVYN,com.docker.backend,72171520
+M-KV07TXTVYN,com.docker.build,54837248
+M-KV07TXTVYN,com.docker.dev-envs,14893056
+M-KV07TXTVYN,com.docker.virtualization,40091648
+M-KV07TXTVYN,com.microsoft.teams2.notificationcenter,44990464
+M-KV07TXTVYN,com.microsoft.teams2.respawn,5865472
+M-KV07TXTVYN,com.microsoft.teams2.teamsswitcher,8372224
+M-KV07TXTVYN,CommCenter,27230208
+M-KV07TXTVYN,commerce,12304384
+M-KV07TXTVYN,contactsd,10665984
+M-KV07TXTVYN,contactsdonationagent,17547264
+M-KV07TXTVYN,containermanagerd,15876096
+M-KV07TXTVYN,contentlinkingd,12025856
+M-KV07TXTVYN,ContextService,15892480
+M-KV07TXTVYN,ContextStoreAgent,32260096
+M-KV07TXTVYN,ContinuityCaptureAgent,16760832
+M-KV07TXTVYN,ControlCenter,80674816
+M-KV07TXTVYN,coreautha,28573696
+M-KV07TXTVYN,coreauthd,14073856
+M-KV07TXTVYN,CoreLocationAgent,47251456
+M-KV07TXTVYN,CoreServicesUIAgent,58753024
+M-KV07TXTVYN,corespeechd,35389440
+M-KV07TXTVYN,corespotlightd,115802112
+M-KV07TXTVYN,CSExattrCryptoService,9011200
+M-KV07TXTVYN,CSExattrCryptoService,10944512
+M-KV07TXTVYN,csnameddatad,4374528
+M-KV07TXTVYN,ctkahp,6291456
+M-KV07TXTVYN,ctkd,13664256
+M-KV07TXTVYN,CursorUIViewService,28557312
+M-KV07TXTVYN,dataaccessd,19234816
+M-KV07TXTVYN,deleted,28033024
+M-KV07TXTVYN,devicecheckd,21135360
+M-KV07TXTVYN,diagnosticextensionsd,12664832
+M-KV07TXTVYN,diagnostics_agent,15564800
+M-KV07TXTVYN,DiskUnmountWatcher,3473408
+M-KV07TXTVYN,distnoted,9584640
+M-KV07TXTVYN,dmd,14024704
+M-KV07TXTVYN,Dock,107511808
+M-KV07TXTVYN,docker,24739840
+M-KV07TXTVYN,docker,25182208
+M-KV07TXTVYN,docker,25247744
+M-KV07TXTVYN,Docker Desktop,212189184
+M-KV07TXTVYN,Docker Desktop Helper,34390016
+M-KV07TXTVYN,Docker Desktop Helper (GPU),72302592
+M-KV07TXTVYN,Docker Desktop Helper (Renderer),195985408
+M-KV07TXTVYN,DockHelper,40665088
+M-KV07TXTVYN,donotdisturbd,27934720
+M-KV07TXTVYN,duetexpertd,43483136
+M-KV07TXTVYN,Electron,238567424
+M-KV07TXTVYN,EndpointSecurityforMac,142442496
+M-KV07TXTVYN,EscrowSecurityAlert,8683520
+M-KV07TXTVYN,extensionkitservice,8159232
+M-KV07TXTVYN,extensionkitservice,9011200
+M-KV07TXTVYN,extensionkitservice,4980736
+M-KV07TXTVYN,extensionkitservice,8323072
+M-KV07TXTVYN,extensionkitservice,8241152
+M-KV07TXTVYN,extensionkitservice,8044544
+M-KV07TXTVYN,extensionkitservice,11976704
+M-KV07TXTVYN,familycircled,14729216
+M-KV07TXTVYN,feedbackd,10944512
+M-KV07TXTVYN,fileproviderd,27705344
+M-KV07TXTVYN,financed,18448384
+M-KV07TXTVYN,Finder,141410304
+M-KV07TXTVYN,findmylocateagent,24657920
+M-KV07TXTVYN,followupd,7356416
+M-KV07TXTVYN,fontd,25772032
+M-KV07TXTVYN,fontworker,22822912
+M-KV07TXTVYN,fsnotifier,5931008
+M-KV07TXTVYN,fudHelperAgent,1654784
+M-KV07TXTVYN,gamecontrolleragentd,9912320
+M-KV07TXTVYN,generativeexperiencesd,24559616
+M-KV07TXTVYN,geoanalyticsd,21299200
+M-KV07TXTVYN,geodMachServiceBridge,3899392
+M-KV07TXTVYN,GMSSELFIngestor,14434304
+M-KV07TXTVYN,Google Chrome,667664384
+M-KV07TXTVYN,Google Chrome Helper,70008832
+M-KV07TXTVYN,Google Chrome Helper,101924864
+M-KV07TXTVYN,Google Chrome Helper,182616064
+M-KV07TXTVYN,Google Chrome Helper (Alerts),69533696
+M-KV07TXTVYN,Google Chrome Helper (GPU),230932480
+M-KV07TXTVYN,Google Chrome Helper (Plugin),73728000
+M-KV07TXTVYN,Google Chrome Helper (Renderer),81805312
+M-KV07TXTVYN,Google Chrome Helper (Renderer),320110592
+M-KV07TXTVYN,Google Chrome Helper (Renderer),506331136
+M-KV07TXTVYN,Google Chrome Helper (Renderer),352075776
+M-KV07TXTVYN,Google Chrome Helper (Renderer),112214016
+M-KV07TXTVYN,Google Chrome Helper (Renderer),271286272
+M-KV07TXTVYN,Google Chrome Helper (Renderer),200458240
+M-KV07TXTVYN,Google Chrome Helper (Renderer),130547712
+M-KV07TXTVYN,Google Chrome Helper (Renderer),125730816
+M-KV07TXTVYN,Google Chrome Helper (Renderer),113115136
+M-KV07TXTVYN,Google Chrome Helper (Renderer),152764416
+M-KV07TXTVYN,Google Chrome Helper (Renderer),164495360
+M-KV07TXTVYN,Google Chrome Helper (Renderer),250134528
+M-KV07TXTVYN,Google Chrome Helper (Renderer),281575424
+M-KV07TXTVYN,Google Chrome Helper (Renderer),370720768
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155287552
+M-KV07TXTVYN,Google Chrome Helper (Renderer),186892288
+M-KV07TXTVYN,Google Chrome Helper (Renderer),127156224
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155385856
+M-KV07TXTVYN,Google Chrome Helper (Renderer),172310528
+M-KV07TXTVYN,Google Chrome Helper (Renderer),318554112
+M-KV07TXTVYN,Google Chrome Helper (Renderer),118521856
+M-KV07TXTVYN,Google Chrome Helper (Renderer),127811584
+M-KV07TXTVYN,Google Chrome Helper (Renderer),232472576
+M-KV07TXTVYN,Google Chrome Helper (Renderer),210927616
+M-KV07TXTVYN,Google Chrome Helper (Renderer),356876288
+M-KV07TXTVYN,Google Chrome Helper (Renderer),322453504
+M-KV07TXTVYN,Google Chrome Helper (Renderer),314081280
+M-KV07TXTVYN,Google Chrome Helper (Renderer),313065472
+M-KV07TXTVYN,Google Chrome Helper (Renderer),710934528
+M-KV07TXTVYN,Google Chrome Helper (Renderer),498466816
+M-KV07TXTVYN,Google Chrome Helper (Renderer),384811008
+M-KV07TXTVYN,Google Chrome Helper (Renderer),306053120
+M-KV07TXTVYN,Google Chrome Helper (Renderer),163069952
+M-KV07TXTVYN,heard,40648704
+M-KV07TXTVYN,helpd,4653056
+M-KV07TXTVYN,homed,56639488
+M-KV07TXTVYN,homeenergyd,28377088
+M-KV07TXTVYN,icdd,9977856
+M-KV07TXTVYN,icloudmailagent,11632640
+M-KV07TXTVYN,iCloudNotificationAgent,22462464
+M-KV07TXTVYN,iconservicesagent,37306368
+M-KV07TXTVYN,idea,3097608192
+M-KV07TXTVYN,identityservicesd,37994496
+M-KV07TXTVYN,IFTelemetrySELFIngestor,12681216
+M-KV07TXTVYN,IFTranscriptSELFIngestor,13090816
+M-KV07TXTVYN,imagent,40845312
+M-KV07TXTVYN,IMAutomaticHistoryDeletionAgent,15990784
+M-KV07TXTVYN,IMDPersistenceAgent,26394624
+M-KV07TXTVYN,imklaunchagent,14057472
+M-KV07TXTVYN,inputanalyticsd,9109504
+M-KV07TXTVYN,installerauthagent,4243456
+M-KV07TXTVYN,IntelligencePlatformComputeService,11698176
+M-KV07TXTVYN,intelligenceplatformd,15400960
+M-KV07TXTVYN,intelligentroutingd,20545536
+M-KV07TXTVYN,InteractiveLegacyProfilesSubscriber,11534336
+M-KV07TXTVYN,itunescloudd,29818880
+M-KV07TXTVYN,Jamf Connect,89292800
+M-KV07TXTVYN,jamfRemoteAssist,52281344
+M-KV07TXTVYN,jamfRemoteAssistConnectorUI,78348288
+M-KV07TXTVYN,java,441384960
+M-KV07TXTVYN,keyboardservicesd,12828672
+M-KV07TXTVYN,knowledge-agent,35618816
+M-KV07TXTVYN,KonaSynthesizer,11747328
+M-KV07TXTVYN,LegacyProfilesSubscriber,11534336
+M-KV07TXTVYN,linkd,39911424
+M-KV07TXTVYN,localizationswitcherd,10420224
+M-KV07TXTVYN,localspeechrecognition,36012032
+M-KV07TXTVYN,localspeechrecognition,15220736
+M-KV07TXTVYN,lockdownmoded,14106624
+M-KV07TXTVYN,loginitemregisterd,7913472
+M-KV07TXTVYN,loginwindow,109559808
+M-KV07TXTVYN,lsd,31358976
+M-KV07TXTVYN,MacinTalkAUSP,21708800
+M-KV07TXTVYN,maild,19824640
+M-KV07TXTVYN,managedcorespotlightd,35356672
+M-KV07TXTVYN,ManagedSettingsAgent,7651328
+M-KV07TXTVYN,ManagedSettingsSubscriber,4784128
+M-KV07TXTVYN,ManagementTestSubscriber,4407296
+M-KV07TXTVYN,mapssyncd,19316736
+M-KV07TXTVYN,MauiAUSP,21774336
+M-KV07TXTVYN,mdbulkimport,20758528
+M-KV07TXTVYN,mdworker_shared,27017216
+M-KV07TXTVYN,mdworker_shared,30261248
+M-KV07TXTVYN,mdworker_shared,30425088
+M-KV07TXTVYN,mdworker_shared,30490624
+M-KV07TXTVYN,mdworker_shared,30228480
+M-KV07TXTVYN,mdworker_shared,30212096
+M-KV07TXTVYN,mdworker_shared,30982144
+M-KV07TXTVYN,mdworker_shared,31031296
+M-KV07TXTVYN,mdworker_shared,27410432
+M-KV07TXTVYN,mdwrite,5406720
+M-KV07TXTVYN,media-indexer,8896512
+M-KV07TXTVYN,mediaanalysisd,307904512
+M-KV07TXTVYN,mediaremoteagent,5177344
+M-KV07TXTVYN,MENotificationAgent,11059200
+M-KV07TXTVYN,MessagesActionExtension,23281664
+M-KV07TXTVYN,metrickitd,5799936
+M-KV07TXTVYN,Microsoft Excel,227999744
+M-KV07TXTVYN,Microsoft OneNote,294715392
+M-KV07TXTVYN,Microsoft Outlook,421920768
+M-KV07TXTVYN,Microsoft PowerPoint,178208768
+M-KV07TXTVYN,Microsoft SharePoint,146866176
+M-KV07TXTVYN,Microsoft Teams WebView,334282752
+M-KV07TXTVYN,Microsoft Teams WebView Helper,71827456
+M-KV07TXTVYN,Microsoft Teams WebView Helper,69271552
+M-KV07TXTVYN,Microsoft Teams WebView Helper,91865088
+M-KV07TXTVYN,Microsoft Teams WebView Helper (GPU),153616384
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Plugin),72695808
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Renderer),950812672
+M-KV07TXTVYN,Microsoft Update Assistant,117358592
+M-KV07TXTVYN,Microsoft Word,273317888
+M-KV07TXTVYN,milod,20611072
+M-KV07TXTVYN,mlhostd,24264704
+M-KV07TXTVYN,mobiletimerd,14647296
+M-KV07TXTVYN,ModelCatalogAgent,13172736
+M-KV07TXTVYN,mscamerad-xpc,3358720
+M-KV07TXTVYN,msedge_crashpad_handler,4734976
+M-KV07TXTVYN,msedge_crashpad_handler,5750784
+M-KV07TXTVYN,MSTeams,218857472
+M-KV07TXTVYN,MTLAssetUpgraderD,6307840
+M-KV07TXTVYN,MTLCompilerService,15171584
+M-KV07TXTVYN,MTLCompilerService,41500672
+M-KV07TXTVYN,MTLCompilerService,41304064
+M-KV07TXTVYN,MTLCompilerService,51429376
+M-KV07TXTVYN,MTLCompilerService,54509568
+M-KV07TXTVYN,MTLCompilerService,39632896
+M-KV07TXTVYN,MTLCompilerService,38502400
+M-KV07TXTVYN,MTLCompilerService,49430528
+M-KV07TXTVYN,MTLCompilerService,36044800
+M-KV07TXTVYN,MTLCompilerService,19660800
+M-KV07TXTVYN,MTLCompilerService,18989056
+M-KV07TXTVYN,Music,145489920
+M-KV07TXTVYN,naturallanguaged,9142272
+M-KV07TXTVYN,ndoagent,9191424
+M-KV07TXTVYN,neagent,19152896
+M-KV07TXTVYN,networkserviceproxy,37568512
+M-KV07TXTVYN,ngrok,38895616
+M-KV07TXTVYN,Notes,71139328
+M-KV07TXTVYN,NotificationCenter,67256320
+M-KV07TXTVYN,nsattributedstringagent,72613888
+M-KV07TXTVYN,nsurlsessiond,20152320
+M-KV07TXTVYN,OSDUIHelper,31506432
+M-KV07TXTVYN,PackageThumbnailExtension,13729792
+M-KV07TXTVYN,PAH_Extension,20807680
+M-KV07TXTVYN,parsecd,27787264
+M-KV07TXTVYN,PasscodeSettingsSubscriber,11583488
+M-KV07TXTVYN,PasswordBreachAgent,7946240
+M-KV07TXTVYN,pboard,13746176
+M-KV07TXTVYN,pbs,9682944
+M-KV07TXTVYN,photoanalysisd,28229632
+M-KV07TXTVYN,photolibraryd,22872064
+M-KV07TXTVYN,pkd,26935296
+M-KV07TXTVYN,PlugInLibraryService,2932736
+M-KV07TXTVYN,PlugInLibraryService,3686400
+M-KV07TXTVYN,PodcastContentService,5013504
+M-KV07TXTVYN,Postman,297910272
+M-KV07TXTVYN,Postman Helper,33013760
+M-KV07TXTVYN,Postman Helper,49954816
+M-KV07TXTVYN,Postman Helper (GPU),96419840
+M-KV07TXTVYN,Postman Helper (Renderer),561823744
+M-KV07TXTVYN,PowerChime,26443776
+M-KV07TXTVYN,Preview,164904960
+M-KV07TXTVYN,privatecloudcomputed,18808832
+M-KV07TXTVYN,proactived,22626304
+M-KV07TXTVYN,proactiveeventtrackerd,10551296
+M-KV07TXTVYN,promotedcontentd,21266432
+M-KV07TXTVYN,ProtectedCloudKeySyncing,8994816
+M-KV07TXTVYN,ptpcamerad,3358720
+M-KV07TXTVYN,QuickLookUIService,26722304
+M-KV07TXTVYN,QuickLookUIService,17186816
+M-KV07TXTVYN,QuickLookUIService,19300352
+M-KV07TXTVYN,rapportd,29474816
+M-KV07TXTVYN,RemoteManagementAgent,14270464
+M-KV07TXTVYN,replayd,24870912
+M-KV07TXTVYN,replicatord,22855680
+M-KV07TXTVYN,ReportCrash,4423680
+M-KV07TXTVYN,routined,33734656
+M-KV07TXTVYN,SAExtensionOrchestrator,13828096
+M-KV07TXTVYN,SafariBookmarksSyncAgent,20430848
+M-KV07TXTVYN,SafariConfigurationSubscriber,6242304
+M-KV07TXTVYN,SafariLaunchAgent,12369920
+M-KV07TXTVYN,SafariLinkExtension,16498688
+M-KV07TXTVYN,ScopedBookmarkAgent,17121280
+M-KV07TXTVYN,ScreenSharingSubscriber,6651904
+M-KV07TXTVYN,ScreenTimeAgent,20004864
+M-KV07TXTVYN,searchpartyuseragent,23412736
+M-KV07TXTVYN,secd,25034752
+M-KV07TXTVYN,secinitd,24805376
+M-KV07TXTVYN,SecuritySubscriber,4505600
+M-KV07TXTVYN,seserviced,12156928
+M-KV07TXTVYN,SetStoreUpdateService,8814592
+M-KV07TXTVYN,sharedfilelistd,17285120
+M-KV07TXTVYN,sharingd,39763968
+M-KV07TXTVYN,siriactionsd,48005120
+M-KV07TXTVYN,SiriAUSP,13254656
+M-KV07TXTVYN,siriinferenced,56606720
+M-KV07TXTVYN,siriknowledged,31719424
+M-KV07TXTVYN,SiriSuggestionsBookkeepingService,42221568
+M-KV07TXTVYN,sirittsd,10354688
+M-KV07TXTVYN,sociallayerd,16154624
+M-KV07TXTVYN,SoftwareUpdateNotificationManager,45056000
+M-KV07TXTVYN,spindump_agent,4521984
+M-KV07TXTVYN,Spotlight,155451392
+M-KV07TXTVYN,spotlightknowledged,288964608
+M-KV07TXTVYN,spotlightknowledged,28884992
+M-KV07TXTVYN,StatusKitAgent,18120704
+M-KV07TXTVYN,StocksKitService,13041664
+M-KV07TXTVYN,StocksWidget,91176960
+M-KV07TXTVYN,storekitagent,25788416
+M-KV07TXTVYN,studentd,34799616
+M-KV07TXTVYN,suggestd,43810816
+M-KV07TXTVYN,swcd,29949952
+M-KV07TXTVYN,swtransparencyd,16596992
+M-KV07TXTVYN,syncdefaultsd,18087936
+M-KV07TXTVYN,SystemUIServer,54050816
+M-KV07TXTVYN,talagentd,31490048
+M-KV07TXTVYN,tccd,24035328
+M-KV07TXTVYN,Terminal,162578432
+M-KV07TXTVYN,TextInputMenuAgent,56737792
+M-KV07TXTVYN,TextInputSwitcher,26247168
+M-KV07TXTVYN,ThemeWidgetControlViewService,22298624
+M-KV07TXTVYN,ThemeWidgetControlViewService,22888448
+M-KV07TXTVYN,ThemeWidgetControlViewService,22675456
+M-KV07TXTVYN,ThemeWidgetControlViewService,36126720
+M-KV07TXTVYN,tipsd,18268160
+M-KV07TXTVYN,transparencyd,27885568
+M-KV07TXTVYN,triald,24494080
+M-KV07TXTVYN,trustd,22724608
+M-KV07TXTVYN,Tunnelblick,72040448
+M-KV07TXTVYN,UIKitSystem,35995648
+M-KV07TXTVYN,universalaccessd,21643264
+M-KV07TXTVYN,UsageTrackingAgent,18464768
+M-KV07TXTVYN,useractivityd,13336576
+M-KV07TXTVYN,UserEventAgent,24248320
+M-KV07TXTVYN,usernoted,36208640
+M-KV07TXTVYN,usernotificationsd,21790720
+M-KV07TXTVYN,UTM,82051072
+M-KV07TXTVYN,ViewBridgeAuxiliary,15941632
+M-KV07TXTVYN,VisualizerService,20758528
+M-KV07TXTVYN,VisualizerService_x86,12070912
+M-KV07TXTVYN,voicebankingd,17268736
+M-KV07TXTVYN,VTDecoderXPCService,14860288
+M-KV07TXTVYN,VTDecoderXPCService,14598144
+M-KV07TXTVYN,VTDecoderXPCService,11845632
+M-KV07TXTVYN,VTDecoderXPCService,15351808
+M-KV07TXTVYN,VTEncoderXPCService,31326208
+M-KV07TXTVYN,VTEncoderXPCService,26984448
+M-KV07TXTVYN,VTEncoderXPCService,24641536
+M-KV07TXTVYN,VTEncoderXPCService,27607040
+M-KV07TXTVYN,WallpaperAgent,35586048
+M-KV07TXTVYN,WallpaperVideoExtension,31539200
+M-KV07TXTVYN,WardaSynthesizer_arm64,16449536
+M-KV07TXTVYN,WardaSynthesizer_x86_64,10457088
+M-KV07TXTVYN,weatherd,17825792
+M-KV07TXTVYN,WeatherWidget,74383360
+M-KV07TXTVYN,webprivacyd,13959168
+M-KV07TXTVYN,WiFiAgent,46645248
+M-KV07TXTVYN,WiFiCloudAssetsXPCService,4685824
+M-KV07TXTVYN,WindowManager,49299456
+M-KV07TXTVYN,WorldClockWidget,58998784
+M-KV07TXTVYN,XProtect,5062656
+M-KV07TXTVYN,XProtectPluginService,5160960
+M-KV07TXTVYN,zsh,7995392
+M-KV07TXTVYN,zsh,5160960
+M-KV07TXTVYN,zsh,6946816
+Node,Name,PeakWorkingSetSize
+M-KV07TXTVYN,accountsd,68567040
+M-KV07TXTVYN,AccountSubscriber,6209536
+M-KV07TXTVYN,adprivacyd,20905984
+M-KV07TXTVYN,AirPlayUIAgent,18432000
+M-KV07TXTVYN,akd,20480000
+M-KV07TXTVYN,AMPArtworkAgent,10141696
+M-KV07TXTVYN,AMPDeviceDiscoveryAgent,11042816
+M-KV07TXTVYN,AMPLibraryAgent,29933568
+M-KV07TXTVYN,amsaccountsd,18055168
+M-KV07TXTVYN,amsengagementd,49168384
+M-KV07TXTVYN,amsondevicestoraged,21987328
+M-KV07TXTVYN,analyticsagent,12173312
+M-KV07TXTVYN,APFSUserAgent,7307264
+M-KV07TXTVYN,appleaccountd,26083328
+M-KV07TXTVYN,AppleSpell,68812800
+M-KV07TXTVYN,AppPredictionIntentsHelperService,28950528
+M-KV07TXTVYN,AppSSOAgent,50184192
+M-KV07TXTVYN,appstoreagent,34897920
+M-KV07TXTVYN,ASConfigurationSubscriber,6553600
+M-KV07TXTVYN,askpermissiond,11354112
+M-KV07TXTVYN,AssetCacheLocatorService,9093120
+M-KV07TXTVYN,assistant_cdmd,19791872
+M-KV07TXTVYN,assistantd,35028992
+M-KV07TXTVYN,AUCrashHandlerService,2932736
+M-KV07TXTVYN,audioaccessoryd,33325056
+M-KV07TXTVYN,AudioComponentRegistrar,14483456
+M-KV07TXTVYN,AuthenticationServicesAgent,25051136
+M-KV07TXTVYN,avconferenced,20987904
+M-KV07TXTVYN,axassetsd,24772608
+M-KV07TXTVYN,backgroundassets.user,7569408
+M-KV07TXTVYN,BackgroundTaskManagementAgent,19300352
+M-KV07TXTVYN,betaenrollmentagent,10551296
+M-KV07TXTVYN,BiomeAgent,32358400
+M-KV07TXTVYN,BiomeSELFIngestor,13664256
+M-KV07TXTVYN,bird,17874944
+M-KV07TXTVYN,bluetoothuserd,15826944
+M-KV07TXTVYN,calaccessd,31719424
+M-KV07TXTVYN,CalendarIntentsExtension,17367040
+M-KV07TXTVYN,CalendarWidgetExtension,35258368
+M-KV07TXTVYN,CallHistoryPluginHelper,14041088
+M-KV07TXTVYN,CallHistorySyncHelper,17350656
+M-KV07TXTVYN,callservicesd,36143104
+M-KV07TXTVYN,CarbonComponentScannerXPC,8757248
+M-KV07TXTVYN,CategoriesService,6701056
+M-KV07TXTVYN,cdpd,11304960
+M-KV07TXTVYN,cfprefsd,11239424
+M-KV07TXTVYN,chrome_crashpad_handler,5095424
+M-KV07TXTVYN,chrome_crashpad_handler,4767744
+M-KV07TXTVYN,chrome_crashpad_handler,5292032
+M-KV07TXTVYN,chronod,41107456
+M-KV07TXTVYN,cloudd,35471360
+M-KV07TXTVYN,cloudphotod,10240000
+M-KV07TXTVYN,CloudTelemetryService,6684672
+M-KV07TXTVYN,CloudTelemetryService,6619136
+M-KV07TXTVYN,CloudTelemetryService,18907136
+M-KV07TXTVYN,CloudTelemetryService,24788992
+M-KV07TXTVYN,CMFSyncAgent,10174464
+M-KV07TXTVYN,Code Helper,99745792
+M-KV07TXTVYN,Code Helper,65421312
+M-KV07TXTVYN,Code Helper,103219200
+M-KV07TXTVYN,Code Helper,40222720
+M-KV07TXTVYN,Code Helper (GPU),104513536
+M-KV07TXTVYN,Code Helper (Plugin),80117760
+M-KV07TXTVYN,Code Helper (Plugin),53264384
+M-KV07TXTVYN,Code Helper (Plugin),215498752
+M-KV07TXTVYN,Code Helper (Plugin),131514368
+M-KV07TXTVYN,Code Helper (Plugin),305954816
+M-KV07TXTVYN,Code Helper (Renderer),538705920
+M-KV07TXTVYN,colorsync.useragent,5914624
+M-KV07TXTVYN,com.apple.accessibility.mediaaccessibilityd,5832704
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,112672768
+M-KV07TXTVYN,com.apple.appkit.xpc.openAndSavePanelService,74891264
+M-KV07TXTVYN,com.apple.audio.ComponentTagHelper,2244608
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7208960
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7028736
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7159808
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7159808
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7274496
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,6307840
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,6668288
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,6275072
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,6406144
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,5324800
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,7110656
+M-KV07TXTVYN,com.apple.audio.SandboxHelper,5275648
+M-KV07TXTVYN,com.apple.BKAgentService,7307264
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,3047424
+M-KV07TXTVYN,com.apple.ColorSyncXPCAgent,2916352
+M-KV07TXTVYN,com.apple.DictionaryServiceHelper,5210112
+M-KV07TXTVYN,com.apple.dock.extra,87965696
+M-KV07TXTVYN,com.apple.FaceTime.FTConversationService,13778944
+M-KV07TXTVYN,com.apple.geod,22413312
+M-KV07TXTVYN,com.apple.hiservices-xpcservice,5472256
+M-KV07TXTVYN,com.apple.quicklook.ThumbnailsAgent,34242560
+M-KV07TXTVYN,com.apple.sbd,4358144
+M-KV07TXTVYN,com.apple.siri.embeddedspeech,10862592
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,10207232
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,11091968
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,8814592
+M-KV07TXTVYN,com.apple.SiriTTSService.TrialProxy,9437184
+M-KV07TXTVYN,com.apple.Virtualization.VirtualMachine,2658205696
+M-KV07TXTVYN,com.apple.WebKit.Networking,15040512
+M-KV07TXTVYN,com.docker.backend,202702848
+M-KV07TXTVYN,com.docker.backend,72220672
+M-KV07TXTVYN,com.docker.build,54902784
+M-KV07TXTVYN,com.docker.dev-envs,14893056
+M-KV07TXTVYN,com.docker.virtualization,40370176
+M-KV07TXTVYN,com.microsoft.teams2.notificationcenter,46432256
+M-KV07TXTVYN,com.microsoft.teams2.respawn,5865472
+M-KV07TXTVYN,com.microsoft.teams2.teamsswitcher,8372224
+M-KV07TXTVYN,CommCenter,27262976
+M-KV07TXTVYN,commerce,12304384
+M-KV07TXTVYN,contactsd,16596992
+M-KV07TXTVYN,contactsdonationagent,17547264
+M-KV07TXTVYN,containermanagerd,16220160
+M-KV07TXTVYN,contentlinkingd,12451840
+M-KV07TXTVYN,ContextService,15892480
+M-KV07TXTVYN,ContextStoreAgent,33423360
+M-KV07TXTVYN,ContinuityCaptureAgent,16809984
+M-KV07TXTVYN,ControlCenter,90800128
+M-KV07TXTVYN,coreautha,29032448
+M-KV07TXTVYN,coreauthd,14106624
+M-KV07TXTVYN,CoreLocationAgent,47562752
+M-KV07TXTVYN,CoreServicesUIAgent,58703872
+M-KV07TXTVYN,corespeechd,35422208
+M-KV07TXTVYN,corespotlightd,117030912
+M-KV07TXTVYN,CSExattrCryptoService,9011200
+M-KV07TXTVYN,CSExattrCryptoService,10944512
+M-KV07TXTVYN,csnameddatad,4374528
+M-KV07TXTVYN,ctkahp,6422528
+M-KV07TXTVYN,ctkd,13664256
+M-KV07TXTVYN,CursorUIViewService,28737536
+M-KV07TXTVYN,dataaccessd,20185088
+M-KV07TXTVYN,deleted,28033024
+M-KV07TXTVYN,devicecheckd,21151744
+M-KV07TXTVYN,diagnosticextensionsd,12976128
+M-KV07TXTVYN,diagnostics_agent,17793024
+M-KV07TXTVYN,DiskUnmountWatcher,3473408
+M-KV07TXTVYN,distnoted,9764864
+M-KV07TXTVYN,dmd,14204928
+M-KV07TXTVYN,Dock,108232704
+M-KV07TXTVYN,Docker Desktop,212205568
+M-KV07TXTVYN,Docker Desktop Helper,34390016
+M-KV07TXTVYN,Docker Desktop Helper (GPU),72302592
+M-KV07TXTVYN,Docker Desktop Helper (Renderer),197509120
+M-KV07TXTVYN,DockHelper,40943616
+M-KV07TXTVYN,donotdisturbd,28246016
+M-KV07TXTVYN,duetexpertd,47185920
+M-KV07TXTVYN,Electron,243941376
+M-KV07TXTVYN,EndpointSecurityforMac,142901248
+M-KV07TXTVYN,EscrowSecurityAlert,8683520
+M-KV07TXTVYN,extensionkitservice,8159232
+M-KV07TXTVYN,extensionkitservice,12042240
+M-KV07TXTVYN,extensionkitservice,4980736
+M-KV07TXTVYN,extensionkitservice,8323072
+M-KV07TXTVYN,extensionkitservice,8241152
+M-KV07TXTVYN,extensionkitservice,8044544
+M-KV07TXTVYN,extensionkitservice,11976704
+M-KV07TXTVYN,familycircled,14827520
+M-KV07TXTVYN,feedbackd,10960896
+M-KV07TXTVYN,fileproviderd,27672576
+M-KV07TXTVYN,financed,18546688
+M-KV07TXTVYN,Finder,141574144
+M-KV07TXTVYN,findmylocateagent,24772608
+M-KV07TXTVYN,followupd,7569408
+M-KV07TXTVYN,fontd,26361856
+M-KV07TXTVYN,fontworker,22822912
+M-KV07TXTVYN,fsnotifier,5947392
+M-KV07TXTVYN,fudHelperAgent,1654784
+M-KV07TXTVYN,gamecontrolleragentd,9912320
+M-KV07TXTVYN,generativeexperiencesd,24559616
+M-KV07TXTVYN,geoanalyticsd,21299200
+M-KV07TXTVYN,geodMachServiceBridge,3899392
+M-KV07TXTVYN,GMSSELFIngestor,14434304
+M-KV07TXTVYN,Google Chrome,677511168
+M-KV07TXTVYN,Google Chrome Helper,70025216
+M-KV07TXTVYN,Google Chrome Helper,102940672
+M-KV07TXTVYN,Google Chrome Helper,184582144
+M-KV07TXTVYN,Google Chrome Helper (Alerts),69582848
+M-KV07TXTVYN,Google Chrome Helper (GPU),249823232
+M-KV07TXTVYN,Google Chrome Helper (Plugin),73728000
+M-KV07TXTVYN,Google Chrome Helper (Renderer),82018304
+M-KV07TXTVYN,Google Chrome Helper (Renderer),286212096
+M-KV07TXTVYN,Google Chrome Helper (Renderer),254001152
+M-KV07TXTVYN,Google Chrome Helper (Renderer),234995712
+M-KV07TXTVYN,Google Chrome Helper (Renderer),379437056
+M-KV07TXTVYN,Google Chrome Helper (Renderer),504053760
+M-KV07TXTVYN,Google Chrome Helper (Renderer),112279552
+M-KV07TXTVYN,Google Chrome Helper (Renderer),265732096
+M-KV07TXTVYN,Google Chrome Helper (Renderer),200966144
+M-KV07TXTVYN,Google Chrome Helper (Renderer),130596864
+M-KV07TXTVYN,Google Chrome Helper (Renderer),125878272
+M-KV07TXTVYN,Google Chrome Helper (Renderer),113164288
+M-KV07TXTVYN,Google Chrome Helper (Renderer),152764416
+M-KV07TXTVYN,Google Chrome Helper (Renderer),164757504
+M-KV07TXTVYN,Google Chrome Helper (Renderer),250445824
+M-KV07TXTVYN,Google Chrome Helper (Renderer),281591808
+M-KV07TXTVYN,Google Chrome Helper (Renderer),370819072
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155303936
+M-KV07TXTVYN,Google Chrome Helper (Renderer),186957824
+M-KV07TXTVYN,Google Chrome Helper (Renderer),127336448
+M-KV07TXTVYN,Google Chrome Helper (Renderer),155549696
+M-KV07TXTVYN,Google Chrome Helper (Renderer),172343296
+M-KV07TXTVYN,Google Chrome Helper (Renderer),318996480
+M-KV07TXTVYN,Google Chrome Helper (Renderer),118685696
+M-KV07TXTVYN,Google Chrome Helper (Renderer),127844352
+M-KV07TXTVYN,Google Chrome Helper (Renderer),232947712
+M-KV07TXTVYN,Google Chrome Helper (Renderer),211025920
+M-KV07TXTVYN,Google Chrome Helper (Renderer),357842944
+M-KV07TXTVYN,Google Chrome Helper (Renderer),324190208
+M-KV07TXTVYN,Google Chrome Helper (Renderer),314916864
+M-KV07TXTVYN,Google Chrome Helper (Renderer),313704448
+M-KV07TXTVYN,Google Chrome Helper (Renderer),651640832
+M-KV07TXTVYN,Google Chrome Helper (Renderer),488161280
+M-KV07TXTVYN,Google Chrome Helper (Renderer),384811008
+M-KV07TXTVYN,Google Chrome Helper (Renderer),307396608
+M-KV07TXTVYN,Google Chrome Helper (Renderer),161431552
+M-KV07TXTVYN,heard,40697856
+M-KV07TXTVYN,homed,56721408
+M-KV07TXTVYN,homeenergyd,28688384
+M-KV07TXTVYN,icdd,9977856
+M-KV07TXTVYN,icloudmailagent,11649024
+M-KV07TXTVYN,iCloudNotificationAgent,22462464
+M-KV07TXTVYN,iconservicesagent,37322752
+M-KV07TXTVYN,idea,3099213824
+M-KV07TXTVYN,identityservicesd,38256640
+M-KV07TXTVYN,IFTelemetrySELFIngestor,12681216
+M-KV07TXTVYN,IFTranscriptSELFIngestor,13090816
+M-KV07TXTVYN,imagent,40861696
+M-KV07TXTVYN,IMAutomaticHistoryDeletionAgent,15958016
+M-KV07TXTVYN,IMDPersistenceAgent,26411008
+M-KV07TXTVYN,imklaunchagent,14090240
+M-KV07TXTVYN,inputanalyticsd,11042816
+M-KV07TXTVYN,installerauthagent,4243456
+M-KV07TXTVYN,IntelligencePlatformComputeService,19316736
+M-KV07TXTVYN,intelligenceplatformd,15400960
+M-KV07TXTVYN,intelligentroutingd,20561920
+M-KV07TXTVYN,InteractiveLegacyProfilesSubscriber,11534336
+M-KV07TXTVYN,itunescloudd,29835264
+M-KV07TXTVYN,Jamf Connect,91947008
+M-KV07TXTVYN,jamfRemoteAssist,53346304
+M-KV07TXTVYN,jamfRemoteAssistConnectorUI,79446016
+M-KV07TXTVYN,java,461471744
+M-KV07TXTVYN,keyboardservicesd,12828672
+M-KV07TXTVYN,knowledge-agent,35667968
+M-KV07TXTVYN,KonaSynthesizer,11747328
+M-KV07TXTVYN,LegacyProfilesSubscriber,11534336
+M-KV07TXTVYN,linkd,39976960
+M-KV07TXTVYN,localizationswitcherd,10551296
+M-KV07TXTVYN,localspeechrecognition,36012032
+M-KV07TXTVYN,localspeechrecognition,15220736
+M-KV07TXTVYN,lockdownmoded,14106624
+M-KV07TXTVYN,loginitemregisterd,7913472
+M-KV07TXTVYN,loginwindow,173359104
+M-KV07TXTVYN,lsd,31571968
+M-KV07TXTVYN,MacinTalkAUSP,21708800
+M-KV07TXTVYN,maild,19824640
+M-KV07TXTVYN,managedcorespotlightd,35389440
+M-KV07TXTVYN,ManagedSettingsAgent,7651328
+M-KV07TXTVYN,ManagedSettingsSubscriber,4784128
+M-KV07TXTVYN,ManagementTestSubscriber,4407296
+M-KV07TXTVYN,mapssyncd,19595264
+M-KV07TXTVYN,MauiAUSP,21774336
+M-KV07TXTVYN,mdbulkimport,21594112
+M-KV07TXTVYN,mdworker_shared,20676608
+M-KV07TXTVYN,mdworker_shared,20611072
+M-KV07TXTVYN,mdworker_shared,31997952
+M-KV07TXTVYN,mdworker_shared,31997952
+M-KV07TXTVYN,mdworker_shared,20643840
+M-KV07TXTVYN,mdworker_shared,31948800
+M-KV07TXTVYN,mdworker_shared,31981568
+M-KV07TXTVYN,mdworker_shared,31948800
+M-KV07TXTVYN,mdworker_shared,31965184
+M-KV07TXTVYN,mdworker_shared,27213824
+M-KV07TXTVYN,mdworker_shared,31932416
+M-KV07TXTVYN,mdworker_shared,32063488
+M-KV07TXTVYN,mdworker_shared,33095680
+M-KV07TXTVYN,mdwrite,5406720
+M-KV07TXTVYN,media-indexer,8896512
+M-KV07TXTVYN,mediaanalysisd,336363520
+M-KV07TXTVYN,mediaremoteagent,5177344
+M-KV07TXTVYN,MENotificationAgent,11059200
+M-KV07TXTVYN,MessagesActionExtension,23281664
+M-KV07TXTVYN,metrickitd,5799936
+M-KV07TXTVYN,Microsoft Excel,228048896
+M-KV07TXTVYN,Microsoft OneNote,296976384
+M-KV07TXTVYN,Microsoft Outlook,423362560
+M-KV07TXTVYN,Microsoft PowerPoint,179666944
+M-KV07TXTVYN,Microsoft SharePoint,146866176
+M-KV07TXTVYN,Microsoft Teams WebView,334561280
+M-KV07TXTVYN,Microsoft Teams WebView Helper,71892992
+M-KV07TXTVYN,Microsoft Teams WebView Helper,69353472
+M-KV07TXTVYN,Microsoft Teams WebView Helper,91865088
+M-KV07TXTVYN,Microsoft Teams WebView Helper (GPU),154501120
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Plugin),72777728
+M-KV07TXTVYN,Microsoft Teams WebView Helper (Renderer),973570048
+M-KV07TXTVYN,Microsoft Update Assistant,135839744
+M-KV07TXTVYN,Microsoft Word,273301504
+M-KV07TXTVYN,milod,20807680
+M-KV07TXTVYN,mlhostd,25051136
+M-KV07TXTVYN,mobiletimerd,14663680
+M-KV07TXTVYN,ModelCatalogAgent,13156352
+M-KV07TXTVYN,mscamerad-xpc,3358720
+M-KV07TXTVYN,msedge_crashpad_handler,4734976
+M-KV07TXTVYN,msedge_crashpad_handler,5750784
+M-KV07TXTVYN,MSTeams,220561408
+M-KV07TXTVYN,MTLAssetUpgraderD,6307840
+M-KV07TXTVYN,MTLCompilerService,15171584
+M-KV07TXTVYN,MTLCompilerService,41500672
+M-KV07TXTVYN,MTLCompilerService,41304064
+M-KV07TXTVYN,MTLCompilerService,51871744
+M-KV07TXTVYN,MTLCompilerService,54771712
+M-KV07TXTVYN,MTLCompilerService,39632896
+M-KV07TXTVYN,MTLCompilerService,38502400
+M-KV07TXTVYN,MTLCompilerService,49758208
+M-KV07TXTVYN,MTLCompilerService,38862848
+M-KV07TXTVYN,MTLCompilerService,19660800
+M-KV07TXTVYN,MTLCompilerService,18989056
+M-KV07TXTVYN,Music,145883136
+M-KV07TXTVYN,naturallanguaged,9142272
+M-KV07TXTVYN,ndoagent,9191424
+M-KV07TXTVYN,neagent,19349504
+M-KV07TXTVYN,networkserviceproxy,38273024
+M-KV07TXTVYN,ngrok,38961152
+M-KV07TXTVYN,node,431210496
+M-KV07TXTVYN,Notes,71319552
+M-KV07TXTVYN,NotificationCenter,67272704
+M-KV07TXTVYN,nsattributedstringagent,72630272
+M-KV07TXTVYN,nsurlsessiond,20348928
+M-KV07TXTVYN,OSDUIHelper,31866880
+M-KV07TXTVYN,PackageThumbnailExtension,13729792
+M-KV07TXTVYN,PAH_Extension,20873216
+M-KV07TXTVYN,parsecd,27820032
+M-KV07TXTVYN,PasscodeSettingsSubscriber,11583488
+M-KV07TXTVYN,PasswordBreachAgent,7995392
+M-KV07TXTVYN,pboard,13959168
+M-KV07TXTVYN,pbs,10387456
+M-KV07TXTVYN,photoanalysisd,28246016
+M-KV07TXTVYN,photolibraryd,22872064
+M-KV07TXTVYN,pkd,26935296
+M-KV07TXTVYN,PlugInLibraryService,2932736
+M-KV07TXTVYN,PlugInLibraryService,3686400
+M-KV07TXTVYN,PodcastContentService,5013504
+M-KV07TXTVYN,Postman,305381376
+M-KV07TXTVYN,Postman Helper,32997376
+M-KV07TXTVYN,Postman Helper,50118656
+M-KV07TXTVYN,Postman Helper (GPU),97107968
+M-KV07TXTVYN,Postman Helper (Renderer),569163776
+M-KV07TXTVYN,PowerChime,26443776
+M-KV07TXTVYN,Preview,164904960
+M-KV07TXTVYN,privatecloudcomputed,18825216
+M-KV07TXTVYN,proactived,24231936
+M-KV07TXTVYN,proactiveeventtrackerd,10551296
+M-KV07TXTVYN,promotedcontentd,21446656
+M-KV07TXTVYN,ProtectedCloudKeySyncing,11943936
+M-KV07TXTVYN,ptpcamerad,3358720
+M-KV07TXTVYN,QuickLookUIService,26722304
+M-KV07TXTVYN,QuickLookUIService,17285120
+M-KV07TXTVYN,QuickLookUIService,19316736
+M-KV07TXTVYN,rapportd,29523968
+M-KV07TXTVYN,RemoteManagementAgent,14270464
+M-KV07TXTVYN,replayd,24920064
+M-KV07TXTVYN,replicatord,22872064
+M-KV07TXTVYN,ReportCrash,4423680
+M-KV07TXTVYN,routined,34291712
+M-KV07TXTVYN,SAExtensionOrchestrator,13828096
+M-KV07TXTVYN,SafariBookmarksSyncAgent,20430848
+M-KV07TXTVYN,SafariConfigurationSubscriber,6242304
+M-KV07TXTVYN,SafariLaunchAgent,12369920
+M-KV07TXTVYN,SafariLinkExtension,16498688
+M-KV07TXTVYN,ScopedBookmarkAgent,17121280
+M-KV07TXTVYN,ScreenSharingSubscriber,6651904
+M-KV07TXTVYN,ScreenTimeAgent,20054016
+M-KV07TXTVYN,searchpartyuseragent,25477120
+M-KV07TXTVYN,secd,28966912
+M-KV07TXTVYN,secinitd,25231360
+M-KV07TXTVYN,SecuritySubscriber,4505600
+M-KV07TXTVYN,seserviced,12156928
+M-KV07TXTVYN,SetStoreUpdateService,8814592
+M-KV07TXTVYN,sharedfilelistd,17416192
+M-KV07TXTVYN,sharingd,39911424
+M-KV07TXTVYN,siriactionsd,48037888
+M-KV07TXTVYN,SiriAUSP,13254656
+M-KV07TXTVYN,siriinferenced,58703872
+M-KV07TXTVYN,siriknowledged,32063488
+M-KV07TXTVYN,SiriSuggestionsBookkeepingService,44761088
+M-KV07TXTVYN,sirittsd,10354688
+M-KV07TXTVYN,sociallayerd,16154624
+M-KV07TXTVYN,SoftwareUpdateNotificationManager,45072384
+M-KV07TXTVYN,spindump_agent,4521984
+M-KV07TXTVYN,Spotlight,164970496
+M-KV07TXTVYN,spotlightknowledged,356040704
+M-KV07TXTVYN,spotlightknowledged,30457856
+M-KV07TXTVYN,StatusKitAgent,18071552
+M-KV07TXTVYN,StocksKitService,13074432
+M-KV07TXTVYN,StocksWidget,90456064
+M-KV07TXTVYN,storekitagent,25788416
+M-KV07TXTVYN,studentd,34816000
+M-KV07TXTVYN,suggestd,44302336
+M-KV07TXTVYN,swcd,30294016
+M-KV07TXTVYN,swtransparencyd,16924672
+M-KV07TXTVYN,syncdefaultsd,18399232
+M-KV07TXTVYN,SystemUIServer,54411264
+M-KV07TXTVYN,talagentd,31539200
+M-KV07TXTVYN,tccd,25706496
+M-KV07TXTVYN,Terminal,163086336
+M-KV07TXTVYN,TextInputMenuAgent,56754176
+M-KV07TXTVYN,TextInputSwitcher,26247168
+M-KV07TXTVYN,ThemeWidgetControlViewService,22839296
+M-KV07TXTVYN,ThemeWidgetControlViewService,23166976
+M-KV07TXTVYN,ThemeWidgetControlViewService,22921216
+M-KV07TXTVYN,ThemeWidgetControlViewService,36323328
+M-KV07TXTVYN,tipsd,23609344
+M-KV07TXTVYN,transparencyd,28147712
+M-KV07TXTVYN,triald,24526848
+M-KV07TXTVYN,trustd,22724608
+M-KV07TXTVYN,Tunnelblick,72040448
+M-KV07TXTVYN,UIKitSystem,36110336
+M-KV07TXTVYN,universalaccessd,21676032
+M-KV07TXTVYN,UsageTrackingAgent,18923520
+M-KV07TXTVYN,useractivityd,13565952
+M-KV07TXTVYN,UserEventAgent,24412160
+M-KV07TXTVYN,usernoted,36487168
+M-KV07TXTVYN,usernotificationsd,22020096
+M-KV07TXTVYN,UTM,82116608
+M-KV07TXTVYN,ViewBridgeAuxiliary,16056320
+M-KV07TXTVYN,VisualizerService,20856832
+M-KV07TXTVYN,VisualizerService_x86,12148736
+M-KV07TXTVYN,voicebankingd,17268736
+M-KV07TXTVYN,VTDecoderXPCService,14860288
+M-KV07TXTVYN,VTDecoderXPCService,14614528
+M-KV07TXTVYN,VTDecoderXPCService,11862016
+M-KV07TXTVYN,VTDecoderXPCService,15417344
+M-KV07TXTVYN,VTEncoderXPCService,31604736
+M-KV07TXTVYN,VTEncoderXPCService,27000832
+M-KV07TXTVYN,VTEncoderXPCService,24641536
+M-KV07TXTVYN,VTEncoderXPCService,27607040
+M-KV07TXTVYN,WallpaperAgent,35700736
+M-KV07TXTVYN,WallpaperVideoExtension,31719424
+M-KV07TXTVYN,WardaSynthesizer_arm64,16449536
+M-KV07TXTVYN,WardaSynthesizer_x86_64,10457088
+M-KV07TXTVYN,weatherd,17825792
+M-KV07TXTVYN,WeatherWidget,74383360
+M-KV07TXTVYN,webprivacyd,13975552
+M-KV07TXTVYN,WiFiAgent,46727168
+M-KV07TXTVYN,WiFiCloudAssetsXPCService,4685824
+M-KV07TXTVYN,WindowManager,51658752
+M-KV07TXTVYN,WorldClockWidget,58998784
+M-KV07TXTVYN,XProtect,5111808
+M-KV07TXTVYN,XProtectPluginService,9076736
+M-KV07TXTVYN,zsh,7995392
+M-KV07TXTVYN,zsh,5160960
+M-KV07TXTVYN,zsh,6946816
