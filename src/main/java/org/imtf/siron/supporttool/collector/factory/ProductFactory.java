@@ -31,8 +31,7 @@ public class ProductFactory {
             case ZEIDON -> zeidonCollector;
             case EMBARGO -> embargoCollector;
             case RAS -> rasCollector;
-            case RCC -> null;
-            case ALL -> null;
+            default -> throw new IllegalStateException("Unexpected value: " + productType);
         };
     }
 }

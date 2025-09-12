@@ -28,11 +28,10 @@ public class SystemInfoCollector {
 
         logger.info("This is the destination folder path:{}", destination_folder_path);
 
-        String dirname = destination_folder_path;
         File dst_folder = new File(destination_folder_path);
         if (!dst_folder.exists()) {
             try {
-                Files.createDirectories(Paths.get(dirname));
+                Files.createDirectories(Paths.get(destination_folder_path));
             } catch (IOException e) {
                 logger.warn("Error creating SystemInfo folder: {}", e.getMessage());
             }
@@ -40,7 +39,7 @@ public class SystemInfoCollector {
 
         logger.info("collecting system info file");
         CSVFileHandler csv1 = new CSVFileHandler();
-        csv1.createFile(dirname + operatingSystem.tr + "sysinfo.txt");
+        csv1.createFile(destination_folder_path + operatingSystem.tr + "sysinfo.txt");
         String myPath = operatingSystem.getApplicationPath();
         csv1.csvWriter("Current Path:", myPath);
         operatingSystem.isWindows();
@@ -50,12 +49,9 @@ public class SystemInfoCollector {
         csv1.csvWriter("JVM Architecture:", operatingSystem.jvmArchitecture);
 
 
-        // -----------------------------//
-
-
         logger.info("Collecting command installed file");
         CSVFileHandler csv2 = new CSVFileHandler();
-        csv2.createFile(dirname + operatingSystem.tr + "commands_installed.txt");
+        csv2.createFile(destination_folder_path + operatingSystem.tr + "commands_installed.txt");
         csv2.writeLine("show which possible needed command line utilities are existing");
         csv2.writeLine("---------------------------------------------------------------");
 
@@ -78,12 +74,10 @@ public class SystemInfoCollector {
         csv2.writeLine(operatingSystem.installedCommand("cmd", debug));
 
 
-        // -----------------------------//
-
 
         logger.info("Collecting command found file");
         CSVFileHandler csv3 = new CSVFileHandler();
-        csv3.createFile(dirname + operatingSystem.tr + "commands_found.txt");
+        csv3.createFile(destination_folder_path + operatingSystem.tr + "commands_found.txt");
         csv2.writeLine("show which possible needed command line utilities are existing");
         csv3.writeLine("------------------");
 
@@ -114,29 +108,21 @@ public class SystemInfoCollector {
         csv3.writeLine(operatingSystem.whichPath("find"));
 
 
-        // -----------------------------//
-
-
         logger.info("Collecting environment file");
-        String env = dirname + operatingSystem.tr + "environment.txt";
+        String env = destination_folder_path + operatingSystem.tr + "environment.txt";
         operatingSystem.writeEnvironment2File(env);
         logger.info("file [{}] created.", env);
 
 
-        // -----------------------------//
-
-
         logger.info("Collecting hardware files");
         CSVFileHandler csv4 = new CSVFileHandler();
-        csv4.createFile(dirname + operatingSystem.tr + "hardware.txt");
+        csv4.createFile(destination_folder_path + operatingSystem.tr + "hardware.txt");
         csv4.writeLine("------------------");
 
         Map<String, String> map = operatingSystem.hardwareInfo();
         for (Map.Entry<String, String> entry : map.entrySet()) {
             csv4.writeLine(entry.getKey() + " " + entry.getValue());
         }
-
-        csv4.writeLine("------------------");
 
 
         // check environment variables
@@ -149,42 +135,46 @@ public class SystemInfoCollector {
         csv4.writeLine(operatingSystem.checkVariable2String("DB2CODEPAGE"));
 
 
-        // -----------------------------//
-
-
         logger.info("Collecting Processes Files");
         CSVFileHandler csv5 = new CSVFileHandler();
-        csv5.createFile(dirname + operatingSystem.tr + "processes.txt");
+        csv5.createFile(destination_folder_path + operatingSystem.tr + "processes.txt");
 
+        BufferedReader process = operatingSystem.showProcesses();
         String line = "";
-        BufferedReader procs = operatingSystem.showProcesses();
-
-        try {
-            while ((line = procs.readLine()) != null) {
-                csv5.writeLine(line);
-            }
-        } catch (IOException e) {
-            logger.warn("IO Exception while reading Processes: {}", e.getMessage());
+        if (process == null) {
+            logger.warn("BufferedReader for Processes is null");
         }
-
-
-        // -----------------------------//
+        else {
+            try {
+                while ((line = process.readLine()) != null) {
+                    csv5.writeLine(line);
+                }
+            } catch (IOException e) {
+                logger.warn("IO Exception while reading Processes: {}", e.getMessage());
+            }
+        }
 
 
         logger.info("Collecting memory files");
         CSVFileHandler csv6 = new CSVFileHandler();
-        csv6.createFile(dirname + operatingSystem.tr + "memory_used.txt");
+        csv6.createFile(destination_folder_path + operatingSystem.tr + "memory_used.txt");
 
         line = "";
         BufferedReader ram = operatingSystem.showMemoryUsed();
-        try {
-            while ((line = ram.readLine()) != null) {
-                if (line.length() > 0) {
-                    csv6.writeLine(line);
+        if (ram == null) {
+            logger.warn("BufferedReader for Memory is null");
+        }
+        else
+        {
+            try {
+                while ((line = ram.readLine()) != null) {
+                    if (!line.isEmpty()) {
+                        csv6.writeLine(line);
+                    }
                 }
+            } catch (IOException e) {
+                logger.warn("IO Exception while reading Memory: {}", e.getMessage());
             }
-        } catch (IOException e) {
-            logger.warn("IO Exception while reading Memory: {}", e.getMessage());
         }
 
         logger.info("Finished collecting System information");

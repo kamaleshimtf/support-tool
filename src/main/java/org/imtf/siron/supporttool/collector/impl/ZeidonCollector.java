@@ -47,7 +47,7 @@ public class ZeidonCollector implements ProductCollector {
         collectSystemPaths(destinationFolder, productClientInfo);
     }
     private void collectSystemPaths(String destinationPath, ProductClientInfo info) {
-        logger.info("Collecting Zeidon folders");
+        logger.info("Collecting Zeidon folders", info.getRootPath());
 
         Map<String, String> systemPaths = getSystemPaths(info.getRootPath(), destinationPath);
 

@@ -15,6 +15,7 @@ import org.imtf.siron.supporttool.collector.ProductCollector;
 import org.imtf.siron.supporttool.collector.factory.ProductFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -51,7 +52,7 @@ public class ProductInfoService {
         validateClientFolders(productRootMap);
         collectAllProducts(productRootMap);
         String timestamp = new SimpleDateFormat(SupportToolConstant.ZIP_FOLDER_NAME_TIME_FORMAT).format(new Date());
-        String zipFileName =  timestamp + "_" + SupportToolConstant.SUPPORT_FOLDER_NAME + ".zip";
+        String zipFileName = timestamp + "_" + SupportToolConstant.SUPPORT_FOLDER_NAME + ".zip";
         return fileManager.zipCreation(
                 Paths.get(this.destinationPath), zipFileName);
     }
@@ -93,7 +94,12 @@ public class ProductInfoService {
                 logger.info("Found {} product type", productType);
                 String rootPath = productConstant.getProductTypeByRoot(productType);
                 String environmentPath = environmentManager.getEnvironmentByKey(rootPath);
-                productRootMap.put(productType, new ProductClientInfo(environmentPath, clientIds));
+                if (environmentPath != null) {
+                    productRootMap.put(productType, new ProductClientInfo(environmentPath, clientIds));
+                }
+                else {
+                    throw new NotFoundException("Product not installed: " + productType);
+                }
             }
         }
     }
@@ -132,8 +138,7 @@ public class ProductInfoService {
                         ));
                     }
                 }
-            }
-            else {
+            } else {
                 if (fileManager.isClientFolderExists(productRoot, ProductConstant.PRODUCT_ALL_CLIENTS)) {
 
                     logger.info("Collect All client Ids for product at path: {}", productRoot);
@@ -149,19 +154,19 @@ public class ProductInfoService {
 
     public Map<ProductType, ProductClientInfo> getAllProductInfo(Map<String, String> systemEnvironment, List<String> clientIds) {
 
-        if (systemEnvironment == null || systemEnvironment.isEmpty()){
+        if (systemEnvironment == null || systemEnvironment.isEmpty()) {
             logger.info("system environment is empty");
             return new HashMap<>();
         }
 
         Map<ProductType, ProductClientInfo> productTypeMap = new HashMap<ProductType, ProductClientInfo>();
 
-        for (String key : systemEnvironment.keySet()){
+        for (String key : systemEnvironment.keySet()) {
             ProductType productType = productConstant.getProductTypeByRootValue(key);
-            if (productType != null){
+            if (productType != null) {
                 logger.info("Found product type {}", productType);
                 productTypeMap.put(productType,
-                        new ProductClientInfo(systemEnvironment.get(key),clientIds)
+                        new ProductClientInfo(systemEnvironment.get(key), clientIds)
                 );
             }
         }
@@ -173,7 +178,7 @@ public class ProductInfoService {
         for (Map.Entry<ProductType, ProductClientInfo> productEntry : productRootMap.entrySet()) {
             ProductCollector collector = productFactory.getProductCollector(productEntry.getKey());
             if (collector != null) {
-                collector.collect(this.destinationPath,productEntry.getKey(), productEntry.getValue());
+                collector.collect(this.destinationPath, productEntry.getKey(), productEntry.getValue());
             }
         }
     }

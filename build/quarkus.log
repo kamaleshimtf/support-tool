@@ -1,0 +1,4 @@
+2025-09-03 11:55:18,312 m-kv07txtvyn /Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java[6104] INFO  [io.quarkus] (main) siron-support-tool 1.0-SNAPSHOT on JVM (powered by Quarkus 3.24.4) started in 0.637s. Listening on: http://0.0.0.0:8081
+2025-09-03 11:55:18,314 m-kv07txtvyn /Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java[6104] INFO  [io.quarkus] (main) Profile prod activated. 
+2025-09-03 11:55:18,314 m-kv07txtvyn /Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java[6104] INFO  [io.quarkus] (main) Installed features: [cdi, keycloak-authorization, oidc, resteasy, resteasy-jackson, security, smallrye-context-propagation, vertx]
+2025-09-03 11:55:18,787 m-kv07txtvyn /Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java[6104] INFO  [io.quarkus] (Shutdown thread) siron-support-tool stopped in 0.009s

@@ -108,7 +108,9 @@ public class FileManager {
 
     public boolean isClientFolderExists(String productRoot, String clientId) {
         File clientFolder = getClientFolder(productRoot, clientId);
-        return !clientFolder.exists();
+        logger.info(clientFolder.getAbsolutePath());
+        logger.info("Client folder exists: {}", clientFolder.exists());
+        return clientFolder.exists();
     }
 
     public List<String> getClientIds(String clientFolderPath) {

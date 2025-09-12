@@ -1,0 +1,28 @@
+#services:
+#  keycloak:
+#    image: quay.io/keycloak/keycloak:latest
+#    command:
+#      - start-dev
+#    environment:
+#      KC_BOOTSTRAP_ADMIN_USERNAME: admin
+#      KC_BOOTSTRAP_ADMIN_PASSWORD: admin
+#      KC_HOSTNAME: http://localhost:8080
+#      KC_HOSTNAME_BACKCHANNEL_DYNAMIC: true
+#    ports:
+#      - "8080:8080"
+#    networks:
+#      - siron-support-tool-network
+#  quarkus:
+#    build:
+#      dockerfile: src/main/docker/Dockerfile.jvm
+#    container_name: siron-support-tool-app
+#    depends_on:
+#      - keycloak
+#    ports:
+#      - "9095:9095"
+#    networks:
+#      - siron-support-tool-network
+#
+#networks:
+#  siron-support-tool-network:
+#    driver: bridge
