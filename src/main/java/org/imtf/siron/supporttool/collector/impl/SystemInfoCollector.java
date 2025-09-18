@@ -3,6 +3,7 @@ package org.imtf.siron.supporttool.collector.impl;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
+import org.imtf.siron.supporttool.helper.FileManager;
 import org.imtf.siron.supporttool.helper.systeminfo.CSVFileHandler;
 import org.imtf.siron.supporttool.helper.systeminfo.OperatingSystem;
 import org.slf4j.Logger;
@@ -24,24 +25,29 @@ public class SystemInfoCollector {
     @Inject
     OperatingSystem operatingSystem;
 
-    public String exportSystemInfo(String destination_folder_path) {
+    @Inject
+    FileManager fileManager;
 
-        logger.info("This is the destination folder path:{}", destination_folder_path);
 
-        File dst_folder = new File(destination_folder_path);
-        if (!dst_folder.exists()) {
+    public String collectingSystemInformation(String destinationFolderPath) {
+
+        logger.info("current destination folder path:{}", destinationFolderPath);
+
+        File destinationFolder = new File(destinationFolderPath);
+        if (!destinationFolder.exists()) {
             try {
-                Files.createDirectories(Paths.get(destination_folder_path));
+                Files.createDirectories(Paths.get(destinationFolderPath));
             } catch (IOException e) {
                 logger.warn("Error creating SystemInfo folder: {}", e.getMessage());
             }
         }
 
-        logger.info("collecting system info file");
+        logger.info("collecting system information file");
         CSVFileHandler csv1 = new CSVFileHandler();
-        csv1.createFile(destination_folder_path + operatingSystem.tr + "sysinfo.txt");
-        String myPath = operatingSystem.getApplicationPath();
-        csv1.csvWriter("Current Path:", myPath);
+        csv1.createFile(destinationFolderPath + operatingSystem.tr + "sysinfo.txt");
+
+        String currentPath = fileManager.getApplicationPath().toString();
+        csv1.csvWriter("Current Path:", currentPath);
         operatingSystem.isWindows();
         csv1.csvWriter("Operating System Type is:", operatingSystem.osTypeName);
         operatingSystem.isX64();
@@ -51,7 +57,7 @@ public class SystemInfoCollector {
 
         logger.info("Collecting command installed file");
         CSVFileHandler csv2 = new CSVFileHandler();
-        csv2.createFile(destination_folder_path + operatingSystem.tr + "commands_installed.txt");
+        csv2.createFile(destinationFolderPath + operatingSystem.tr + "commands_installed.txt");
         csv2.writeLine("show which possible needed command line utilities are existing");
         csv2.writeLine("---------------------------------------------------------------");
 
@@ -77,7 +83,7 @@ public class SystemInfoCollector {
 
         logger.info("Collecting command found file");
         CSVFileHandler csv3 = new CSVFileHandler();
-        csv3.createFile(destination_folder_path + operatingSystem.tr + "commands_found.txt");
+        csv3.createFile(destinationFolderPath + operatingSystem.tr + "commands_found.txt");
         csv2.writeLine("show which possible needed command line utilities are existing");
         csv3.writeLine("------------------");
 
@@ -109,14 +115,14 @@ public class SystemInfoCollector {
 
 
         logger.info("Collecting environment file");
-        String env = destination_folder_path + operatingSystem.tr + "environment.txt";
+        String env = destinationFolderPath + operatingSystem.tr + "environment.txt";
         operatingSystem.writeEnvironment2File(env);
         logger.info("file [{}] created.", env);
 
 
         logger.info("Collecting hardware files");
         CSVFileHandler csv4 = new CSVFileHandler();
-        csv4.createFile(destination_folder_path + operatingSystem.tr + "hardware.txt");
+        csv4.createFile(destinationFolderPath + operatingSystem.tr + "hardware.txt");
         csv4.writeLine("------------------");
 
         Map<String, String> map = operatingSystem.hardwareInfo();
@@ -137,7 +143,7 @@ public class SystemInfoCollector {
 
         logger.info("Collecting Processes Files");
         CSVFileHandler csv5 = new CSVFileHandler();
-        csv5.createFile(destination_folder_path + operatingSystem.tr + "processes.txt");
+        csv5.createFile(destinationFolderPath + operatingSystem.tr + "processes.txt");
 
         BufferedReader process = operatingSystem.showProcesses();
         String line = "";
@@ -157,7 +163,7 @@ public class SystemInfoCollector {
 
         logger.info("Collecting memory files");
         CSVFileHandler csv6 = new CSVFileHandler();
-        csv6.createFile(destination_folder_path + operatingSystem.tr + "memory_used.txt");
+        csv6.createFile(destinationFolderPath + operatingSystem.tr + "memory_used.txt");
 
         line = "";
         BufferedReader ram = operatingSystem.showMemoryUsed();
@@ -179,6 +185,6 @@ public class SystemInfoCollector {
 
         logger.info("Finished collecting System information");
 
-        return destination_folder_path;
+        return destinationFolderPath;
     }
 }

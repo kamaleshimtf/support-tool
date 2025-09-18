@@ -5,6 +5,7 @@ package org.imtf.siron.supporttool.service;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import org.imtf.siron.supporttool.collector.impl.SystemInfoCollector;
+import org.imtf.siron.supporttool.helper.FileManager;
 import org.imtf.siron.supporttool.helper.systeminfo.OperatingSystem;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,6 +15,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.zip.ZipEntry;
@@ -30,14 +32,20 @@ public class SystemInfoService {
     @Inject
     OperatingSystem osService;
 
+    @Inject
+    FileManager fileManager;
+
 
     public Path collectAndZip(String folderName, String zipFileName) throws IOException {
-        String basePath = osService.getApplicationPath();
-        String fullOutputPath = basePath + File.separator + folderName;
+        String basePath = fileManager.getApplicationPath().toString();
+
+        logger.info("Application Path :{}", basePath);
+        logger.info("Application Exact Path:{}", Paths.get(basePath, folderName).toString());
+        String fullOutputPath = Paths.get(basePath, folderName).toString();
 
         logger.info("System info Destination Path :{}", fullOutputPath);
 
-        String finalSystemFolder = systemInfoWriterService.exportSystemInfo(fullOutputPath);
+        String finalSystemFolder = systemInfoWriterService.collectingSystemInformation(fullOutputPath);
 
         logger.info("System info Destination Final Path :{}", finalSystemFolder);
 

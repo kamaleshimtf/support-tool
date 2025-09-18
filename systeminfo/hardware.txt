@@ -3740,3 +3740,390 @@ JAVA_OPTS=null
 NLS_LANG=null
 NLS_SORT=null
 DB2CODEPAGE=null
+------------------
+os name Apple macOS 15.5 build 24F74
+cpu cores 14 CPU(s)
+cpu core 0 type LogicalProcessor [processorNumber=0, coreNumber=0, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 1 type LogicalProcessor [processorNumber=1, coreNumber=1, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 2 type LogicalProcessor [processorNumber=2, coreNumber=2, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 3 type LogicalProcessor [processorNumber=3, coreNumber=3, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 4 type LogicalProcessor [processorNumber=4, coreNumber=4, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 5 type LogicalProcessor [processorNumber=5, coreNumber=5, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 6 type LogicalProcessor [processorNumber=6, coreNumber=6, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 7 type LogicalProcessor [processorNumber=7, coreNumber=7, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 8 type LogicalProcessor [processorNumber=8, coreNumber=8, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 9 type LogicalProcessor [processorNumber=9, coreNumber=9, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 10 type LogicalProcessor [processorNumber=10, coreNumber=10, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 11 type LogicalProcessor [processorNumber=11, coreNumber=11, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 12 type LogicalProcessor [processorNumber=12, coreNumber=12, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 13 type LogicalProcessor [processorNumber=13, coreNumber=13, packageNumber=0, numaNode=0, processorGroup=0]
+ram total 48 GiB
+ram available 8.7 GiB
+File system roots returned byFileSystemView.getFileSystemView(): 
+Root:  /
+Home directory:  /Users/kamalesh.g
+File system roots returned by File.listRoots(): 
+Drive:  /
+Display name:  /
+Is drive:  false
+Is floppy:  false
+Readable:  true
+Writable:  false
+Total space:  994662584320
+Usable space:  545416671232
+computername M-KV07TXTVYN
+getAddress 192.168.60.59
+getCanonicalHostName 192.168.60.59
+getHostAddress 192.168.60.59
+isLoopbackAddress false
+jvm cores 14
+jvm free memory (bytes) 143264544
+jvm maximum memory (bytes):  12884901888
+jvm total memory (bytes):  243269632
+apple.awt.application.name :DevModeMain
+classworlds.conf :/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/bin/m2.conf
+dev.resteasy.exception.mapper :false
+file.encoding :UTF-8
+file.separator :/
+ftp.nonProxyHosts :local|*.local|169.254/16|*.169.254/16
+guice.disable.misplaced.annotation.check :true
+http.nonProxyHosts :local|*.local|169.254/16|*.169.254/16
+idea.version :2025.1
+io.netty.allocator.disableCacheFinalizersForFastThreadLocalThreads :true
+io.netty.allocator.maxOrder :3
+io.netty.machineId :94:81:49:51:e3:7c:2e:6a
+io.quarkus.security.http.test-if-basic-auth-implicitly-required :true
+jansi.passthrough :true
+java.class.path :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool/target/siron-support-tool-dev.jar
+java.class.version :68.0
+java.home :/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home
+java.io.tmpdir :/var/folders/vb/5ghg_r2x2791ltn264jv17mw0000gp/T/
+java.library.path :/Users/kamalesh.g/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+java.nio.channels.DefaultThreadPool.threadFactory :io.quarkus.dev.io.NioThreadPoolThreadFactory
+java.rmi.server.randomIDs :true
+java.runtime.name :Java(TM) SE Runtime Environment
+java.runtime.version :24.0.1+9-30
+java.specification.name :Java Platform API Specification
+java.specification.vendor :Oracle Corporation
+java.specification.version :24
+java.util.concurrent.ForkJoinPool.common.threadFactory :io.quarkus.bootstrap.forkjoin.QuarkusForkJoinWorkerThreadFactory
+java.util.logging.manager :org.jboss.logmanager.LogManager
+java.vendor :Oracle Corporation
+java.vendor.url :https://java.oracle.com/
+java.vendor.url.bug :https://bugreport.java.com/bugreport/
+java.version :24.0.1
+java.version.date :2025-04-15
+java.vm.compressedOopsMode :Zero based
+java.vm.info :mixed mode, emulated-client, sharing
+java.vm.name :Java HotSpot(TM) 64-Bit Server VM
+java.vm.specification.name :Java Virtual Machine Specification
+java.vm.specification.vendor :Oracle Corporation
+java.vm.specification.version :24
+java.vm.vendor :Oracle Corporation
+java.vm.version :24.0.1+9-30
+jboss.log-version :false
+jdk.console :java.base
+jdk.debug :release
+jna.loaded :true
+jna.platform.library.path :/usr/lib:/usr/lib
+jnidispatch.path :/Users/kamalesh.g/Library/Caches/JNA/temp/jna6009614711343580162.tmp
+logging.initial-configurator.min-level :500
+maven.conf :/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/conf
+maven.home :/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3
+maven.multiModuleProjectDirectory :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool
+native.encoding :UTF-8
+os.arch :aarch64
+os.name :Mac OS X
+os.version :15.5
+path.separator ::
+quarkus-internal.serialized-app-model.path :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool/target/quarkus/bootstrap/dev-app-model.dat
+socksNonProxyHosts :local|*.local|169.254/16|*.169.254/16
+stderr.encoding :UTF-8
+stdout.encoding :UTF-8
+sun.arch.data.model :64
+sun.awt.enableExtraMouseButtons :true
+sun.boot.library.path :/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/lib
+sun.cpu.endian :little
+sun.io.unicode.encoding :UnicodeBig
+sun.java.command :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool/target/siron-support-tool-dev.jar
+sun.java.launcher :SUN_STANDARD
+sun.jnu.encoding :UTF-8
+sun.management.compiler :HotSpot 64-Bit Tiered Compilers
+sun.stderr.encoding :UTF-8
+sun.stdout.encoding :UTF-8
+user.country :IN
+user.dir :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool
+user.home :/Users/kamalesh.g
+user.language :en
+user.name :kamalesh.g
+user.timezone :Asia/Kolkata
+vertx.disableDnsResolver :true
+vertx.disableTCCL :true
+vertx.disableWebsockets :true
+vertx.logger-delegate-factory-class-name :io.quarkus.vertx.core.runtime.VertxLogDelegateFactory
+vertxweb.environment :dev
+ORACLE_HOME=null
+ANT_HOME=null
+JAVA_HOME=/opt/homebrew/opt/openjdk
+JAVA_OPTS=null
+NLS_LANG=null
+NLS_SORT=null
+DB2CODEPAGE=null
+------------------
+os name Apple macOS 15.5 build 24F74
+cpu cores 14 CPU(s)
+cpu core 0 type LogicalProcessor [processorNumber=0, coreNumber=0, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 1 type LogicalProcessor [processorNumber=1, coreNumber=1, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 2 type LogicalProcessor [processorNumber=2, coreNumber=2, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 3 type LogicalProcessor [processorNumber=3, coreNumber=3, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 4 type LogicalProcessor [processorNumber=4, coreNumber=4, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 5 type LogicalProcessor [processorNumber=5, coreNumber=5, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 6 type LogicalProcessor [processorNumber=6, coreNumber=6, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 7 type LogicalProcessor [processorNumber=7, coreNumber=7, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 8 type LogicalProcessor [processorNumber=8, coreNumber=8, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 9 type LogicalProcessor [processorNumber=9, coreNumber=9, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 10 type LogicalProcessor [processorNumber=10, coreNumber=10, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 11 type LogicalProcessor [processorNumber=11, coreNumber=11, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 12 type LogicalProcessor [processorNumber=12, coreNumber=12, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 13 type LogicalProcessor [processorNumber=13, coreNumber=13, packageNumber=0, numaNode=0, processorGroup=0]
+ram total 48 GiB
+ram available 32.7 GiB
+File system roots returned byFileSystemView.getFileSystemView(): 
+Root:  /
+Home directory:  /Users/kamalesh.g
+File system roots returned by File.listRoots(): 
+Drive:  /
+Display name:  /
+Is drive:  false
+Is floppy:  false
+Readable:  true
+Writable:  false
+Total space:  994662584320
+Usable space:  543261511680
+computername M-KV07TXTVYN
+getAddress 192.168.60.59
+getCanonicalHostName 192.168.60.59
+getHostAddress 192.168.60.59
+isLoopbackAddress false
+jvm cores 14
+jvm free memory (bytes) 140069792
+jvm maximum memory (bytes):  12884901888
+jvm total memory (bytes):  243269632
+apple.awt.application.name :DevModeMain
+classworlds.conf :/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/bin/m2.conf
+debug :65317
+dev.resteasy.exception.mapper :false
+file.encoding :UTF-8
+file.separator :/
+ftp.nonProxyHosts :local|*.local|169.254/16|*.169.254/16
+guice.disable.misplaced.annotation.check :true
+http.nonProxyHosts :local|*.local|169.254/16|*.169.254/16
+idea.version :2025.1
+io.netty.allocator.disableCacheFinalizersForFastThreadLocalThreads :true
+io.netty.allocator.maxOrder :3
+io.netty.machineId :c1:0c:d4:78:a1:2b:46:ef
+io.quarkus.security.http.test-if-basic-auth-implicitly-required :true
+jansi.passthrough :true
+java.class.path :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool/target/siron-support-tool-dev.jar
+java.class.version :68.0
+java.home :/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home
+java.io.tmpdir :/var/folders/vb/5ghg_r2x2791ltn264jv17mw0000gp/T/
+java.library.path :/Users/kamalesh.g/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+java.nio.channels.DefaultThreadPool.threadFactory :io.quarkus.dev.io.NioThreadPoolThreadFactory
+java.runtime.name :Java(TM) SE Runtime Environment
+java.runtime.version :24.0.1+9-30
+java.specification.name :Java Platform API Specification
+java.specification.vendor :Oracle Corporation
+java.specification.version :24
+java.util.concurrent.ForkJoinPool.common.threadFactory :io.quarkus.bootstrap.forkjoin.QuarkusForkJoinWorkerThreadFactory
+java.util.logging.manager :org.jboss.logmanager.LogManager
+java.vendor :Oracle Corporation
+java.vendor.url :https://java.oracle.com/
+java.vendor.url.bug :https://bugreport.java.com/bugreport/
+java.version :24.0.1
+java.version.date :2025-04-15
+java.vm.compressedOopsMode :Zero based
+java.vm.info :mixed mode, emulated-client, sharing
+java.vm.name :Java HotSpot(TM) 64-Bit Server VM
+java.vm.specification.name :Java Virtual Machine Specification
+java.vm.specification.vendor :Oracle Corporation
+java.vm.specification.version :24
+java.vm.vendor :Oracle Corporation
+java.vm.version :24.0.1+9-30
+jboss.log-version :false
+jdk.console :java.base
+jdk.debug :release
+jna.loaded :true
+jna.platform.library.path :/usr/lib:/usr/lib
+jnidispatch.path :/Users/kamalesh.g/Library/Caches/JNA/temp/jna4001392467617807863.tmp
+logging.initial-configurator.min-level :500
+maven.conf :/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/conf
+maven.home :/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3
+maven.multiModuleProjectDirectory :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool
+native.encoding :UTF-8
+os.arch :aarch64
+os.name :Mac OS X
+os.version :15.5
+path.separator ::
+quarkus-internal.serialized-app-model.path :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool/target/quarkus/bootstrap/dev-app-model.dat
+socksNonProxyHosts :local|*.local|169.254/16|*.169.254/16
+stderr.encoding :UTF-8
+stdout.encoding :UTF-8
+sun.arch.data.model :64
+sun.awt.enableExtraMouseButtons :true
+sun.boot.library.path :/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/lib
+sun.cpu.endian :little
+sun.io.unicode.encoding :UnicodeBig
+sun.java.command :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool/target/siron-support-tool-dev.jar
+sun.java.launcher :SUN_STANDARD
+sun.jnu.encoding :UTF-8
+sun.management.compiler :HotSpot 64-Bit Tiered Compilers
+sun.stderr.encoding :UTF-8
+sun.stdout.encoding :UTF-8
+user.country :IN
+user.dir :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool
+user.home :/Users/kamalesh.g
+user.language :en
+user.name :kamalesh.g
+user.timezone :Asia/Kolkata
+vertx.disableDnsResolver :true
+vertx.disableTCCL :true
+vertx.disableWebsockets :true
+vertx.logger-delegate-factory-class-name :io.quarkus.vertx.core.runtime.VertxLogDelegateFactory
+vertxweb.environment :dev
+ORACLE_HOME=null
+ANT_HOME=null
+JAVA_HOME=/opt/homebrew/opt/openjdk
+JAVA_OPTS=null
+NLS_LANG=null
+NLS_SORT=null
+DB2CODEPAGE=null
+------------------
+os name Apple macOS 15.5 build 24F74
+cpu cores 14 CPU(s)
+cpu core 0 type LogicalProcessor [processorNumber=0, coreNumber=0, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 1 type LogicalProcessor [processorNumber=1, coreNumber=1, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 2 type LogicalProcessor [processorNumber=2, coreNumber=2, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 3 type LogicalProcessor [processorNumber=3, coreNumber=3, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 4 type LogicalProcessor [processorNumber=4, coreNumber=4, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 5 type LogicalProcessor [processorNumber=5, coreNumber=5, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 6 type LogicalProcessor [processorNumber=6, coreNumber=6, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 7 type LogicalProcessor [processorNumber=7, coreNumber=7, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 8 type LogicalProcessor [processorNumber=8, coreNumber=8, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 9 type LogicalProcessor [processorNumber=9, coreNumber=9, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 10 type LogicalProcessor [processorNumber=10, coreNumber=10, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 11 type LogicalProcessor [processorNumber=11, coreNumber=11, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 12 type LogicalProcessor [processorNumber=12, coreNumber=12, packageNumber=0, numaNode=0, processorGroup=0]
+cpu core 13 type LogicalProcessor [processorNumber=13, coreNumber=13, packageNumber=0, numaNode=0, processorGroup=0]
+ram total 48 GiB
+ram available 26.3 GiB
+File system roots returned byFileSystemView.getFileSystemView(): 
+Root:  /
+Home directory:  /Users/kamalesh.g
+File system roots returned by File.listRoots(): 
+Drive:  /
+Display name:  /
+Is drive:  false
+Is floppy:  false
+Readable:  true
+Writable:  false
+Total space:  994662584320
+Usable space:  547372539904
+computername M-KV07TXTVYN
+getAddress 192.168.60.59
+getCanonicalHostName 192.168.60.59
+getHostAddress 192.168.60.59
+isLoopbackAddress false
+jvm cores 14
+jvm free memory (bytes) 154165480
+jvm maximum memory (bytes):  12884901888
+jvm total memory (bytes):  243269632
+apple.awt.application.name :DevModeMain
+classworlds.conf :/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/bin/m2.conf
+debug :65317
+dev.resteasy.exception.mapper :false
+file.encoding :UTF-8
+file.separator :/
+ftp.nonProxyHosts :local|*.local|169.254/16|*.169.254/16
+guice.disable.misplaced.annotation.check :true
+http.nonProxyHosts :local|*.local|169.254/16|*.169.254/16
+idea.version :2025.1
+io.netty.allocator.disableCacheFinalizersForFastThreadLocalThreads :true
+io.netty.allocator.maxOrder :3
+io.netty.machineId :04:35:e0:94:3c:dc:c7:de
+io.quarkus.security.http.test-if-basic-auth-implicitly-required :true
+jansi.passthrough :true
+java.class.path :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool/target/siron-support-tool-dev.jar
+java.class.version :68.0
+java.home :/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home
+java.io.tmpdir :/var/folders/vb/5ghg_r2x2791ltn264jv17mw0000gp/T/
+java.library.path :/Users/kamalesh.g/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+java.nio.channels.DefaultThreadPool.threadFactory :io.quarkus.dev.io.NioThreadPoolThreadFactory
+java.runtime.name :Java(TM) SE Runtime Environment
+java.runtime.version :24.0.1+9-30
+java.specification.name :Java Platform API Specification
+java.specification.vendor :Oracle Corporation
+java.specification.version :24
+java.util.concurrent.ForkJoinPool.common.threadFactory :io.quarkus.bootstrap.forkjoin.QuarkusForkJoinWorkerThreadFactory
+java.util.logging.manager :org.jboss.logmanager.LogManager
+java.vendor :Oracle Corporation
+java.vendor.url :https://java.oracle.com/
+java.vendor.url.bug :https://bugreport.java.com/bugreport/
+java.version :24.0.1
+java.version.date :2025-04-15
+java.vm.compressedOopsMode :Zero based
+java.vm.info :mixed mode, emulated-client, sharing
+java.vm.name :Java HotSpot(TM) 64-Bit Server VM
+java.vm.specification.name :Java Virtual Machine Specification
+java.vm.specification.vendor :Oracle Corporation
+java.vm.specification.version :24
+java.vm.vendor :Oracle Corporation
+java.vm.version :24.0.1+9-30
+jboss.log-version :false
+jdk.console :java.base
+jdk.debug :release
+jna.loaded :true
+jna.platform.library.path :/usr/lib:/usr/lib
+jnidispatch.path :/Users/kamalesh.g/Library/Caches/JNA/temp/jna4001392467617807863.tmp
+logging.initial-configurator.min-level :500
+maven.conf :/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/conf
+maven.home :/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3
+maven.multiModuleProjectDirectory :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool
+native.encoding :UTF-8
+os.arch :aarch64
+os.name :Mac OS X
+os.version :15.5
+path.separator ::
+quarkus-internal.serialized-app-model.path :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool/target/quarkus/bootstrap/dev-app-model.dat
+socksNonProxyHosts :local|*.local|169.254/16|*.169.254/16
+stderr.encoding :UTF-8
+stdout.encoding :UTF-8
+sun.arch.data.model :64
+sun.awt.enableExtraMouseButtons :true
+sun.boot.library.path :/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/lib
+sun.cpu.endian :little
+sun.io.unicode.encoding :UnicodeBig
+sun.java.command :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool/target/siron-support-tool-dev.jar
+sun.java.launcher :SUN_STANDARD
+sun.jnu.encoding :UTF-8
+sun.management.compiler :HotSpot 64-Bit Tiered Compilers
+sun.stderr.encoding :UTF-8
+sun.stdout.encoding :UTF-8
+user.country :IN
+user.dir :/Users/kamalesh.g/Documents/CS-TOOLING/Quarkus-CS-tool/support-tool
+user.home :/Users/kamalesh.g
+user.language :en
+user.name :kamalesh.g
+user.timezone :Asia/Kolkata
+vertx.disableDnsResolver :true
+vertx.disableTCCL :true
+vertx.disableWebsockets :true
+vertx.logger-delegate-factory-class-name :io.quarkus.vertx.core.runtime.VertxLogDelegateFactory
+vertxweb.environment :dev
+ORACLE_HOME=null
+ANT_HOME=null
+JAVA_HOME=/opt/homebrew/opt/openjdk
+JAVA_OPTS=null
+NLS_LANG=null
+NLS_SORT=null
+DB2CODEPAGE=null

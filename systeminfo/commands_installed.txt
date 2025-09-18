@@ -394,3 +394,39 @@ success: command [bash --version] was found on this system.
 warning: command [ksh --version] was not found on this system!
 warning: command [cmd] was not found on this system!
 show which possible needed command line utilities are existing
+show which possible needed command line utilities are existing
+---------------------------------------------------------------
+warning: command [sqlplus -V] was not found on this system!
+warning: command [sqlldr] was not found on this system!
+warning: command [sqlcmd -?] was not found on this system!
+warning: command [bcp -v] was not found on this system!
+warning: command [db2level] was not found on this system!
+warning: command [find /?] was not found on this system!
+success: command [bash --version] was found on this system.
+warning: command [ksh --version] was not found on this system!
+warning: command [cmd] was not found on this system!
+show which possible needed command line utilities are existing
+show which possible needed command line utilities are existing
+---------------------------------------------------------------
+warning: command [sqlplus -V] was not found on this system!
+warning: command [sqlldr] was not found on this system!
+warning: command [sqlcmd -?] was not found on this system!
+warning: command [bcp -v] was not found on this system!
+warning: command [db2level] was not found on this system!
+warning: command [find /?] was not found on this system!
+success: command [bash --version] was found on this system.
+warning: command [ksh --version] was not found on this system!
+warning: command [cmd] was not found on this system!
+show which possible needed command line utilities are existing
+show which possible needed command line utilities are existing
+---------------------------------------------------------------
+warning: command [sqlplus -V] was not found on this system!
+warning: command [sqlldr] was not found on this system!
+warning: command [sqlcmd -?] was not found on this system!
+warning: command [bcp -v] was not found on this system!
+warning: command [db2level] was not found on this system!
+warning: command [find /?] was not found on this system!
+success: command [bash --version] was found on this system.
+warning: command [ksh --version] was not found on this system!
+warning: command [cmd] was not found on this system!
+show which possible needed command line utilities are existing
